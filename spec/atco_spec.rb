@@ -1,5 +1,6 @@
 require File.dirname(__FILE__) + '/spec_helper'
- 
+require 'json'
+
 describe Atco do
   
   before(:all) do
@@ -7,7 +8,11 @@ describe Atco do
   end
   
   it "should output file" do
-    puts Atco.parse('SVRTMAO009A-20091005.cif')
+    result = Atco.parse('SVRTMAO009A-20091005.cif')
+    File.open('../test.output', 'w+') do |f|
+      f.flush
+      f.write(JSON.pretty_generate(result))
+    end
   end
   
   it "should parse header" do

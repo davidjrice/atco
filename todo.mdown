@@ -10,6 +10,8 @@
 * 4a. Operator Record 1 **(DONE)**
 * 8. Bank Holiday Dates **(DONE)**
 
-* Iterate lines and parse each into an object from methods extracted above
-* Collate data in a procedural form
-* Output data
+* Iterate lines and parse each into an object from methods extracted above **(DONE)**
+* Collate data in a procedural form **(DONE)**
+* Output data **(DONE)**
+
+* Gemify the library

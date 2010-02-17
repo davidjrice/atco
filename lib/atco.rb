@@ -27,15 +27,41 @@ module Atco
       data = File.readlines(@path)
       
       objects = []
+      current_journey = nil
+      current_location = nil
+      locations = []
+      journeys = {}
+      header = nil
+      
       data.each do |line|
+        if line == data.first
+          header = parse_header(line)
+          next
+        end
         @@methods.each do |method,identifier|
           object = self.send("parse_#{method}", line)
           if object[:record_identity] && object[:record_identity] == identifier
+            current_journey = object if object[:record_identity] && object[:record_identity] == @@methods[:journey_header]
+            if object[:record_identity] && ( object[:record_identity] == @@methods[:location] ||  object[:record_identity] == @@methods[:additional_location_info] )
+              if object[:record_identity] == @@methods[:location]
+                current_location = object 
+              else
+                locations << [current_location, object]
+              end
+            end
+
+            if current_journey
+              if journeys[current_journey[:unique_journey_identifier]]
+                journeys[current_journey[:unique_journey_identifier]] << object
+              else
+                journeys[current_journey[:unique_journey_identifier]] = []
+              end
+            end
             objects << object
           end
         end
       end
-      return objects
+      return {:header => header, :locations => locations, :journeys => journeys}
     end
     
     def parse_header(string)
