@@ -68,10 +68,11 @@ module Atco
     def parse_destination(string)
       {
         :record_identity => string[0,2],
-        :transaction_type => string[2,1],
-        :location => string[3,12].strip,
-        :full_location => string[15,48].strip,
-        :gazetteer_code => string[63,1]
+        :location => string[2,12],
+        :published_arrival_time => string[14,4],
+        :bay_number => string[18,3].strip,
+        :timing_point_indicator => string[21,2],
+        :fare_stage_indicator => string[23,2]
       }
     end
     
