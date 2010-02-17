@@ -2,7 +2,7 @@
 
 ATCO-CIF is the format of choice for UK public transport authorities. This is a ruby library that reads **.cif** files and gives you JSON back.
 
-* **Official spec:** http://www.pti.org.uk/CIF/atco-cif-spec.pdf
+* **Official spec:** [http://www.pti.org.uk/CIF/atco-cif-spec.pdf](http://www.pti.org.uk/CIF/atco-cif-spec.pdf)
 
 ### USAGE
 
