@@ -1,0 +1,156 @@
+ATCO-CIF0500Electronic Registration         MIA 4.20.18     20090915120745
+QLN700000001429Queen Street                                    1 
+QBN700000001429  333623  374241                                                
+GS00001429 N                    Belfast Metro Ops                                 7000
+GR00001429Queen Street                                                                                        7000
+QLN700000001824Castle Street                                   0 
+QBN700000001824  333567  374293                                                
+GS00001824 N                    Belfast Metro Ops                                 7000
+GR00001824Castle Street                                                                                       7000
+QLN700000000048Blacks Rd(Balmoral Hotel)                       1 
+QBN700000000048  329522  369856                                                
+GS00000048 N                    Belfast Metro Ops                                 7000
+GR00000048Blacks Road                                                                                         7000
+QLN700000000050Blacks Road(Garnock Hill)                       0 
+QBN700000000050  329338  370118                                                
+GS00000050 N                    Belfast Metro Ops                                 7000
+GR00000050Blacks Road                                                                                         7000
+QLN700000000052Blacks Road(Brooke Drive)                       0 
+QBN700000000052  329159  370253                                                
+GS00000052 N                    Belfast Metro Ops                                 7000
+GR00000052Blacks Road                                                                                         7000
+QLN700000001130Ladybrook(Turning Circle)                       1 
+QBN700000001130  329407  370422                                                
+GS00001130 N                    Belfast Metro Ops                                 7000
+GR00001130Ladybrook Cross                                                                                     7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO214 T02O
+ZD20091005        Monday to Friday                                                      FFFFF00
+ZSTMAO214 214 City Centre - Black's Road - Ladybrook                                                              
+ZAN700000001429                                                P1W1T1
+ZAN700000001824                                                P0W0T0
+ZAN700000000048                                                P1W1T1
+ZAN700000000050                                                P0W0T0
+ZAN700000000052                                                P0W0T0
+ZAN700000001130                                                P1W1T1
+QSNTM  14418520091005        1111100  214 91F02 0               O
+ZJTMAO214 002  1  60     000CB   1640    1102    C         FFFFF00L0
+QO7000000014291640   T1F0
+ZECH0      164000164000P0W0
+QI70000000182416401640B   T0F0
+ZECH0      164014164014P0W0
+QI70000000004816551655B   T1F0
+ZECH0      165500165500P0W0
+QI70000000005016571657B   T0F0
+ZECH0      165707165707P0W0
+QI70000000005216581658B   T0F0
+ZECH0      165841165841P0W0
+QT7000000011301702   T1F0
+ZECH0      170200170200P0W0
+QSNTM  14418620091005        1111100  214 91F01 0               O
+ZJTMAO214 002  1  60     000CB   1740    1110    C         FFFFF00L0
+QO7000000014291740   T1F0
+ZECH0      174000174000P0W0
+QI70000000182417401740B   T0F0
+ZECH0      174014174014P0W0
+QI70000000004817551755B   T1F0
+ZECH0      175500175500P0W0
+QI70000000005017561756B   T0F0
+ZECH0      175630175630P0W0
+QI70000000005217571757B   T0F0
+ZECH0      175738175738P0W0
+QT7000000011301800   T1F0
+ZECH0      180000180000P0W0
+QLN700000001130Ladybrook(Turning Circle)                       1 
+QBN700000001130  329407  370422                                                
+GS00001130 N                    Belfast Metro Ops                                 7000
+GR00001130Ladybrook Cross                                                                                     7000
+QLN700000014736Blacks Road(Brooke Drive)                       0 
+QBN700000014736  329150  370267                                                
+GS00014736 N                    Belfast Metro Ops                                 7000
+GR00014736Blacks Road                                                                                         7000
+QLN700000000062Blacks Road(Brook Park)                         0 
+QBN700000000062  329348  370130                                                
+GS00000062 N                    Belfast Metro Ops                                 7000
+GR00000062Blacks Road                                                                                         7000
+QLN700000000064Blacks Road(Balmoral Hotel)                     0 
+QBN700000000064  329511  369899                                                
+GS00000064 N                    Belfast Metro Ops                                 7000
+GR00000064Blacks Road                                                                                         7000
+QLN700000000066Blacks Road(M1 Onslip)                          1 
+QBN700000000066  329611  369738                                                
+GS00000066 N                    Belfast Metro Ops                                 7000
+GR00000066Blacks Road                                                                                         7000
+QLN700000001800Gt Vic Bus Lane                                 0 
+QBN700000001800  332669  373430                                                
+GS00001800 N                    Belfast Metro Ops                                 7000
+GR00001800Gt Vic Bus Lane                                                                                     7000
+QLN700000000240Europa Stand One                                1 
+QBN700000000240  333439  373811                                                
+GS00000240 N                    Belfast Metro Ops                                 7000
+GR00000240Europa Buscentre                                                                                    7000
+QLN700000001425Wellington Place                                1 
+QBN700000001425  333569  374067                                                
+GS00001425 N                    Belfast Metro Ops                                 7000
+GR00001425Wellington Place                                                                                    7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO214 T03I
+ZD20091005        Monday to Friday                                                      FFFFF00
+ZSTMAO214 214 Ladybrook - Black's Road - City Centre                                                              
+ZAN700000001130                                                P1W1T1
+ZAN700000014736                                                P0W0T0
+ZAN700000000062                                                P0W0T0
+ZAN700000000064                                                P0W0T0
+ZAN700000000066                                                P1W1T1
+ZAN700000001800                                                P0W0T0
+ZAN700000000240                                                P1W1T1
+ZAN700000001425                                                P1W1T1
+QSNTM  14418720091005        1111100  214 57F01 0               I
+ZJTMAO214 003  1  80     000CB   740     1104    C         FFFFF00L0
+QO7000000011300740   T1F0
+ZECH0      074000074000P0W0
+QI70000001473607410741B   T0F0
+ZECH0      074112074112P0W0
+QI70000000006207410741B   T0F0
+ZECH0      074149074149P0W0
+QI70000000006407420742B   T0F0
+ZECH0      074230074230P0W0
+QI70000000006607430743B   T1F0
+ZECH0      074300074300P0W0
+QI70000000180007520752B   T0F0
+ZECH0      075220075220P0W0
+QI70000000024007540754B   T1F0
+ZECH0      075400075400P0W0
+QT7000000014250800   T1F0
+ZECH0      080000080000P0W0
+QSNTM  14418820091005        1111100  214 99F31 0               I
+ZJTMAO214 003  1  80     000CB   810     1114    C         FFFFF00L0
+QO7000000011300810   T1F0
+ZECH0      081000081000P0W0
+QI70000001473608110811B   T0F0
+ZECH0      081112081112P0W0
+QI70000000006208110811B   T0F0
+ZECH0      081149081149P0W0
+QI70000000006408120812B   T0F0
+ZECH0      081230081230P0W0
+QI70000000006608130813B   T1F0
+ZECH0      081300081300P0W0
+QI70000000180008240824B   T0F0
+ZECH0      082402082402P0W0
+QI70000000024008260826B   T1F0
+ZECH0      082600082600P0W0
+QT7000000014250832   T1F0
+ZECH0      083200083200P0W0
+QVN0       Bus                     
+QHN20061225
+QHN20061226
+QHN20070101
+QHN20070406
+QHN20070409
+QHN20070507
+QHN20070528
+QHN20070827
+QHN20071225
+QHN20071226

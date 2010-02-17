@@ -1,0 +1,14 @@
+8. Bank Holiday Dates
+
+4a. Operator Record 1
+
+
+2b. Additional Location Information Record
+2a. Location record
+
+1f. Destination Record
+1e. Intermediate Record
+1d. Origin Record
+1a. Journey Header
+
+0. File Header

@@ -1,0 +1,1024 @@
+ATCO-CIF0500Electronic Registration         MIA 4.20.18     20090915120333
+QLN700000001436Chichester Street                               1 
+QBN700000001436  333948  374106                                                
+GS00001436 N                    Belfast Metro Ops                                 7000
+GR00001436Chichester St.                                                                                      7000
+QLN700000000001Queens Square                                   1 
+QBN700000000001  334225  374495                                                
+GS00000001 N                    Belfast Metro Ops                                 7000
+GR00000001Queens Square                                                                                       7000
+QLN700000000121Waterfront Hall                                 0 
+QBN700000000121  334394  374103                                                
+GS00000121 N                    Belfast Metro Ops                                 7000
+GR00000121Oxford Street                                                                                       7000
+QLN700000000123East Bridge St.(Central Station)                1 
+QBN700000000123  334697  373937                                                
+GS00000123 N                    Belfast Metro Ops                                 7000
+GR00000123East Bridge Street                                                                                  7000
+QLN700000000447Short Strand/Ravenhill Road                     1 
+QBN700000000447  335066  373896                                                
+GS00000447 N                    Belfast Metro Ops                                 7000
+GR00000447Ravenhill Road                                                                                      7000
+QLN700000014757Cromac Place 89                                 0 
+QBN700000014757  334226  373805                                                
+GS00014757 N                    Belfast Metro Ops                                 7000
+GR00014757Cromac Place                                                                                        7000
+QLN700000000325Cromac Wood                                     1 
+QBN700000000325  334139  373443                                                
+GS00000325 N                    Belfast Metro Ops                                 7000
+GR00000325Ormeau Road                                                                                         7000
+QLN700000000329Shaftesbury Rugby Round                         0 
+QBN700000000329  334281  372961                                                
+GS00000329 N                    Belfast Metro Ops                                 7000
+GR00000329Ormeau Road                                                                                         7000
+QLN700000000331Hatfield Street                                 0 
+QBN700000000331  334325  372811                                                
+GS00000331 N                    Belfast Metro Ops                                 7000
+GR00000331Ormeau Road                                                                                         7000
+QLN700000000289Ormeau Road(Agincourt Avenue)                   1 
+QBN700000000289  334373  372635                                                
+GS00000289 N                    Belfast Metro Ops                                 7000
+GR00000289Ormeau Road                                                                                         7000
+QLN700000000449Shamrock Street                                 0 
+QBN700000000449  335084  373634                                                
+GS00000449 N                    Belfast Metro Ops                                 7000
+GR00000449Ravenhill Road                                                                                      7000
+QLN700000000451My Ladys Road                                   0 
+QBN700000000451  335133  373454                                                
+GS00000451 N                    Belfast Metro Ops                                 7000
+GR00000451Ravenhill Road                                                                                      7000
+QLN700000000453216 Ravenhill Road                              0 
+QBN700000000453  335127  373297                                                
+GS00000453 N                    Belfast Metro Ops                                 7000
+GR00000453Ravenhill Road                                                                                      7000
+QLN700000000455252 Ravenhill Road                              0 
+QBN700000000455  335114  373123                                                
+GS00000455 N                    Belfast Metro Ops                                 7000
+GR00000455Ravenhill Road                                                                                      7000
+QLN70000000045751 Ravenhill Road                               0 
+QBN700000000457  335091  372877                                                
+GS00000457 N                    Belfast Metro Ops                                 7000
+GR00000457Ravenhill Road                                                                                      7000
+QLN700000000461454 Ravenhill Road                              0 
+QBN700000000461  335036  372243                                                
+GS00000461 N                    Belfast Metro Ops                                 7000
+GR00000461Ravenhill Road                                                                                      7000
+QLN700000000463Ravenhill Park                                  0 
+QBN700000000463  335024  372115                                                
+GS00000463 N                    Belfast Metro Ops                                 7000
+GR00000463Ravenhill Road                                                                                      7000
+QLN700000000465Aquinas                                         0 
+QBN700000000465  335000  371860                                                
+GS00000465 N                    Belfast Metro Ops                                 7000
+GR00000465Ravenhill Road                                                                                      7000
+QLN700000000467Cherryvale Park                                 0 
+QBN700000000467  334979  371582                                                
+GS00000467 N                    Belfast Metro Ops                                 7000
+GR00000467Ravenhill Road                                                                                      7000
+QLN700000000469694 Ravenhill Road                              1 
+QBN700000000469  334957  371341                                                
+GS00000469 N                    Belfast Metro Ops                                 7000
+GR00000469Ravenhill Road                                                                                      7000
+QLN700000000333Rosetta(Knockbreda Road)                        1 
+QBN700000000333  335090  371127                                                
+GS00000333 N                    Belfast Metro Ops                                 7000
+GR00000333Knockbreda Road                                                                                     7000
+QLN700000000335Knock Eden                                      0 
+QBN700000000335  335264  371239                                                
+GS00000335 N                    Belfast Metro Ops                                 7000
+GR00000335Knockbreda Road                                                                                     7000
+QLN700000000337Mt.Merrion Park                                 0 
+QBN700000000337  335519  371271                                                
+GS00000337 N                    Belfast Metro Ops                                 7000
+GR00000337Rosetta Road                                                                                        7000
+QLN700000000339Wynchurch                                       0 
+QBN700000000339  335638  371270                                                
+GS00000339 N                    Belfast Metro Ops                                 7000
+GR00000339Rosetta Road                                                                                        7000
+QLN700000000341Mount Merrion, Rosetta Road                     1 
+QBN700000000341  335764  371214                                                
+GS00000341 N                    Belfast Metro Ops                                 7000
+GR00000341Rosetta Road                                                                                        7000
+QLN700000000343Mount Merrion, Rosetta Road                     0 
+QBN700000000343  335786  371189                                                
+GS00000343 N                    Belfast Metro Ops                                 7000
+GR00000343Rosetta Road                                                                                        7000
+QLN700000000345Wynchurch                                       0 
+QBN700000000345  335606  371263                                                
+GS00000345 N                    Belfast Metro Ops                                 7000
+GR00000345Rosetta Road                                                                                        7000
+QLN700000000347Knock Eden                                      0 
+QBN700000000347  335315  371241                                                
+GS00000347 N                    Belfast Metro Ops                                 7000
+GR00000347Knockbreda Road                                                                                     7000
+QLN700000000349Rosetta(Knockbreda Road)                        1 
+QBN700000000349  335039  371118                                                
+GS00000349 N                    Belfast Metro Ops                                 7000
+GR00000349Knockbreda Road                                                                                     7000
+QLN700000000291Ormeau Park                                     0 
+QBN700000000291  334442  372380                                                
+GS00000291 N                    Belfast Metro Ops                                 7000
+GR00000291Ormeau Road                                                                                         7000
+QLN700000000293Candahar Street                                 0 
+QBN700000000293  334497  372232                                                
+GS00000293 N                    Belfast Metro Ops                                 7000
+GR00000293Ormeau Road                                                                                         7000
+QLN700000000295South Parade                                    0 
+QBN700000000295  334575  372066                                                
+GS00000295 N                    Belfast Metro Ops                                 7000
+GR00000295Ormeau Road                                                                                         7000
+QLN700000000297Ulidia                                          0 
+QBN700000000297  334671  371858                                                
+GS00000297 N                    Belfast Metro Ops                                 7000
+GR00000297Ormeau Road                                                                                         7000
+QLN700000000299Ballynafeigh                                    0 
+QBN700000000299  334811  371550                                                
+GS00000299 N                    Belfast Metro Ops                                 7000
+GR00000299Ormeau Road                                                                                         7000
+QLN700000000301Nazareth House                                  0 
+QBN700000000301  334906  371343                                                
+GS00000301 N                    Belfast Metro Ops                                 7000
+GR00000301Ormeau Road                                                                                         7000
+QLN700000000303Rosetta(St John's Church)                       1 
+QBN700000000303  334969  371046                                                
+GS00000303 N                    Belfast Metro Ops                                 7000
+GR00000303Ormeau Road                                                                                         7000
+QLN700000000305Hampton Park                                    0 
+QBN700000000305  334998  370747                                                
+GS00000305 N                    Belfast Metro Ops                                 7000
+GR00000305Ormeau Road                                                                                         7000
+QLN700000000311Forestside                                      1 
+QBN700000000311  335155  370490                                                
+GS00000311 N                    Belfast Metro Ops                                 7000
+GR00000311Saintfield Road                                                                                     7000
+QLN700000000379Forestside                                      0 
+QBN700000000379  335253  370264                                                
+GS00000379 N                    Belfast Metro Ops                                 7000
+GR00000379Saintfield Road                                                                                     7000
+QLN70000001462914 Newtownbreda Rd                              0 
+QBN700000014629  335168  370009                                                
+GS00014629 N                    Belfast_Laganside                                 7000
+GR00014629Newtownbreda Rd                                                                                     7000
+QLN700000014630Top Stop Belvoir Dr                             0 
+QBN700000014630  334573  369208                                                
+GS00014630 N                    Belfast Metro Ops                                 7000
+GR00014630Belvoir Dr                                                                                          7000
+QLN700000014656Belvoir Dr (Greenwood Lodge)                    0 
+QBN700000014656  334308  369213                                                
+GS00014656 N                    Belfast Metro Ops                                 7000
+GR00014656Belvoir Dr                                                                                          7000
+QLN700000014655Belvoir Dr (Boys Brigade Rd)                    0 
+QBN700000014655  334028  369199                                                
+GS00014655 N                    Belfast Metro Ops                                 7000
+GR00014655Belvoir Dr                                                                                          7000
+QLN700000014633Belvoir Primary School                          1 
+QBN700000014633  333875  369022                                                
+GS00014633 N                    Belfast Metro Ops                                 7000
+GR00014633Belvoir Dr                                                                                          7000
+QLN700000014634147A Belvoir Dr                                 0 
+QBN700000014634  333532  368942                                                
+GS00014634 N                    Belfast Metro Ops                                 7000
+GR00014634Belvoir Dr                                                                                          7000
+QLN700000014635Moyle Walk                                      0 
+QBN700000014635  333349  368974                                                
+GS00014635 N                    Belfast Metro Ops                                 7000
+GR00014635Belvoir Dr                                                                                          7000
+QLN700000014636175 Nelvoir Dr                                  0 
+QBN700000014636  333256  368788                                                
+GS00014636 N                    Belfast Metro Ops                                 7000
+GR00014636Belvoir Dr                                                                                          7000
+QLN700000014637Old Milltown Rd                                 0 
+QBN700000014637  333282  368597                                                
+GS00014637 N                    Belfast Metro Ops                                 7000
+GR00014637Old Milltown Rd                                                                                     7000
+QLN700000014638Taylor Court Old Milltown Rd                    0 
+QBN700000014638  333630  368546                                                
+GS00014638 N                    Belfast Metro Ops                                 7000
+GR00014638Old Milltown Rd                                                                                     7000
+QLN700000014649Hydebank R/Bout                                 0 
+QBN700000014649  333979  368333                                                
+GS00014649 N                    Belfast Metro Ops                                 7000
+GR00014649Milltown Rd                                                                                         7000
+QLN700000014640Hospital Rd                                     1 
+QBN700000014640  334144  368319                                                
+GS00014640 N                    Belfast Metro Ops                                 7000
+GR00014640Hospital Road                                                                                       7000
+QLN700000015040Newtownbreda Rd (Greer Pk Ave)                  1 
+QBN700000015040  334235  368503                                                
+GS00015040 N                    Belfast Metro Ops                                 7000
+GR00015040Newtownbreda Rd                                                                                     7000
+QLN700000014641Purdysburn Rd Bus Stop                          1 
+QBN700000014641  334370  368285                                                
+GS00014641 N                    Belfast Metro Ops                                 7000
+GR00014641Purdysburn Road                                                                                     7000
+QLN700000014642Alderwood Hill                                  0 
+QBN700000014642  334817  368191                                                
+GS00014642 N                    Belfast Metro Ops                                 7000
+GR00014642Purdysburn Road                                                                                     7000
+QLN700000014643Royal Lodge Rd                                  0 
+QBN700000014643  335352  368359                                                
+GS00014643 N                    Belfast Metro Ops                                 7000
+GR00014643Purdysburn Road                                                                                     7000
+QLN70000001464431 Beechill Rd                                  0 
+QBN700000014644  335340  368624                                                
+GS00014644 N                    Belfast Metro Ops                                 7000
+GR00014644Beechill Rd                                                                                         7000
+QLN700000014645Beechill Rd (Cedarhurst Rd)                     1 
+QBN700000014645  335010  368945                                                
+GS00014645 N                    Belfast Metro Ops                                 7000
+GR00014645Beechill Rd                                                                                         7000
+QLN700000014994Lower Beechill Road                             0 
+QBN700000014994  334760  369150                                                
+GS00014994 N                    Belfast Metro Ops                                 7000
+QLN700000014997Tesco Newtownbreda                              1 
+QBN700000014997  334555  368920                                                
+GS00014997 N                    Belfast Metro Ops                                 7000
+QLN700000000313Forster Green                                   0 
+QBN700000000313  335301  370074                                                
+GS00000313 N                    Belfast Metro Ops                                 7000
+GR00000313Saintfield Road                                                                                     7000
+QLN700000000315Saintfield Road (Mt. Oriel)                     1 
+QBN700000000315  335313  369828                                                
+GS00000315 N                    Belfast Metro Ops                                 7000
+GR00000315Saintfield Road                                                                                     7000
+QLN700000000363Glendale                                        0 
+QBN700000000363  335542  369770                                                
+GS00000363 N                    Belfast Metro Ops                                 7000
+GR00000363Newton Park                                                                                         7000
+QLN700000000365Newton Park(Colby)                              1 
+QBN700000000365  335705  369685                                                
+GS00000365 N                    Belfast Metro Ops                                 7000
+GR00000365Newton Park                                                                                         7000
+QLN700000000367Glenholm                                        0 
+QBN700000000367  335879  369620                                                
+GS00000367 N                    Belfast Metro Ops                                 7000
+GR00000367Newton Park                                                                                         7000
+QLN700000000369Four Winds Park                                 0 
+QBN700000000369  336149  369580                                                
+GS00000369 N                    Belfast Metro Ops                                 7000
+GR00000369Newton Park                                                                                         7000
+QLN700000000361Four Winds (Ballymaconaghy Road)                1 
+QBN700000000361  336406  369595                                                
+GS00000361 N                    Belfast Metro Ops                                 7000
+GR00000361Ballymaconaghy Road                                                                                 7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO077 T01O
+ZD20091005        Monday to Friday                                                      FFFFF00
+ZSTMAO079 79  City Centre - Mount Merrion - Four Winds                                                            
+ZAN700000001436                                                P1W1T1
+ZAN700000000001                                                P0W1T1
+ZAN700000000121                                                P0W0T0
+ZAN700000000123                                                P1W1T1
+ZAN700000000447                                                P1W1T1
+ZAN700000014757                                                P0W0T0
+ZAN700000000325                                                P1W1T1
+ZAN700000000329                                                P0W0T0
+ZAN700000000331                                                P0W0T0
+ZAN700000000289                                                P1W1T1
+ZAN700000000449                                                P0W0T0
+ZAN700000000451                                                P0W0T0
+ZAN700000000453                                                P0W0T0
+ZAN700000000455                                                P0W0T0
+ZAN700000000457                                                P0W0T0
+ZAN700000000461                                                P0W0T0
+ZAN700000000463                                                P0W0T0
+ZAN700000000465                                                P0W0T0
+ZAN700000000467                                                P0W0T0
+ZAN700000000469                                                P1W1T1
+ZAN700000000333                                                P1W1T1
+ZAN700000000335                                                P0W0T0
+ZAN700000000337                                                P0W0T0
+ZAN700000000339                                                P0W0T0
+ZAN700000000341                                                P1W1T1
+ZAN700000000343                                                P0W0T0
+ZAN700000000345                                                P0W0T0
+ZAN700000000347                                                P0W0T0
+ZAN700000000349                                                P0W1T1
+ZAN700000000291                                                P0W0T0
+ZAN700000000293                                                P0W0T0
+ZAN700000000295                                                P0W0T0
+ZAN700000000297                                                P0W0T0
+ZAN700000000299                                                P0W0T0
+ZAN700000000301                                                P0W0T0
+ZAN700000000303                                                P1W1T1
+ZAN700000000305                                                P0W0T0
+ZAN700000000311                                                P1W1T1
+ZAN700000000379                                                P0W0T0
+ZAN700000014629                                                P0W0T0
+ZAN700000014630                                                P0W0T0
+ZAN700000014656                                                P0W0T0
+ZAN700000014655                                                P0W0T0
+ZAN700000014633                                                P1W1T1
+ZAN700000014634                                                P0W0T0
+ZAN700000014635                                                P0W0T0
+ZAN700000014636                                                P0W0T0
+ZAN700000014637                                                P0W0T0
+ZAN700000014638                                                P0W0T0
+ZAN700000014649                                                P0W0T0
+ZAN700000014640                                                P1W1T1
+ZAN700000015040                                                P1W1T1
+ZAN700000014641                                                P1W1T1
+ZAN700000014642                                                P0W0T0
+ZAN700000014643                                                P0W0T0
+ZAN700000014644                                                P0W0T0
+ZAN700000014645                                                P1W1T1
+ZAN700000014994                                                P0W0T0
+ZAN700000014997                                                P1W1T1
+ZAN700000000313                                                P0W0T0
+ZAN700000000315                                                P1W1T1
+ZAN700000000363                                                P0W0T0
+ZAN700000000365                                                P1W1T1
+ZAN700000000367                                                P0W0T0
+ZAN700000000369                                                P0W0T0
+ZAN700000000361                                                P1W1T1
+QSNTM  14369320091005        1111100  79  79S51 0               O
+ZJTMAO079 001  1 660     000CB   1700    2145    C         FFFFF00L0
+QO7000000014361700   T1F0
+ZECH0      170000170000P0W0
+QI70000000000117021702B   T1F0
+ZECH0      170200170200P0W0
+QI70000000012117041704B   T0F0
+ZECH0      170402170402P0W0
+QI70000000012317061706B   T1F0
+ZECH0      170600170600P0W0
+QI70000000044717091709B   T1F0
+ZECH0      170900170900P0W0
+QI70000000044917091709B   T0F0
+ZECH0      170948170948P0W0
+QI70000000045117101710B   T0F0
+ZECH0      171018171018P0W0
+QI70000000045317101710B   T0F0
+ZECH0      171044171044P0W0
+QI70000000045517111711B   T0F0
+ZECH0      171113171113P0W0
+QI70000000045717111711B   T0F0
+ZECH0      171155171155P0W0
+QI70000000046117131713B   T0F0
+ZECH0      171341171341P0W0
+QI70000000046517141714B   T0F0
+ZECH0      171432171432P0W0
+QI70000000046717151715B   T0F0
+ZECH0      171519171519P0W0
+QI70000000046917161716B   T1F0
+ZECH0      171600171600P0W0
+QI70000000033317171717B   T1F0
+ZECH0      171700171700P0W0
+QI70000000033517181718B   T0F0
+ZECH0      171818171818P0W0
+QI70000000033717191719B   T0F0
+ZECH0      171939171939P0W0
+QI70000000033917201720B   T0F0
+ZECH0      172016172016P0W0
+QI70000000034117211721B   T1F0
+ZECH0      172100172100P0W0
+QI70000000034317211721B   T0F0
+ZECH0      172126172126P0W0
+QI70000000034517211721B   T0F0
+ZECH0      172151172151P0W0
+QI70000000034717221722B   T0F0
+ZECH0      172227172227P0W0
+QI70000000034917231723B   T1F0
+ZECH0      172300172300P0W0
+QI70000000030317251725B   T1F0
+ZECH0      172500172500P0W0
+QI70000000030517261726B   T0F0
+ZECH0      172633172633P0W0
+QI70000000031117281728B   T1F0
+ZECH0      172800172800P0W0
+QI70000000037917291729B   T0F0
+ZECH0      172923172923P0W0
+QI70000000031317301730B   T0F0
+ZECH0      173033173033P0W0
+QI70000000031517321732B   T1F0
+ZECH0      173200173200P0W0
+QI70000000036317331733B   T0F0
+ZECH0      173352173352P0W0
+QI70000000036517351735B   T1F0
+ZECH0      173500173500P0W0
+QI70000000036717351735B   T0F0
+ZECH0      173541173541P0W0
+QI70000000036917361736B   T0F0
+ZECH0      173643173643P0W0
+QT7000000003611738   T1F0
+ZECH0      173800173800P0W0
+QSNTM  14369720091005        1111100  79  7S06  0               O
+ZJTMAO079 001  1 660     000CB   1750    2370    C         FFFFF00L0
+QO7000000014361750   T1F0
+ZECH0      175000175000P0W0
+QI70000000000117521752B   T1F0
+ZECH0      175200175200P0W0
+QI70000000012117531753B   T0F0
+ZECH0      175331175331P0W0
+QI70000000012317551755B   T1F0
+ZECH0      175500175500P0W0
+QI70000000044717571757B   T1F0
+ZECH0      175700175700P0W0
+QI70000000044917571757B   T0F0
+ZECH0      175734175734P0W0
+QI70000000045117571757B   T0F0
+ZECH0      175756175756P0W0
+QI70000000045317581758B   T0F0
+ZECH0      175814175814P0W0
+QI70000000045517581758B   T0F0
+ZECH0      175835175835P0W0
+QI70000000045717591759B   T0F0
+ZECH0      175905175905P0W0
+QI70000000046118001800B   T0F0
+ZECH0      180021180021P0W0
+QI70000000046518001800B   T0F0
+ZECH0      180057180057P0W0
+QI70000000046718011801B   T0F0
+ZECH0      180131180131P0W0
+QI70000000046918021802B   T1F0
+ZECH0      180200180200P0W0
+QI70000000033318031803B   T1F0
+ZECH0      180300180300P0W0
+QI70000000033518031803B   T0F0
+ZECH0      180359180359P0W0
+QI70000000033718041804B   T0F0
+ZECH0      180459180459P0W0
+QI70000000033918051805B   T0F0
+ZECH0      180527180527P0W0
+QI70000000034118061806B   T1F0
+ZECH0      180600180600P0W0
+QI70000000034318061806B   T0F0
+ZECH0      180626180626P0W0
+QI70000000034518061806B   T0F0
+ZECH0      180651180651P0W0
+QI70000000034718071807B   T0F0
+ZECH0      180727180727P0W0
+QI70000000034918081808B   T1F0
+ZECH0      180800180800P0W0
+QI70000000030318091809B   T1F0
+ZECH0      180900180900P0W0
+QI70000000030518101810B   T0F0
+ZECH0      181002181002P0W0
+QI70000000031118111811B   T1F0
+ZECH0      181100181100P0W0
+QI70000000037918121812B   T0F0
+ZECH0      181202181202P0W0
+QI70000000031318121812B   T0F0
+ZECH0      181254181254P0W0
+QI70000000031518141814B   T1F0
+ZECH0      181400181400P0W0
+QI70000000036318151815B   T0F0
+ZECH0      181515181515P0W0
+QI70000000036518161816B   T1F0
+ZECH0      181600181600P0W0
+QI70000000036718161816B   T0F0
+ZECH0      181627181627P0W0
+QI70000000036918171817B   T0F0
+ZECH0      181709181709P0W0
+QT7000000003611818   T1F0
+ZECH0      181800181800P0W0
+QLN700000000361Four Winds (Ballymaconaghy Road)                1 
+QBN700000000361  336406  369595                                                
+GS00000361 N                    Belfast Metro Ops                                 7000
+GR00000361Ballymaconaghy Road                                                                                 7000
+QLN700000000371Four Winds Park                                 0 
+QBN700000000371  336129  369575                                                
+GS00000371 N                    Belfast Metro Ops                                 7000
+GR00000371Newton Park                                                                                         7000
+QLN700000000373Glenholm                                        0 
+QBN700000000373  335876  369613                                                
+GS00000373 N                    Belfast Metro Ops                                 7000
+GR00000373Newton Park                                                                                         7000
+QLN700000000375Newton Park(Colby)                              1 
+QBN700000000375  335744  369665                                                
+GS00000375 N                    Belfast Metro Ops                                 7000
+GR00000375Newton Park                                                                                         7000
+QLN700000000377Glendale                                        0 
+QBN700000000377  335562  369736                                                
+GS00000377 N                    Belfast Metro Ops                                 7000
+GR00000377Newton Park                                                                                         7000
+QLN700000000405Saintfield Road(Mount Oriel)                    1 
+QBN700000000405  335305  369826                                                
+GS00000405 N                    Belfast Metro Ops                                 7000
+GR00000405Saintfield Road                                                                                     7000
+QLN700000014997Tesco Newtownbreda                              1 
+QBN700000014997  334555  368920                                                
+GS00014997 N                    Belfast Metro Ops                                 7000
+QLN700000014994Lower Beechill Road                             0 
+QBN700000014994  334760  369150                                                
+GS00014994 N                    Belfast Metro Ops                                 7000
+QLN700000014995Newtownbreda Factory Estate                     1 
+QBN700000014995  334988  368971                                                
+GS00014995 N                    Belfast Metro Ops                                 7000
+QLN700000014996355 Beechill Road                               0 
+QBN700000014996  335340  368650                                                
+GS00014996 N                    Belfast Metro Ops                                 7000
+QLN700000014765Royal Lodge                                     0 
+QBN700000014765  335380  368380                                                
+GS00014765 N                    Belfast Metro Ops                                 7000
+GR00014765Purdysburn Road                                                                                     7000
+QLN700000014766Greenwood Glen                                  0 
+QBN700000014766  334750  368190                                                
+GS00014766 N                    Belfast Metro Ops                                 7000
+GR00014766Purdysburn Road                                                                                     7000
+QLN700000014767Little Alderwood                                1 
+QBN700000014767  334370  368260                                                
+GS00014767 N                    Belfast Metro Ops                                 7000
+GR00014767Purdysburn Road                                                                                     7000
+QLN700000014647Newtownbreda Rd(Trading Standard)               0 
+QBN700000014647  334436  368907                                                
+GS00014647 N                    Belfast Metro Ops                                 7000
+GR00014647Newtownbreda Rd                                                                                     7000
+QLN700000014648Newtownbreda Rd (Greer Pk Ave)                  1 
+QBN700000014648  334253  368528                                                
+GS00014648 N                    Belfast Metro Ops                                 7000
+GR00014648Newtownbreda Rd                                                                                     7000
+QLN700000001185Hydebank                                        0 
+QBN700000001185  334088  368287                                                
+GS00001185 N                    Belfast Metro Ops                                 7000
+GR00001185Hospital Road                                                                                       7000
+QLN700000014649Hydebank R/Bout                                 1 
+QBN700000014649  333979  368333                                                
+GS00014649 N                    Belfast Metro Ops                                 7000
+GR00014649Milltown Rd                                                                                         7000
+QLN700000014650Milltown Rd (Maxol Garage)                      0 
+QBN700000014650  333445  368513                                                
+GS00014650 N                    Belfast Metro Ops                                 7000
+GR00014650Milltown Rd                                                                                         7000
+QLN700000014651246 Belvoir Dr                                  0 
+QBN700000014651  333256  368856                                                
+GS00014651 N                    Belfast Metro Ops                                 7000
+GR00014651Belvoir Dr                                                                                          7000
+QLN700000014652190 Belvoir Drive                               0 
+QBN700000014652  333414  368992                                                
+GS00014652 N                    Belfast Metro Ops                                 7000
+GR00014652Belvoir Dr                                                                                          7000
+QLN700000014653134A Belvoir Dr                                 0 
+QBN700000014653  333587  368900                                                
+GS00014653 N                    Belfast Metro Ops                                 7000
+GR00014653Belvoir Dr                                                                                          7000
+QLN700000014654Belvoir Primary School                          1 
+QBN700000014654  333840  369000                                                
+GS00014654 N                    Belfast Metro Ops                                 7000
+GR00014654Belvoir Dr                                                                                          7000
+QLN700000014655Belvoir Dr (Boys Brigade Rd)                    0 
+QBN700000014655  334028  369199                                                
+GS00014655 N                    Belfast Metro Ops                                 7000
+GR00014655Belvoir Dr                                                                                          7000
+QLN700000014656Belvoir Dr (Greenwood Lodge)                    0 
+QBN700000014656  334308  369213                                                
+GS00014656 N                    Belfast Metro Ops                                 7000
+GR00014656Belvoir Dr                                                                                          7000
+QLN700000014657Top Stop Belvoir Dr                             0 
+QBN700000014657  334551  369220                                                
+GS00014657 N                    Belfast Metro Ops                                 7000
+GR00014657Belvoir Dr                                                                                          7000
+QLN700000014658Newtownbreda Rd (Intersport Shop)               0 
+QBN700000014658  335158  370019                                                
+GS00014658 N                    Belfast Metro Ops                                 7000
+GR00014658Newtownbreda Rd                                                                                     7000
+QLN700000000407Breda Park                                      0 
+QBN700000000407  335285  369961                                                
+GS00000407 N                    Belfast Metro Ops                                 7000
+GR00000407Saintfield Road                                                                                     7000
+QLN700000000389Foster Green                                    0 
+QBN700000000389  335321  370237                                                
+GS00000389 N                    Belfast Metro Ops                                 7000
+GR00000389Upper Knockbreda Road                                                                               7000
+QLN700000000395Forestside(Upper Galwally)                      1 
+QBN700000000395  335276  370538                                                
+GS00000395 N                    Belfast Metro Ops                                 7000
+GR00000395Upper Galwally                                                                                      7000
+QLN700000000323Forestside/K'Breda Cemetry                      1 
+QBN700000000323  335225  370301                                                
+GS00000323 N                    Belfast Metro Ops                                 7000
+GR00000323Saintfield Road                                                                                     7000
+QLN700000000537Knockbreda High School                          0 
+QBN700000000537  335656  370656                                                
+GS00000537 N                    Belfast Metro Ops                                 7000
+GR00000537Upper Knockbreda Road                                                                               7000
+QLN700000000343Mount Merrion, Rosetta Road                     1 
+QBN700000000343  335786  371189                                                
+GS00000343 N                    Belfast Metro Ops                                 7000
+GR00000343Rosetta Road                                                                                        7000
+QLN700000000345Wynchurch                                       0 
+QBN700000000345  335606  371263                                                
+GS00000345 N                    Belfast Metro Ops                                 7000
+GR00000345Rosetta Road                                                                                        7000
+QLN700000000347Knock Eden                                      0 
+QBN700000000347  335315  371241                                                
+GS00000347 N                    Belfast Metro Ops                                 7000
+GR00000347Knockbreda Road                                                                                     7000
+QLN700000000349Rosetta(Knockbreda Road)                        1 
+QBN700000000349  335039  371118                                                
+GS00000349 N                    Belfast Metro Ops                                 7000
+GR00000349Knockbreda Road                                                                                     7000
+QLN700000000409Hampton Park                                    0 
+QBN700000000409  335057  370617                                                
+GS00000409 N                    Belfast Metro Ops                                 7000
+GR00000409Ormeau Road                                                                                         7000
+QLN700000000411Annadale Avenue                                 0 
+QBN700000000411  334972  370950                                                
+GS00000411 N                    Belfast Metro Ops                                 7000
+GR00000411Ormeau Road                                                                                         7000
+QLN700000000413Rosetta(St John's Church)                       1 
+QBN700000000413  334950  371132                                                
+GS00000413 N                    Belfast Metro Ops                                 7000
+GR00000413Ormeau Road                                                                                         7000
+QLN700000000471Ravenhill Road/Ormeau Road                      1 
+QBN700000000471  334952  371375                                                
+GS00000471 N                    Belfast Metro Ops                                 7000
+GR00000471Ravenhill Road                                                                                      7000
+QLN700000000415Nazareth House                                  0 
+QBN700000000415  334846  371451                                                
+GS00000415 N                    Belfast Metro Ops                                 7000
+GR00000415Ormeau Road                                                                                         7000
+QLN700000000417Ballynafeigh                                    0 
+QBN700000000417  334785  371585                                                
+GS00000417 N                    Belfast Metro Ops                                 7000
+GR00000417Ormeau Road                                                                                         7000
+QLN700000000419Ulidia                                          0 
+QBN700000000419  334669  371839                                                
+GS00000419 N                    Belfast Metro Ops                                 7000
+GR00000419Ormeau Road                                                                                         7000
+QLN700000000421South Parade                                    0 
+QBN700000000421  334591  372008                                                
+GS00000421 N                    Belfast Metro Ops                                 7000
+GR00000421Ormeau Road                                                                                         7000
+QLN700000000423Candahar Street                                 0 
+QBN700000000423  334473  372258                                                
+GS00000423 N                    Belfast Metro Ops                                 7000
+GR00000423Ormeau Road                                                                                         7000
+QLN700000000425Ormeau Road ( Agincourt Avenue)                 1 
+QBN700000000425  334369  372603                                                
+GS00000425 N                    Belfast Metro Ops                                 7000
+GR00000425Ormeau Road                                                                                         7000
+QLN700000000427Hatfield Street                                 0 
+QBN700000000427  334317  372810                                                
+GS00000427 N                    Belfast Metro Ops                                 7000
+GR00000427Ormeau Road                                                                                         7000
+QLN700000000429Mc Clure Street                                 0 
+QBN700000000429  334246  373046                                                
+GS00000429 N                    Belfast Metro Ops                                 7000
+GR00000429Ormeau Road                                                                                         7000
+QLN700000000431Gasworks                                        1 
+QBN700000000431  334142  373375                                                
+GS00000431 N                    Belfast Metro Ops                                 7000
+GR00000431Ormeau Road                                                                                         7000
+QLN700000000473St Judes  Cresent                               0 
+QBN700000000473  334975  371655                                                
+GS00000473 N                    Belfast Metro Ops                                 7000
+GR00000473Ravenhill Road                                                                                      7000
+QLN700000000475187 Ravenhill Road                              0 
+QBN700000000475  334990  371840                                                
+GS00000475 N                    Belfast Metro Ops                                 7000
+GR00000475Ravenhill Road                                                                                      7000
+QLN700000000485Kids Korner                                     0 
+QBN700000000485  335022  372201                                                
+GS00000485 N                    Belfast Metro Ops                                 7000
+GR00000485Ravenhill Road                                                                                      7000
+QLN700000000487Martyrs Memorial                                0 
+QBN700000000487  335062  372642                                                
+GS00000487 N                    Belfast Metro Ops                                 7000
+GR00000487Ravenhill Road                                                                                      7000
+QLN700000000489Bp Garage                                       0 
+QBN700000000489  335076  372821                                                
+GS00000489 N                    Belfast Metro Ops                                 7000
+GR00000489Ravenhill Road                                                                                      7000
+QLN700000000491Park Resource Centre                            0 
+QBN700000000491  335095  373011                                                
+GS00000491 N                    Belfast Metro Ops                                 7000
+GR00000491Ravenhill Road                                                                                      7000
+QLN700000000493Rochester Street                                0 
+QBN700000000493  335112  373219                                                
+GS00000493 N                    Belfast Metro Ops                                 7000
+GR00000493Ravenhill Road                                                                                      7000
+QLN700000000495My Ladys Road                                   0 
+QBN700000000495  335130  373417                                                
+GS00000495 N                    Belfast Metro Ops                                 7000
+GR00000495Ravenhill Road                                                                                      7000
+QLN70000000049797 Ravenhill Road                               0 
+QBN700000000497  335103  373542                                                
+GS00000497 N                    Belfast Metro Ops                                 7000
+GR00000497Ravenhill Road                                                                                      7000
+QLN700000000499Short Strand                                    1 
+QBN700000000499  335018  373930                                                
+GS00000499 N                    Belfast Metro Ops                                 7000
+GR00000499Ravenhill Road                                                                                      7000
+QLN700000000197Maysfield                                       0 
+QBN700000000197  334755  373928                                                
+GS00000197 N                    Belfast Metro Ops                                 7000
+GR00000197East Bridge Street                                                                                  7000
+QLN700000000199East Bridge St.(Central Station)                1 
+QBN700000000199  334625  373915                                                
+GS00000199 N                    Belfast Metro Ops                                 7000
+GR00000199East Bridge Street                                                                                  7000
+QLN700000000433Cromac Wood                                     0 
+QBN700000000433  334119  373459                                                
+GS00000433 N                    Belfast Metro Ops                                 7000
+GR00000433Ormeau Road                                                                                         7000
+QLN700000014758Cromac Place 71                                 0 
+QBN700000014758  334213  373823                                                
+GS00014758 N                    Belfast Metro Ops                                 7000
+GR00014758Cromac Place                                                                                        7000
+QLN700000001635May St.                                         0 
+QBN700000001635  334188  373976                                                
+GS00001635 N                    Belfast Metro Ops                                 7000
+GR00001635May Street                                                                                          7000
+QLN700000001636May St.                                         0 
+QBN700000001636  334046  373957                                                
+GS00001636 N                    Belfast Metro Ops                                 7000
+GR00001636May Street                                                                                          7000
+QLN700000015007City Centre                                     1 
+QBN700000015007  333775  373929                                                
+GS00015007 N                    Belfast Metro Ops                                 7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO077 T02I
+ZD20091005        Monday to Friday                                                      FFFFF00
+ZSTMAO079 79  Four Winds - Mount Merrion - City Centre                                                            
+ZAN700000000361                                                P1W1T1
+ZAN700000000371                                                P0W0T0
+ZAN700000000373                                                P0W0T0
+ZAN700000000375                                                P1W1T1
+ZAN700000000377                                                P0W0T0
+ZAN700000000405                                                P1W1T1
+ZAN700000014997                                                P1W1T1
+ZAN700000014994                                                P0W0T0
+ZAN700000014995                                                P1W1T1
+ZAN700000014996                                                P0W0T0
+ZAN700000014765                                                P0W0T0
+ZAN700000014766                                                P0W0T0
+ZAN700000014767                                                P1W1T1
+ZAN700000014647                                                P0W0T0
+ZAN700000014648                                                P1W1T1
+ZAN700000001185                                                P0W0T0
+ZAN700000014649                                                P1W1T1
+ZAN700000014650                                                P0W0T0
+ZAN700000014651                                                P0W0T0
+ZAN700000014652                                                P0W0T0
+ZAN700000014653                                                P0W0T0
+ZAN700000014654                                                P1W1T1
+ZAN700000014655                                                P0W0T0
+ZAN700000014656                                                P0W0T0
+ZAN700000014657                                                P0W0T0
+ZAN700000014658                                                P0W0T0
+ZAN700000000407                                                P0W0T0
+ZAN700000000389                                                P0W0T0
+ZAN700000000395                                                P1W1T1
+ZAN700000000323                                                P1W1T1
+ZAN700000000537                                                P0W0T0
+ZAN700000000343                                                P1W1T1
+ZAN700000000345                                                P0W0T0
+ZAN700000000347                                                P0W0T0
+ZAN700000000349                                                P0W1T1
+ZAN700000000409                                                P0W0T0
+ZAN700000000411                                                P0W0T0
+ZAN700000000413                                                P1W1T1
+ZAN700000000471                                                P1W1T1
+ZAN700000000415                                                P0W0T0
+ZAN700000000417                                                P0W0T0
+ZAN700000000419                                                P0W0T0
+ZAN700000000421                                                P0W0T0
+ZAN700000000423                                                P0W0T0
+ZAN700000000425                                                P1W1T1
+ZAN700000000427                                                P0W0T0
+ZAN700000000429                                                P0W0T0
+ZAN700000000431                                                P1W1T1
+ZAN700000000473                                                P0W0T0
+ZAN700000000475                                                P0W0T0
+ZAN700000000485                                                P0W0T0
+ZAN700000000487                                                P0W0T0
+ZAN700000000489                                                P0W0T0
+ZAN700000000491                                                P0W0T0
+ZAN700000000493                                                P0W0T0
+ZAN700000000495                                                P0W0T0
+ZAN700000000497                                                P0W0T0
+ZAN700000000499                                                P1W1T1
+ZAN700000000197                                                P0W0T0
+ZAN700000000199                                                P1W1T1
+ZAN700000000433                                                P0W0T0
+ZAN700000014758                                                P0W0T0
+ZAN700000001635                                                P0W0T0
+ZAN700000001636                                                P0W0T0
+ZAN700000015007                                                P1W1T1
+QSNTM  14370620091005        1111100  79  57G02 0               I
+ZJTMAO079 002  1 650     000CB   721     111     C         FFFFF00L0
+ZNM    Via Upper Knockbreda Road, Mount Merrion and Ravenhill Road             
+QO7000000003610721   T1F0
+ZECH0      072100072100P0W0
+QI70000000037107210721B   T0F0
+ZECH0      072127072127P0W0
+QI70000000037307210721B   T0F0
+ZECH0      072148072148P0W0
+QI70000000037507220722B   T1F0
+ZECH0      072200072200P0W0
+QI70000000037707230723B   T0F0
+ZECH0      072303072303P0W0
+QI70000000040507250725B   T1F0
+ZECH0      072500072500P0W0
+QI70000000040707250725B   T0F0
+ZECH0      072524072524P0W0
+QI70000000038907260726B   T0F0
+ZECH0      072613072613P0W0
+QI70000000053707270727B   T0F0
+ZECH0      072748072748P0W0
+QI70000000034307300730B   T1F0
+ZECH0      073000073000P0W0
+QI70000000034507300730B   T0F0
+ZECH0      073031073031P0W0
+QI70000000034707310731B   T0F0
+ZECH0      073118073118P0W0
+QI70000000034907320732B   T1F0
+ZECH0      073200073200P0W0
+QI70000000041307340734B   T1F0
+ZECH0      073400073400P0W0
+QI70000000047107350735B   T1F0
+ZECH0      073500073500P0W0
+QI70000000047307350735B   T0F0
+ZECH0      073540073540P0W0
+QI70000000047507360736B   T0F0
+ZECH0      073607073607P0W0
+QI70000000048507360736B   T0F0
+ZECH0      073648073648P0W0
+QI70000000048707370737B   T0F0
+ZECH0      073752073752P0W0
+QI70000000048907380738B   T0F0
+ZECH0      073818073818P0W0
+QI70000000049107380738B   T0F0
+ZECH0      073845073845P0W0
+QI70000000049307390739B   T0F0
+ZECH0      073915073915P0W0
+QI70000000049507390739B   T0F0
+ZECH0      073944073944P0W0
+QI70000000049707400740B   T0F0
+ZECH0      074002074002P0W0
+QI70000000049907410741B   T1F0
+ZECH0      074100074100P0W0
+QI70000000019707410741B   T0F0
+ZECH0      074141074141P0W0
+QI70000000019907420742B   T1F0
+ZECH0      074200074200P0W0
+QI70000000163507450745B   T0F0
+ZECH0      074554074554P0W0
+QI70000000163607460746B   T0F0
+ZECH0      074658074658P0W0
+QT7000000150070749   T1F0
+ZECH0      074900074900P0W0
+QSNTM  14370720091005        1111100  79  64S06 0               I
+ZJTMAO079 002 32 650     000CB   745     2142    C         FFFFF00L0
+QO7000000003430745   T1F0
+ZECH0      074500074500P0W0
+QI70000000034507450745B   T0F0
+ZECH0      074531074531P0W0
+QI70000000034707460746B   T0F0
+ZECH0      074618074618P0W0
+QI70000000034907470747B   T1F0
+ZECH0      074700074700P0W0
+QI70000000041307490749B   T1F0
+ZECH0      074900074900P0W0
+QI70000000047107500750B   T1F0
+ZECH0      075000075000P0W0
+QI70000000047307510751B   T0F0
+ZECH0      075120075120P0W0
+QI70000000047507520752B   T0F0
+ZECH0      075214075214P0W0
+QI70000000048507530753B   T0F0
+ZECH0      075336075336P0W0
+QI70000000048707550755B   T0F0
+ZECH0      075544075544P0W0
+QI70000000048907560756B   T0F0
+ZECH0      075636075636P0W0
+QI70000000049107570757B   T0F0
+ZECH0      075731075731P0W0
+QI70000000049307580758B   T0F0
+ZECH0      075831075831P0W0
+QI70000000049507590759B   T0F0
+ZECH0      075928075928P0W0
+QI70000000049708000800B   T0F0
+ZECH0      080004080004P0W0
+QI70000000049908020802B   T1F0
+ZECH0      080200080200P0W0
+QI70000000019708030803B   T0F0
+ZECH0      080322080322P0W0
+QI70000000019908040804B   T1F0
+ZECH0      080400080400P0W0
+QI70000000163508080808B   T0F0
+ZECH0      080828080828P0W0
+QI70000000163608090809B   T0F0
+ZECH0      080941080941P0W0
+QT7000000150070812   T1F0
+ZECH0      081200081200P0W0
+QSNTM  14370920091005        1111100  79  79S31 0               I
+ZJTMAO079 002  1 650     000CB   751     2126    C         FFFFF00L0
+ZNM    Via Upper Knockbreda Road, Mount Merrion and Ravenhill Road             
+QO7000000003610751   T1F0
+ZECH0      075100075100P0W0
+QI70000000037107510751B   T0F0
+ZECH0      075154075154P0W0
+QI70000000037307520752B   T0F0
+ZECH0      075236075236P0W0
+QI70000000037507530753B   T1F0
+ZECH0      075300075300P0W0
+QI70000000037707540754B   T0F0
+ZECH0      075403075403P0W0
+QI70000000040507560756B   T1F0
+ZECH0      075600075600P0W0
+QI70000000040707560756B   T0F0
+ZECH0      075633075633P0W0
+QI70000000038907570757B   T0F0
+ZECH0      075742075742P0W0
+QI70000000053707590759B   T0F0
+ZECH0      075956075956P0W0
+QI70000000034308030803B   T1F0
+ZECH0      080300080300P0W0
+QI70000000034508030803B   T0F0
+ZECH0      080331080331P0W0
+QI70000000034708040804B   T0F0
+ZECH0      080418080418P0W0
+QI70000000034908050805B   T1F0
+ZECH0      080500080500P0W0
+QI70000000041308070807B   T1F0
+ZECH0      080700080700P0W0
+QI70000000047108080808B   T1F0
+ZECH0      080800080800P0W0
+QI70000000047308090809B   T0F0
+ZECH0      080920080920P0W0
+QI70000000047508100810B   T0F0
+ZECH0      081014081014P0W0
+QI70000000048508110811B   T0F0
+ZECH0      081136081136P0W0
+QI70000000048708130813B   T0F0
+ZECH0      081344081344P0W0
+QI70000000048908140814B   T0F0
+ZECH0      081436081436P0W0
+QI70000000049108150815B   T0F0
+ZECH0      081531081531P0W0
+QI70000000049308160816B   T0F0
+ZECH0      081631081631P0W0
+QI70000000049508170817B   T0F0
+ZECH0      081728081728P0W0
+QI70000000049708180818B   T0F0
+ZECH0      081804081804P0W0
+QI70000000049908200820B   T1F0
+ZECH0      082000082000P0W0
+QI70000000019708210821B   T0F0
+ZECH0      082122082122P0W0
+QI70000000019908220822B   T1F0
+ZECH0      082200082200P0W0
+QI70000000163508260826B   T0F0
+ZECH0      082628082628P0W0
+QI70000000163608270827B   T0F0
+ZECH0      082741082741P0W0
+QT7000000150070830   T1F0
+ZECH0      083000083000P0W0
+QSNTM  14371320091005        1111100  79  5731  0               I
+ZJTMAO079 002 32 650     000CB   910     2114    C         FFFFF00L0
+QO7000000003430910   T1F0
+ZECH0      091000091000P0W0
+QI70000000034509100910B   T0F0
+ZECH0      091031091031P0W0
+QI70000000034709110911B   T0F0
+ZECH0      091118091118P0W0
+QI70000000034909120912B   T1F0
+ZECH0      091200091200P0W0
+QI70000000041309140914B   T1F0
+ZECH0      091400091400P0W0
+QI70000000047109150915B   T1F0
+ZECH0      091500091500P0W0
+QI70000000047309150915B   T0F0
+ZECH0      091540091540P0W0
+QI70000000047509160916B   T0F0
+ZECH0      091607091607P0W0
+QI70000000048509160916B   T0F0
+ZECH0      091648091648P0W0
+QI70000000048709170917B   T0F0
+ZECH0      091752091752P0W0
+QI70000000048909180918B   T0F0
+ZECH0      091818091818P0W0
+QI70000000049109180918B   T0F0
+ZECH0      091845091845P0W0
+QI70000000049309190919B   T0F0
+ZECH0      091915091915P0W0
+QI70000000049509190919B   T0F0
+ZECH0      091944091944P0W0
+QI70000000049709200920B   T0F0
+ZECH0      092002092002P0W0
+QI70000000049909210921B   T1F0
+ZECH0      092100092100P0W0
+QI70000000019709210921B   T0F0
+ZECH0      092141092141P0W0
+QI70000000019909220922B   T1F0
+ZECH0      092200092200P0W0
+QI70000000163509250925B   T0F0
+ZECH0      092554092554P0W0
+QI70000000163609260926B   T0F0
+ZECH0      092658092658P0W0
+QT7000000150070929   T1F0
+ZECH0      092900092900P0W0
+QVN0       Bus                     
+QHN20061225
+QHN20061226
+QHN20070101
+QHN20070406
+QHN20070409
+QHN20070507
+QHN20070528
+QHN20070827
+QHN20071225
+QHN20071226

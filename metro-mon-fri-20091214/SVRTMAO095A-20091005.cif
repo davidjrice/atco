@@ -1,0 +1,120 @@
+ATCO-CIF0500Electronic Registration         MIA 4.20.18     20090915120632
+QLN700000001431Donegal Square East                             1 
+QBN700000001431  333930  374049                                                
+GS00001431 N                    Belfast Metro Ops                                 7000
+GR00001431Donegall Square East                                                                                7000
+QLN700000000240Europa Stand One                                1 
+QBN700000000240  333439  373811                                                
+GS00000240 N                    Belfast Metro Ops                                 7000
+GR00000240Europa Buscentre                                                                                    7000
+QLN700000001627Great Northern Mall                             1 
+QBN700000001627  333575  373717                                                
+GS00001627 N                    Belfast Metro Ops                                 7000
+GR00001627Great Victoria Street                                                                               7000
+QLN700000001630Dublin Road                                     0 
+QBN700000001630  333683  373426                                                
+GS00001630 N                    Belfast Metro Ops                                 7000
+GR00001630Dublin Road                                                                                         7000
+QLN700000001308Belfast Hostelling International                1 
+QBN700000001308  333509  373193                                                
+GS00001308 N                    Belfast Metro Ops                                 7000
+GR00001308Donegall Road                                                                                       7000
+QLN700000001310Outside Bungalow Nos 78                         0 
+QBN700000001310  333300  373160                                                
+GS00001310 N                    Belfast Metro Ops                                 7000
+GR00001310Donegall Road                                                                                       7000
+QLN700000001312Opp House Number 175                            0 
+QBN700000001312  333035  373114                                                
+GS00001312 N                    Belfast Metro Ops                                 7000
+GR00001312Donegall Road                                                                                       7000
+QLN700000001314Pandora Street                                  0 
+QBN700000001314  332824  373095                                                
+GS00001314 N                    Belfast Metro Ops                                 7000
+GR00001314Donegall Road                                                                                       7000
+QLN700000001316Opp Mcdowells Pharmacy                          0 
+QBN700000001316  332559  373117                                                
+GS00001316 N                    Belfast Metro Ops                                 7000
+GR00001316Donegall Road                                                                                       7000
+QLN700000001318Frenchpark St.                                  0 
+QBN700000001318  332298  373096                                                
+GS00001318 N                    Belfast Metro Ops                                 7000
+GR00001318Donegall Road                                                                                       7000
+QLN700000001320Donegall Road, Monarch Laundry                  1 
+QBN700000001320  332137  373068                                                
+GS00001320 N                    Belfast Metro Ops                                 7000
+GR00001320Donegall Road                                                                                       7000
+QLN700000001801Gt Vic Buslane                                  0 
+QBN700000001801  332647  373421                                                
+GS00001801 N                    Belfast Metro Ops                                 7000
+GR00001801Gt Vic Bus Lane                                                                                     7000
+QLN700000000198RVH Stores                                      0 
+QBN700000000198  332045  373285                                                
+GS00000198 N                    Belfast Metro Ops                                 7000
+GR00000198Royal Grounds                                                                                       7000
+QLN700000000200Childrens Hospital                              0 
+QBN700000000200  332149  373498                                                
+GS00000200 N                    Belfast Metro Ops                                 7000
+GR00000200Royal Grounds                                                                                       7000
+QLN700000000202RVH Maternity Ward                              1 
+QBN700000000202  332275  373589                                                
+GS00000202 N                    Belfast Metro Ops                                 7000
+GR00000202Royal Grounds                                                                                       7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO095 T01O
+ZD20091005        Monday to Friday                                                      FFFFF00
+ZSTMAO095A95A City Centre - Royal Hospitals                                                                       
+ZAN700000001431                                                P1W1T1
+ZAN700000000240                                                P1W1T1
+ZAN700000001627                                                P1W1T1
+ZAN700000001630                                                P0W0T0
+ZAN700000001308                                                P1W1T1
+ZAN700000001310                                                P0W0T0
+ZAN700000001312                                                P0W0T0
+ZAN700000001314                                                P0W0T0
+ZAN700000001316                                                P0W0T0
+ZAN700000001318                                                P0W0T0
+ZAN700000001320                                                P1W1T1
+ZAN700000001801                                                P0W0T0
+ZAN700000000198                                                P0W0T0
+ZAN700000000200                                                P0W0T0
+ZAN700000000202                                                P1W1T1
+QSNTM  14412920091005        1111100  95A 95G01 0               O
+ZJTMAO095A001  1 150     000CB   2030    452     C         FFFFF00L0
+QO7000000014312030   T1F0
+ZECH0      203000203000P0W0
+QI70000000162720312031B   T1F0
+ZECH0      203100203100P0W0
+QI70000000163020322032B   T0F0
+ZECH0      203207203207P0W0
+QI70000000130820332033B   T1F0
+ZECH0      203300203300P0W0
+QI70000000131020332033B   T0F0
+ZECH0      203336203336P0W0
+QI70000000131220342034B   T0F0
+ZECH0      203423203423P0W0
+QI70000000131420342034B   T0F0
+ZECH0      203459203459P0W0
+QI70000000131620352035B   T0F0
+ZECH0      203546203546P0W0
+QI70000000131820362036B   T0F0
+ZECH0      203631203631P0W0
+QI70000000132020372037B   T1F0
+ZECH0      203700203700P0W0
+QI70000000019820382038N   T0F0
+ZECH0      203838203838P0W0
+QI70000000020020392039B   T0F0
+ZECH0      203930203930P0W0
+QT7000000002022040   T1F0
+ZECH0      204000204000P0W0
+QVN0       Bus                     
+QHN20061225
+QHN20061226
+QHN20070101
+QHN20070406
+QHN20070409
+QHN20070507
+QHN20070528
+QHN20070827
+QHN20071225
+QHN20071226

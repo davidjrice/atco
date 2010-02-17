@@ -1,0 +1,3285 @@
+ATCO-CIF0500Electronic Registration         MIA 4.20.18     20090915114232
+QLN700000001429Queen Street                                    1 
+QBN700000001429  333623  374241                                                
+GS00001429 N                    Belfast Metro Ops                                 7000
+GR00001429Queen Street                                                                                        7000
+QLN700000001428Queen Street                                    1 
+QBN700000001428  333611  374186                                                
+GS00001428 N                    Belfast Metro Ops                                 7000
+GR00001428Queen Street                                                                                        7000
+QLN700000001824Castle Street                                   1 
+QBN700000001824  333567  374293                                                
+GS00001824 N                    Belfast Metro Ops                                 7000
+GR00001824Castle Street                                                                                       7000
+QLN700000000396Barrack St.                                     0 
+QBN700000000396  333295  374329                                                
+GS00000396 N                    Belfast Metro Ops                                 7000
+GR00000396Divis Street                                                                                        7000
+QLN700000000398Divis Tower                                     0 
+QBN700000000398  333020  374381                                                
+GS00000398 N                    Belfast Metro Ops                                 7000
+GR00000398Divis Street                                                                                        7000
+QLN700000000494St.Comgall's                                    0 
+QBN700000000494  332897  374365                                                
+GS00000494 N                    Belfast Metro Ops                                 7000
+GR00000494Falls Road                                                                                          7000
+QLN700000000496Twin Spires                                     0 
+QBN700000000496  332721  374281                                                
+GS00000496 N                    Belfast Metro Ops                                 7000
+GR00000496Falls Road                                                                                          7000
+QLN700000000498Conway Street                                   0 
+QBN700000000498  332508  374193                                                
+GS00000498 N                    Belfast Metro Ops                                 7000
+GR00000498Falls Road                                                                                          7000
+QLN700000000500Falls Library                                   0 
+QBN700000000500  332396  374131                                                
+GS00000500 N                    Belfast Metro Ops                                 7000
+GR00000500Falls Road                                                                                          7000
+QLN700000000502Dunville Park                                   0 
+QBN700000000502  332275  373964                                                
+GS00000502 N                    Belfast Metro Ops                                 7000
+GR00000502Falls Road                                                                                          7000
+QLN700000001789Falls Road(Royal Hospitals)                     1 
+QBN700000001789  332196  373807                                                
+GS00001789 N                    Belfast Metro Ops                                 7000
+GR00001789Falls Road                                                                                          7000
+QLN700000001790Bostock House                                   0 
+QBN700000001790  332121  373713                                                
+GS00001790 N                    Belfast Metro Ops                                 7000
+GR00001790Falls Road                                                                                          7000
+QLN700000001791Childrens Hospital                              0 
+QBN700000001791  331989  373579                                                
+GS00001791 N                    Belfast Metro Ops                                 7000
+GR00001791Falls Road                                                                                          7000
+QLN700000001792Broadway                                        0 
+QBN700000001792  331837  373483                                                
+GS00001792 N                    Belfast Metro Ops                                 7000
+GR00001792Falls Road                                                                                          7000
+QLN700000001793Beechmount                                      0 
+QBN700000001793  331624  373377                                                
+GS00001793 N                    Belfast Metro Ops                                 7000
+GR00001793Falls Road                                                                                          7000
+QLN700000001794Beechview Park                                  1 
+QBN700000001794  331393  373215                                                
+GS00001794 N                    Belfast Metro Ops                                 7000
+GR00001794Falls Road                                                                                          7000
+QLN700000001796Falls Road(City Cemetry)                        1 
+QBN700000001796  331272  372992                                                
+GS00001796 N                    Belfast Metro Ops                                 7000
+GR00001796Falls Road                                                                                          7000
+QLN700000001797St. Louises                                     0 
+QBN700000001797  331169  372819                                                
+GS00001797 N                    Belfast Metro Ops                                 7000
+GR00001797Falls Road                                                                                          7000
+QLN700000001798Rossa House                                     0 
+QBN700000001798  331066  372709                                                
+GS00001798 N                    Belfast Metro Ops                                 7000
+GR00001798Falls Road                                                                                          7000
+QLN700000001799Falls Park                                      1 
+QBN700000001799  330866  372617                                                
+GS00001799 N                    Belfast Metro Ops                                 7000
+GR00001799Falls Road                                                                                          7000
+QLN700000000464Milltown Cemetery                               0 
+QBN700000000464  330709  372426                                                
+GS00000464 N                    Belfast Metro Ops                                 7000
+GR00000464Falls Road                                                                                          7000
+QLN700000000466Kennedy Centre                                  1 
+QBN700000000466  330669  372221                                                
+GS00000466 N                    Belfast Metro Ops                                 7000
+GR00000466Falls Road                                                                                          7000
+QLN700000000468Andersonstown Park                              0 
+QBN700000000468  330663  372059                                                
+GS00000468 N                    Belfast Metro Ops                                 7000
+GR00000468Andersonstown Road                                                                                  7000
+QLN700000000470Westwood Centre                                 0 
+QBN700000000470  330695  371823                                                
+GS00000470 N                    Belfast Metro Ops                                 7000
+GR00000470Andersonstown Road                                                                                  7000
+QLN700000000472Fruithill Park                                  0 
+QBN700000000472  330626  371692                                                
+GS00000472 N                    Belfast Metro Ops                                 7000
+GR00000472Andersonstown Road                                                                                  7000
+QLN700000000474Fruithill                                       0 
+QBN700000000474  330541  371589                                                
+GS00000474 N                    Belfast Metro Ops                                 7000
+GR00000474Andersonstown Road                                                                                  7000
+QLN700000000476Owenvarragh Pk                                  0 
+QBN700000000476  330295  371404                                                
+GS00000476 N                    Belfast Metro Ops                                 7000
+GR00000476Andersonstown Road                                                                                  7000
+QLN700000000478Andersonstown Rd.(Slievegallion Drive)          1 
+QBN700000000478  330007  371294                                                
+GS00000478 N                    Belfast Metro Ops                                 7000
+GR00000478Andersonstown Road                                                                                  7000
+QLN700000000480Ballyowen                                       0 
+QBN700000000480  329788  371256                                                
+GS00000480 N                    Belfast Metro Ops                                 7000
+GR00000480Andersonstown Road                                                                                  7000
+QLN700000000400St.Michaels                                     0 
+QBN700000000400  329749  371124                                                
+GS00000400 N                    Belfast Metro Ops                                 7000
+GR00000400Finaghy Road North                                                                                  7000
+QLN700000000330Finaghy Road North                              0 
+QBN700000000330  329876  370897                                                
+GS00000330 N                    Belfast Metro Ops                                 7000
+GR00000330Finaghy Road North                                                                                  7000
+QLN700000001124Ladybrook Shops                                 0 
+QBN700000001124  329866  370768                                                
+GS00001124 N                    Belfast Metro Ops                                 7000
+GR00001124Ladybrook Park                                                                                      7000
+QLN700000001126Ladybrook Avenue                                0 
+QBN700000001126  329577  370555                                                
+GS00001126 N                    Belfast Metro Ops                                 7000
+GR00001126Ladybrook Park                                                                                      7000
+QLN700000001128Ladybrook Cross                                 0 
+QBN700000001128  329389  370470                                                
+GS00001128 N                    Belfast Metro Ops                                 7000
+GR00001128Ladybrook Cross                                                                                     7000
+QLN700000001130Ladybrook(Turning Circle)                       1 
+QBN700000001130  329407  370422                                                
+GS00001130 N                    Belfast Metro Ops                                 7000
+GR00001130Ladybrook Cross                                                                                     7000
+QLN700000000482Stewartstown Road(Shaws Road)                   0 
+QBN700000000482  329609  371253                                                
+GS00000482 N                    Belfast Metro Ops                                 7000
+GR00000482Stewartstown Rd                                                                                     7000
+QLN700000000334Shaws Road(Stewartstown Road)                   0 
+QBN700000000334  329349  371348                                                
+GS00000334 N                    Belfast Metro Ops                                 7000
+GR00000334Shaws Road                                                                                          7000
+QLN700000000336Rosgoill Park                                   0 
+QBN700000000336  329209  371408                                                
+GS00000336 N                    Belfast Metro Ops                                 7000
+GR00000336Shaws Road                                                                                          7000
+QLN700000014784Shaws Road (School Stop)                        0 
+QBN700000014784  329135  371470                                                
+GS00014784 N                    Belfast Metro Ops                                 7000
+QLN700000000338Shaws Road(Hillhead Cottages)                   0 
+QBN700000000338  329090  371515                                                
+GS00000338 N                    Belfast Metro Ops                                 7000
+GR00000338Shaws Road                                                                                          7000
+QLN700000000340Shaws Road(Lenadoon Avenue)                     1 
+QBN700000000340  328774  371637                                                
+GS00000340 N                    Belfast Metro Ops                                 7000
+GR00000340Shaws Road                                                                                          7000
+QLN700000001762Glen Parade                                     0 
+QBN700000001762  330521  372460                                                
+GS00001762 N                    Belfast Metro Ops                                 7000
+GR00001762Glen Road                                                                                           7000
+QLN700000001763Gransha                                         0 
+QBN700000001763  330333  372394                                                
+GS00001763 N                    Belfast Metro Ops                                 7000
+GR00001763Glen Road                                                                                           7000
+QLN700000001764Glenowen                                        0 
+QBN700000001764  330153  372295                                                
+GS00001764 N                    Belfast Metro Ops                                 7000
+GR00001764Glen Road                                                                                           7000
+QLN700000001765Glen Road(St.Theresa's)                         1 
+QBN700000001765  329819  372142                                                
+GS00001765 N                    Belfast Metro Ops                                 7000
+GR00001765Glen Road                                                                                           7000
+QLN700000001766Coonasilla                                      0 
+QBN700000001766  329712  372131                                                
+GS00001766 N                    Belfast Metro Ops                                 7000
+GR00001766Glen Road                                                                                           7000
+QLN700000001767Cbs                                             0 
+QBN700000001767  329416  372028                                                
+GS00001767 N                    Belfast Metro Ops                                 7000
+GR00001767Glen Road                                                                                           7000
+QLN700000001768Ramoan                                          0 
+QBN700000001768  329181  371919                                                
+GS00001768 N                    Belfast Metro Ops                                 7000
+GR00001768Glen Road                                                                                           7000
+QLN700000001769Rosnareen                                       0 
+QBN700000001769  328958  371822                                                
+GS00001769 N                    Belfast Metro Ops                                 7000
+GR00001769Glen Road                                                                                           7000
+QLN700000001770Shaws Jct.                                      0 
+QBN700000001770  328513  371617                                                
+GS00001770 N                    Belfast Metro Ops                                 7000
+GR00001770Glen Road                                                                                           7000
+QLN700000001771St. Oliver Plunkett                             1 
+QBN700000001771  328259  371574                                                
+GS00001771 N                    Belfast Metro Ops                                 7000
+GR00001771Glen Road                                                                                           7000
+QLN700000001773Glencolin                                       0 
+QBN700000001773  328129  371558                                                
+GS00001773 N                    Belfast Metro Ops                                 7000
+GR00001773Glen Road                                                                                           7000
+QLN700000001774Hannahstown Hill                                0 
+QBN700000001774  327979  371543                                                
+GS00001774 N                    Belfast Metro Ops                                 7000
+GR00001774Glen Road                                                                                           7000
+QLN700000001775Suffolk Rd. Jct.                                0 
+QBN700000001775  327855  371525                                                
+GS00001775 N                    Belfast Metro Ops                                 7000
+GR00001775Glen Road                                                                                           7000
+QLN700000001776Suffolk Heights                                 0 
+QBN700000001776  327804  371446                                                
+GS00001776 N                    Belfast Metro Ops                                 7000
+GR00001776Suffolk Road                                                                                        7000
+QLN700000001777Donegal Celtic                                  0 
+QBN700000001777  327984  371300                                                
+GS00001777 N                    Belfast Metro Ops                                 7000
+GR00001777Suffolk Road                                                                                        7000
+QLN700000001778Old Suffolk Rd.                                 0 
+QBN700000001778  328097  371227                                                
+GS00001778 N                    Belfast Metro Ops                                 7000
+GR00001778Suffolk Road                                                                                        7000
+QLN700000001779Falcarragh                                      0 
+QBN700000001779  328313  371014                                                
+GS00001779 N                    Belfast Metro Ops                                 7000
+GR00001779Suffolk Road                                                                                        7000
+QLN700000001780Suffolk Road(Woodbourne)                        1 
+QBN700000001780  328539  370690                                                
+GS00001780 N                    Belfast Metro Ops                                 7000
+GR00001780Suffolk Road                                                                                        7000
+QLN700000000484St. Genieves                                    0 
+QBN700000000484  329350  371156                                                
+GS00000484 N                    Belfast Metro Ops                                 7000
+GR00000484Stewartstown Rd                                                                                     7000
+QLN700000000486HillHead Crescent                               0 
+QBN700000000486  329134  370999                                                
+GS00000486 N                    Belfast Metro Ops                                 7000
+GR00000486Stewartstown Rd                                                                                     7000
+QLN700000000488Suffolk Library                                 1 
+QBN700000000488  328911  370819                                                
+GS00000488 N                    Belfast Metro Ops                                 7000
+GR00000488Stewartstown Rd                                                                                     7000
+QLN700000000490Stewartstown Road(Woodbourne)                   0 
+QBN700000000490  328734  370658                                                
+GS00000490 N                    Belfast Metro Ops                                 7000
+GR00000490Stewartstown Rd                                                                                     7000
+QLN700000000058Blacks Road(Ringford Park)                      0 
+QBN700000000058  328748  370467                                                
+GS00000058 N                    Belfast Metro Ops                                 7000
+GR00000058Blacks Road                                                                                         7000
+QLN700000000060Blacks Road(Trenchard)                          0 
+QBN700000000060  328876  370359                                                
+GS00000060 N                    Belfast Metro Ops                                 7000
+GR00000060Blacks Road                                                                                         7000
+QLN700000014724Blacks Road(Blacks Court)                       0 
+QBN700000014724  329033  370291                                                
+GS00014724 N                    Belfast Metro Ops                                 7000
+GR00014724Blacks Road                                                                                         7000
+QLN700000014736Blacks Road(Brooke Drive)                       0 
+QBN700000014736  329150  370267                                                
+GS00014736 N                    Belfast Metro Ops                                 7000
+GR00014736Blacks Road                                                                                         7000
+QLN700000000062Blacks Road(Brook Park)                         0 
+QBN700000000062  329348  370130                                                
+GS00000062 N                    Belfast Metro Ops                                 7000
+GR00000062Blacks Road                                                                                         7000
+QLN700000000064Blacks Road(Balmoral Hotel)                     0 
+QBN700000000064  329511  369899                                                
+GS00000064 N                    Belfast Metro Ops                                 7000
+GR00000064Blacks Road                                                                                         7000
+QLN700000014715Blacks Road(Oakhurst)                           1 
+QBN700000014715  329588  369817                                                
+GS00014715 N                    Belfast Metro Ops                                 7000
+GR00014715Blacks Road                                                                                         7000
+QLN700000000490Stewartstown Road(Woodbourne)                   1 
+QBN700000000490  328734  370658                                                
+GS00000490 N                    Belfast Metro Ops                                 7000
+GR00000490Stewartstown Rd                                                                                     7000
+QLN700000014714Stewartstown Road(Woodbourne)                   0 
+QBN700000014714  328624  370563                                                
+GS00014714 N                    Belfast Metro Ops                                 7000
+GR00014714Stewartstown Rd                                                                                     7000
+QLN700000014750Helen's Wood                                    0 
+QBN700000014750  328460  370422                                                
+GS00014750 N                    Belfast Metro Ops                                 7000
+GR00014750Stewartstown Rd                                                                                     7000
+QLN700000000492Glengoland(Roundabout)                          1 
+QBN700000000492  328280  370263                                                
+GS00000492 N                    Belfast Metro Ops                                 7000
+GR00000492Stewartstown Rd                                                                                     7000
+QLN700000000102Old Colin                                       0 
+QBN700000000102  328053  370115                                                
+GS00000102 N                    Belfast Metro Ops                                 7000
+GR00000102Pantridge Road                                                                                      7000
+QLN700000000104Laurelbank                                      0 
+QBN700000000104  327690  370117                                                
+GS00000104 N                    Belfast Metro Ops                                 7000
+GR00000104Pantridge Road                                                                                      7000
+QLN700000000106Poleglass(Pembroke Loop)                        1 
+QBN700000000106  327684  370386                                                
+GS00000106 N                    Belfast Metro Ops                                 7000
+GR00000106Pembroke Loop                                                                                       7000
+QLN700000000108Pembroke Manor                                  0 
+QBN700000000108  327881  370607                                                
+GS00000108 N                    Belfast Metro Ops                                 7000
+GR00000108Pembroke Loop                                                                                       7000
+QLN700000014721Colinbrooke                                     0 
+QBN700000014721  327870  370890                                                
+GS00014721 N                    Belfast Metro Ops                                 7000
+GR00014721Pembrooke Loop                                                                                      7000
+QLN700000000112Springbank Close                                0 
+QBN700000000112  327588  370755                                                
+GS00000112 N                    Belfast Metro Ops                                 7000
+GR00000112Pembroke Loop                                                                                       7000
+QLN700000000114Springbank Drive                                0 
+QBN700000000114  327493  370637                                                
+GS00000114 N                    Belfast Metro Ops                                 7000
+GR00000114Pembroke Loop                                                                                       7000
+QLN700000000122Brians Well Close                               0 
+QBN700000000122  327195  370094                                                
+GS00000122 N                    Belfast Metro Ops                                 7000
+GR00000122Brianswell Road                                                                                     7000
+QLN700000014729Brians Well Road(Glenkeen)                      1 
+QBN700000014729  327115  369844                                                
+GS00014729 N                    Belfast Metro Ops                                 7000
+GR00014729Brianswell Road                                                                                     7000
+QLN700000014752Bell Steel Road(Laurelbank)                     0 
+QBN700000014752  327570  369970                                                
+GS00014752 N                    Belfast Metro Ops                                 7000
+GR00014752Bell Steel Road                                                                                     7000
+QLN700000000128Bell Steel Road(Glenwood)                       1 
+QBN700000000128  327489  369807                                                
+GS00000128 N                    Belfast Metro Ops                                 7000
+GR00000128Bell Steel Road                                                                                     7000
+QLN700000000072Upper Dunmurry Lane(Glengoland)                 0 
+QBN700000000072  328292  370054                                                
+GS00000072 N                    Belfast Metro Ops                                 7000
+GR00000072Upper Dunmurry Lane                                                                                 7000
+QLN700000000074Upper Dunmurry Lane(Corrina Park)               0 
+QBN700000000074  328446  369795                                                
+GS00000074 N                    Belfast Metro Ops                                 7000
+GR00000074Upper Dunmurry Lane                                                                                 7000
+QLN700000014755Credenhill                                      0 
+QBN700000014755  328670  369540                                                
+GS00014755 N                    Belfast Metro Ops                                 7000
+GR00014755Upper Dunmurry Lane                                                                                 7000
+QLN700000000080Upper Dunmurry Lane(Cherry Road)                1 
+QBN700000000080  328749  369451                                                
+GS00000080 N                    Belfast Metro Ops                                 7000
+GR00000080Upper Dunmurry Lane                                                                                 7000
+QLN700000000422Stewartstown Road(Dairy Farm)                   1 
+QBN700000000422  328026  369919                                                
+GS00000422 N                    Belfast Metro Ops                                 7000
+GR00000422Stewartstown Rd                                                                                     7000
+QLN700000000082Cherry Road                                     0 
+QBN700000000082  328553  369127                                                
+GS00000082 N                    Belfast Metro Ops                                 7000
+GR00000082Cherry Road                                                                                         7000
+QLN700000000084Cherry Park                                     0 
+QBN700000000084  328360  369065                                                
+GS00000084 N                    Belfast Metro Ops                                 7000
+GR00000084Cherry Road                                                                                         7000
+QLN700000000086Aspen Walk                                      0 
+QBN700000000086  328206  369208                                                
+GS00000086 N                    Belfast Metro Ops                                 7000
+GR00000086Summerhill Road                                                                                     7000
+QLN700000000088St. Lukes                                       0 
+QBN700000000088  328037  369205                                                
+GS00000088 N                    Belfast Metro Ops                                 7000
+GR00000088Summerhill Road                                                                                     7000
+QLN700000000036Twinbrook Rd                                    0 
+QBN700000000036  327927  369151                                                
+GS00000036 N                    Belfast Metro Ops                                 7000
+GR00000036Twinbrook Rd                                                                                        7000
+QLN700000014751Bell Steel Road(Brian's Well Road)              0 
+QBN700000014751  327390  369630                                                
+GS00014751 N                    Belfast Metro Ops                                 7000
+GR00014751Bell Steel Road                                                                                     7000
+QLN700000000130Bell Steel Road(Woodside)                       0 
+QBN700000000130  327534  369340                                                
+GS00000130 N                    Belfast Metro Ops                                 7000
+GR00000130Bell Steel Road                                                                                     7000
+QLN700000000132Bell Steel Road(Stewartstown Road)              0 
+QBN700000000132  327739  369450                                                
+GS00000132 N                    Belfast Metro Ops                                 7000
+GR00000132Bell Steel Road                                                                                     7000
+QLN700000000426Stewartstown Road(Glasvey Park)                 0 
+QBN700000000426  327758  369316                                                
+GS00000426 N                    Belfast Metro Ops                                 7000
+GR00000426Stewartstown Rd                                                                                     7000
+QLN700000000428Stewartstown Road(Twinbrook Road)               1 
+QBN700000000428  327704  369094                                                
+GS00000428 N                    Belfast Metro Ops                                 7000
+GR00000428Stewartstown Rd                                                                                     7000
+QLN700000000430Stewartstown Road(Lagmore Avenue)               0 
+QBN700000000430  327675  368852                                                
+GS00000430 N                    Belfast Metro Ops                                 7000
+GR00000430Stewartstown Rd                                                                                     7000
+QLN700000000016Lagmore Dale                                    1 
+QBN700000000016  327560  368455                                                
+GS00000016 N                    Belfast Metro Ops                                 7000
+GR00000016Lagmore Dale                                                                                        7000
+QLN700000000018Lagmore Drive                                   0 
+QBN700000000018  327410  368495                                                
+GS00000018 N                    Belfast Metro Ops                                 7000
+GR00000018Lagmore Drive                                                                                       7000
+QLN700000000020Lagmore Meadows                                 0 
+QBN700000000020  327374  368739                                                
+GS00000020 N                    Belfast Metro Ops                                 7000
+GR00000020Lagmore Drive                                                                                       7000
+QLN700000000022Lagmore Ave(Glenferna)                          0 
+QBN700000000022  327366  369059                                                
+GS00000022 N                    Belfast Metro Ops                                 7000
+GR00000022Lagmore Ave                                                                                         7000
+QLN700000000024Lagmore Ave(Glendowan Pk)                       0 
+QBN700000000024  326882  369044                                                
+GS00000024 N                    Belfast Metro Ops                                 7000
+GR00000024Lagmore Ave                                                                                         7000
+QLN700000000026Lagmore Ave(Teeling Ave)                        1 
+QBN700000000026  326751  369121                                                
+GS00000026 N                    Belfast Metro Ops                                 7000
+GR00000026Lagmore Ave                                                                                         7000
+QLN700000001871Lagmore View                                    1 
+QBN700000001871  326764  369366                                                
+GS00001871 N                    Belfast Metro Ops                                 7000
+GR00001871Lagmore View                                                                                        7000
+QLN700000000000Mt.Eagles                                       0 
+QBN700000000000  326529  368926                                                
+GS00000000 N                    Belfast Metro Ops                                 7000
+GR00000000Lagmore Ave                                                                                         7000
+QLN700000001867Village Square                                  0 
+QBN700000001867  326395  369012                                                
+GS00001867 N                    Belfast Metro Ops                                 7000
+GR00001867Mount Eagles Square                                                                                 7000
+QLN700000015000Mount Eagles Crescent                           0 
+QBN700000015000  326134  369207                                                
+GS00015000 N                    Belfast Metro Ops                                 7000
+QLN700000015001Mount Eagles Crescent opp/76                    0 
+QBN700000015001  326139  369335                                                
+GS00015001 N                    Belfast Metro Ops                                 7000
+QLN700000015002Mount Eagles Terminal                           1 
+QBN700000015002  326241  369544                                                
+GS00015002 N                    Belfast Metro Ops                                 7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO010AT01O
+ZD20091010        Saturdays                                                             0000030
+ZSTMAO010H10H City Centre - Black's Road                                                                          
+ZAN700000001429                                                P1W1T1
+ZAN700000001428                                                P1W1T1
+ZAN700000001824                                                P0W1T1
+ZAN700000000396                                                P0W0T0
+ZAN700000000398                                                P0W0T0
+ZAN700000000494                                                P0W0T0
+ZAN700000000496                                                P0W0T0
+ZAN700000000498                                                P0W0T0
+ZAN700000000500                                                P0W0T0
+ZAN700000000502                                                P0W0T0
+ZAN700000001789                                                P1W1T1
+ZAN700000001790                                                P0W0T0
+ZAN700000001791                                                P0W0T0
+ZAN700000001792                                                P0W0T0
+ZAN700000001793                                                P0W0T0
+ZAN700000001794                                                P0W1T1
+ZAN700000001796                                                P1W1T1
+ZAN700000001797                                                P0W0T0
+ZAN700000001798                                                P0W0T0
+ZAN700000001799                                                P0W1T1
+ZAN700000000464                                                P0W0T0
+ZAN700000000466                                                P1W1T1
+ZAN700000000468                                                P0W0T0
+ZAN700000000470                                                P0W0T0
+ZAN700000000472                                                P0W0T0
+ZAN700000000474                                                P0W0T0
+ZAN700000000476                                                P0W0T0
+ZAN700000000478                                                P1W1T1
+ZAN700000000480                                                P0W0T0
+ZAN700000000400                                                P0W0T0
+ZAN700000000330                                                P0W0T0
+ZAN700000001124                                                P0W0T0
+ZAN700000001126                                                P0W0T0
+ZAN700000001128                                                P0W0T0
+ZAN700000001130                                                P1W1T1
+ZAN700000000482                                                P0W0T0
+ZAN700000000334                                                P0W0T0
+ZAN700000000336                                                P0W0T0
+ZAN700000014784                                                P0W0T0
+ZAN700000000338                                                P0W0T0
+ZAN700000000340                                                P1W1T1
+ZAN700000001762                                                P0W0T0
+ZAN700000001763                                                P0W0T0
+ZAN700000001764                                                P0W0T0
+ZAN700000001765                                                P1W1T1
+ZAN700000001766                                                P0W0T0
+ZAN700000001767                                                P0W0T0
+ZAN700000001768                                                P0W0T0
+ZAN700000001769                                                P0W0T0
+ZAN700000001770                                                P0W0T0
+ZAN700000001771                                                P1W1T1
+ZAN700000001773                                                P0W0T0
+ZAN700000001774                                                P0W0T0
+ZAN700000001775                                                P0W0T0
+ZAN700000001776                                                P0W0T0
+ZAN700000001777                                                P0W0T0
+ZAN700000001778                                                P0W0T0
+ZAN700000001779                                                P0W0T0
+ZAN700000001780                                                P1W1T1
+ZAN700000000484                                                P0W0T0
+ZAN700000000486                                                P0W0T0
+ZAN700000000488                                                P1W1T1
+ZAN700000000490                                                P0W0T0
+ZAN700000000058                                                P0W0T0
+ZAN700000000060                                                P0W0T0
+ZAN700000014724                                                P0W0T0
+ZAN700000014736                                                P0W0T0
+ZAN700000000062                                                P0W0T0
+ZAN700000000064                                                P0W0T0
+ZAN700000014715                                                P1W1T1
+ZAN700000000490                                                P1W1T1
+ZAN700000014714                                                P0W0T0
+ZAN700000014750                                                P0W0T0
+ZAN700000000492                                                P1W1T1
+ZAN700000000102                                                P0W0T0
+ZAN700000000104                                                P0W0T0
+ZAN700000000106                                                P1W1T1
+ZAN700000000108                                                P0W0T0
+ZAN700000014721                                                P0W0T0
+ZAN700000000112                                                P0W0T0
+ZAN700000000114                                                P0W0T0
+ZAN700000000122                                                P0W0T0
+ZAN700000014729                                                P1W1T1
+ZAN700000014752                                                P0W0T0
+ZAN700000000128                                                P1W1T1
+ZAN700000000072                                                P0W0T0
+ZAN700000000074                                                P0W0T0
+ZAN700000014755                                                P0W0T0
+ZAN700000000080                                                P1W1T1
+ZAN700000000422                                                P1W1T1
+ZAN700000000082                                                P0W0T0
+ZAN700000000084                                                P0W0T0
+ZAN700000000086                                                P0W0T0
+ZAN700000000088                                                P0W0T0
+ZAN700000000036                                                P0W0T0
+ZAN700000014751                                                P0W0T0
+ZAN700000000130                                                P0W0T0
+ZAN700000000132                                                P0W0T0
+ZAN700000000426                                                P0W0T0
+ZAN700000000428                                                P1W1T1
+ZAN700000000430                                                P0W0T0
+ZAN700000000016                                                P1W1T1
+ZAN700000000018                                                P0W0T0
+ZAN700000000020                                                P0W0T0
+ZAN700000000022                                                P0W0T0
+ZAN700000000024                                                P0W0T0
+ZAN700000000026                                                P0W1T1
+ZAN700000001871                                                P1W1T1
+ZAN700000000000                                                P0W0T0
+ZAN700000001867                                                P0W0T0
+ZAN700000015000                                                P0W0T0
+ZAN700000015001                                                P0W0T0
+ZAN700000015002                                                P1W1T1
+QSNTM  14091720091010        0000010  10H 10F04 0               O
+ZJTMAO010H001  1 700     000CB   1135    1313    C         0000030L0
+QO7000000014291135   T1F0
+ZECH0      113500113500P0W0
+QI70000000182411351135B   T1F0
+ZECH0      113500113500P0W0
+QI70000000039611351135B   T0F0
+ZE H0      113550113550P0W0
+QI70000000039811361136B   T0F0
+ZE H0      113642113642P0W0
+QI70000000049411371137B   T0F0
+ZE H0      113705113705P0W0
+QI70000000049611371137B   T0F0
+ZE H0      113741113741P0W0
+QI70000000049811381138B   T0F0
+ZE H0      113824113824P0W0
+QI70000000050011381138B   T0F0
+ZE H0      113849113849P0W0
+QI70000000050211391139B   T0F0
+ZE H0      113927113927P0W0
+QI70000000178911401140B   T1F0
+ZECH0      114000114000P0W0
+QI70000000179011401140B   T0F0
+ZECH0      114021114021P0W0
+QI70000000179111401140B   T0F0
+ZECH0      114055114055P0W0
+QI70000000179211411141B   T0F0
+ZECH0      114126114126P0W0
+QI70000000179311421142B   T0F0
+ZECH0      114208114208P0W0
+QI70000000179411431143B   T1F0
+ZECH0      114300114300P0W0
+QI70000000179611441144B   T1F0
+ZECH0      114400114400P0W0
+QI70000000179711441144B   T0F0
+ZECH0      114442114442P0W0
+QI70000000179811451145B   T0F0
+ZECH0      114513114513P0W0
+QI70000000179911461146B   T1F0
+ZECH0      114600114600P0W0
+QI70000000046411461146B   T0F0
+ZECH0      114634114634P0W0
+QI70000000046611471147B   T1F0
+ZECH0      114700114700P0W0
+QI70000000046811471147B   T0F0
+ZECH0      114730114730P0W0
+QI70000000047011481148B   T0F0
+ZECH0      114813114813P0W0
+QI70000000047211481148B   T0F0
+ZECH0      114843114843P0W0
+QI70000000047411491149B   T0F0
+ZECH0      114907114907P0W0
+QI70000000047611501150B   T0F0
+ZECH0      115004115004P0W0
+QI70000000047811511151B   T1F0
+ZECH0      115100115100P0W0
+QI70000000048011511151B   T0F0
+ZECH0      115131115131P0W0
+QI70000000048211511151B   T0F0
+ZECH0      115156115156P0W0
+QI70000000048411521152B   T0F0
+ZECH0      115240115240P0W0
+QI70000000048611531153B   T0F0
+ZECH0      115318115318P0W0
+QI70000000048811541154B   T1F0
+ZECH0      115400115400P0W0
+QI70000000049011541154B   T0F0
+ZECH0      115436115436P0W0
+QI70000000005811551155B   T0F0
+ZECH0      115514115514P0W0
+QI70000000006011551155B   T0F0
+ZECH0      115539115539P0W0
+QI70000001472411561156B   T0F0
+ZECH0      115605115605P0W0
+QI70000001473611561156B   T0F0
+ZECH0      115623115623P0W0
+QI70000000006211561156B   T0F0
+ZECH0      115659115659P0W0
+QI70000000006411571157B   T0F0
+ZECH0      115739115739P0W0
+QT7000000147151158   T1F0
+ZECH0      115800115800P0W0
+QSNTM  14092320091010        0000010  10H 10F03 0               O
+ZJTMAO010H001  1 700     000CB   1205    3328    C         0000030L0
+QO7000000014291205   T1F0
+ZECH0      120500120500P0W0
+QI70000000182412051205B   T1F0
+ZECH0      120500120500P0W0
+QI70000000039612061206B   T0F0
+ZECH0      120610120610P0W0
+QI70000000039812071207B   T0F0
+ZECH0      120723120723P0W0
+QI70000000049412071207B   T0F0
+ZECH0      120756120756P0W0
+QI70000000049612081208B   T0F0
+ZECH0      120846120846P0W0
+QI70000000049812091209B   T0F0
+ZECH0      120946120946P0W0
+QI70000000050012101210B   T0F0
+ZECH0      121020121020P0W0
+QI70000000050212111211B   T0F0
+ZECH0      121114121114P0W0
+QI70000000178912121212B   T1F0
+ZECH0      121200121200P0W0
+QI70000000179012121212B   T0F0
+ZECH0      121228121228P0W0
+QI70000000179112131213B   T0F0
+ZECH0      121313121313P0W0
+QI70000000179212131213B   T0F0
+ZECH0      121355121355P0W0
+QI70000000179312141214B   T0F0
+ZECH0      121450121450P0W0
+QI70000000179412161216B   T1F0
+ZECH0      121600121600P0W0
+QI70000000179612171217B   T1F0
+ZECH0      121700121700P0W0
+QI70000000179712171217B   T0F0
+ZECH0      121742121742P0W0
+QI70000000179812181218B   T0F0
+ZECH0      121813121813P0W0
+QI70000000179912191219B   T1F0
+ZECH0      121900121900P0W0
+QI70000000046412191219B   T0F0
+ZECH0      121934121934P0W0
+QI70000000046612201220B   T1F0
+ZECH0      122000122000P0W0
+QI70000000046812201220B   T0F0
+ZECH0      122030122030P0W0
+QI70000000047012211221B   T0F0
+ZECH0      122113122113P0W0
+QI70000000047212211221B   T0F0
+ZECH0      122143122143P0W0
+QI70000000047412221222B   T0F0
+ZECH0      122207122207P0W0
+QI70000000047612231223B   T0F0
+ZECH0      122304122304P0W0
+QI70000000047812241224B   T1F0
+ZECH0      122400122400P0W0
+QI70000000048012241224B   T0F0
+ZECH0      122441122441P0W0
+QI70000000048212251225B   T0F0
+ZECH0      122514122514P0W0
+QI70000000048412261226B   T0F0
+ZECH0      122614122614P0W0
+QI70000000048612271227B   T0F0
+ZECH0      122704122704P0W0
+QI70000000048812281228B   T1F0
+ZECH0      122800122800P0W0
+QI70000000049012281228B   T0F0
+ZECH0      122836122836P0W0
+QI70000000005812291229B   T0F0
+ZECH0      122914122914P0W0
+QI70000000006012291229B   T0F0
+ZECH0      122939122939P0W0
+QI70000001472412301230B   T0F0
+ZECH0      123005123005P0W0
+QI70000001473612301230B   T0F0
+ZECH0      123023123023P0W0
+QI70000000006212301230B   T0F0
+ZECH0      123059123059P0W0
+QI70000000006412311231B   T0F0
+ZECH0      123139123139P0W0
+QT7000000147151232   T1F0
+ZECH0      123200123200P0W0
+QSNTM  14092920091010        0000010  10H 10F11 0               O
+ZJTMAO010H001  1 700     000CB   1235    1307    C         0000030L0
+QO7000000014291235   T1F0
+ZECH0      123500123500P0W0
+QI70000000182412351235B   T1F0
+ZECH0      123500123500P0W0
+QI70000000039612361236B   T0F0
+ZECH0      123610123610P0W0
+QI70000000039812371237B   T0F0
+ZECH0      123723123723P0W0
+QI70000000049412371237B   T0F0
+ZECH0      123756123756P0W0
+QI70000000049612381238B   T0F0
+ZECH0      123846123846P0W0
+QI70000000049812391239B   T0F0
+ZECH0      123946123946P0W0
+QI70000000050012401240B   T0F0
+ZECH0      124020124020P0W0
+QI70000000050212411241B   T0F0
+ZECH0      124114124114P0W0
+QI70000000178912421242B   T1F0
+ZECH0      124200124200P0W0
+QI70000000179012421242B   T0F0
+ZECH0      124228124228P0W0
+QI70000000179112431243B   T0F0
+ZECH0      124313124313P0W0
+QI70000000179212431243B   T0F0
+ZECH0      124355124355P0W0
+QI70000000179312441244B   T0F0
+ZECH0      124450124450P0W0
+QI70000000179412461246B   T1F0
+ZECH0      124600124600P0W0
+QI70000000179612471247B   T1F0
+ZECH0      124700124700P0W0
+QI70000000179712471247B   T0F0
+ZECH0      124742124742P0W0
+QI70000000179812481248B   T0F0
+ZECH0      124813124813P0W0
+QI70000000179912491249B   T1F0
+ZECH0      124900124900P0W0
+QI70000000046412491249B   T0F0
+ZECH0      124934124934P0W0
+QI70000000046612501250B   T1F0
+ZECH0      125000125000P0W0
+QI70000000046812501250B   T0F0
+ZECH0      125030125030P0W0
+QI70000000047012511251B   T0F0
+ZECH0      125113125113P0W0
+QI70000000047212511251B   T0F0
+ZECH0      125143125143P0W0
+QI70000000047412521252B   T0F0
+ZECH0      125207125207P0W0
+QI70000000047612531253B   T0F0
+ZECH0      125304125304P0W0
+QI70000000047812541254B   T1F0
+ZECH0      125400125400P0W0
+QI70000000048012541254B   T0F0
+ZECH0      125441125441P0W0
+QI70000000048212551255B   T0F0
+ZECH0      125514125514P0W0
+QI70000000048412561256B   T0F0
+ZECH0      125614125614P0W0
+QI70000000048612571257B   T0F0
+ZECH0      125704125704P0W0
+QI70000000048812581258B   T1F0
+ZECH0      125800125800P0W0
+QI70000000049012581258B   T0F0
+ZECH0      125836125836P0W0
+QI70000000005812591259B   T0F0
+ZECH0      125914125914P0W0
+QI70000000006012591259B   T0F0
+ZECH0      125939125939P0W0
+QI70000001472413001300B   T0F0
+ZECH0      130005130005P0W0
+QI70000001473613001300B   T0F0
+ZECH0      130023130023P0W0
+QI70000000006213001300B   T0F0
+ZECH0      130059130059P0W0
+QI70000000006413011301B   T0F0
+ZECH0      130139130139P0W0
+QT7000000147151302   T1F0
+ZECH0      130200130200P0W0
+QSNTM  14093520091010        0000010  10H 10F13 0               O
+ZJTMAO010H001  1 700     000CB   1305    1322    C         0000030L0
+QO7000000014291305   T1F0
+ZECH0      130500130500P0W0
+QI70000000182413051305B   T1F0
+ZECH0      130500130500P0W0
+QI70000000039613061306B   T0F0
+ZECH0      130610130610P0W0
+QI70000000039813071307B   T0F0
+ZECH0      130723130723P0W0
+QI70000000049413071307B   T0F0
+ZECH0      130756130756P0W0
+QI70000000049613081308B   T0F0
+ZECH0      130846130846P0W0
+QI70000000049813091309B   T0F0
+ZECH0      130946130946P0W0
+QI70000000050013101310B   T0F0
+ZECH0      131020131020P0W0
+QI70000000050213111311B   T0F0
+ZECH0      131114131114P0W0
+QI70000000178913121312B   T1F0
+ZECH0      131200131200P0W0
+QI70000000179013121312B   T0F0
+ZECH0      131228131228P0W0
+QI70000000179113131313B   T0F0
+ZECH0      131313131313P0W0
+QI70000000179213131313B   T0F0
+ZECH0      131355131355P0W0
+QI70000000179313141314B   T0F0
+ZECH0      131450131450P0W0
+QI70000000179413161316B   T1F0
+ZECH0      131600131600P0W0
+QI70000000179613171317B   T1F0
+ZECH0      131700131700P0W0
+QI70000000179713171317B   T0F0
+ZECH0      131742131742P0W0
+QI70000000179813181318B   T0F0
+ZECH0      131813131813P0W0
+QI70000000179913191319B   T1F0
+ZECH0      131900131900P0W0
+QI70000000046413191319B   T0F0
+ZECH0      131934131934P0W0
+QI70000000046613201320B   T1F0
+ZECH0      132000132000P0W0
+QI70000000046813201320B   T0F0
+ZECH0      132030132030P0W0
+QI70000000047013211321B   T0F0
+ZECH0      132113132113P0W0
+QI70000000047213211321B   T0F0
+ZECH0      132143132143P0W0
+QI70000000047413221322B   T0F0
+ZECH0      132207132207P0W0
+QI70000000047613231323B   T0F0
+ZECH0      132304132304P0W0
+QI70000000047813241324B   T1F0
+ZECH0      132400132400P0W0
+QI70000000048013241324B   T0F0
+ZECH0      132441132441P0W0
+QI70000000048213251325B   T0F0
+ZECH0      132514132514P0W0
+QI70000000048413261326B   T0F0
+ZECH0      132614132614P0W0
+QI70000000048613271327B   T0F0
+ZECH0      132704132704P0W0
+QI70000000048813281328B   T1F0
+ZECH0      132800132800P0W0
+QI70000000049013281328B   T0F0
+ZECH0      132836132836P0W0
+QI70000000005813291329B   T0F0
+ZECH0      132914132914P0W0
+QI70000000006013291329B   T0F0
+ZECH0      132939132939P0W0
+QI70000001472413301330B   T0F0
+ZECH0      133005133005P0W0
+QI70000001473613301330B   T0F0
+ZECH0      133023133023P0W0
+QI70000000006213301330B   T0F0
+ZECH0      133059133059P0W0
+QI70000000006413311331B   T0F0
+ZECH0      133139133139P0W0
+QT7000000147151332   T1F0
+ZECH0      133200133200P0W0
+QSNTM  14094120091010        0000010  10H 10F16 0               O
+ZJTMAO010H001  1 700     000CB   1335    1343    C         0000030L0
+QO7000000014291335   T1F0
+ZECH0      133500133500P0W0
+QI70000000182413351335B   T1F0
+ZECH0      133500133500P0W0
+QI70000000039613361336B   T0F0
+ZECH0      133610133610P0W0
+QI70000000039813371337B   T0F0
+ZECH0      133723133723P0W0
+QI70000000049413371337B   T0F0
+ZECH0      133756133756P0W0
+QI70000000049613381338B   T0F0
+ZECH0      133846133846P0W0
+QI70000000049813391339B   T0F0
+ZECH0      133946133946P0W0
+QI70000000050013401340B   T0F0
+ZECH0      134020134020P0W0
+QI70000000050213411341B   T0F0
+ZECH0      134114134114P0W0
+QI70000000178913421342B   T1F0
+ZECH0      134200134200P0W0
+QI70000000179013421342B   T0F0
+ZECH0      134228134228P0W0
+QI70000000179113431343B   T0F0
+ZECH0      134313134313P0W0
+QI70000000179213431343B   T0F0
+ZECH0      134355134355P0W0
+QI70000000179313441344B   T0F0
+ZECH0      134450134450P0W0
+QI70000000179413461346B   T1F0
+ZECH0      134600134600P0W0
+QI70000000179613471347B   T1F0
+ZECH0      134700134700P0W0
+QI70000000179713471347B   T0F0
+ZECH0      134742134742P0W0
+QI70000000179813481348B   T0F0
+ZECH0      134813134813P0W0
+QI70000000179913491349B   T1F0
+ZECH0      134900134900P0W0
+QI70000000046413491349B   T0F0
+ZECH0      134934134934P0W0
+QI70000000046613501350B   T1F0
+ZECH0      135000135000P0W0
+QI70000000046813501350B   T0F0
+ZECH0      135030135030P0W0
+QI70000000047013511351B   T0F0
+ZECH0      135113135113P0W0
+QI70000000047213511351B   T0F0
+ZECH0      135143135143P0W0
+QI70000000047413521352B   T0F0
+ZECH0      135207135207P0W0
+QI70000000047613531353B   T0F0
+ZECH0      135304135304P0W0
+QI70000000047813541354B   T1F0
+ZECH0      135400135400P0W0
+QI70000000048013541354B   T0F0
+ZECH0      135441135441P0W0
+QI70000000048213551355B   T0F0
+ZECH0      135514135514P0W0
+QI70000000048413561356B   T0F0
+ZECH0      135614135614P0W0
+QI70000000048613571357B   T0F0
+ZECH0      135704135704P0W0
+QI70000000048813581358B   T1F0
+ZECH0      135800135800P0W0
+QI70000000049013581358B   T0F0
+ZECH0      135836135836P0W0
+QI70000000005813591359B   T0F0
+ZECH0      135914135914P0W0
+QI70000000006013591359B   T0F0
+ZECH0      135939135939P0W0
+QI70000001472414001400B   T0F0
+ZECH0      140005140005P0W0
+QI70000001473614001400B   T0F0
+ZECH0      140023140023P0W0
+QI70000000006214001400B   T0F0
+ZECH0      140059140059P0W0
+QI70000000006414011401B   T0F0
+ZECH0      140139140139P0W0
+QT7000000147151402   T1F0
+ZECH0      140200140200P0W0
+QSNTM  14094720091010        0000010  10H 10G12 0               O
+ZJTMAO010H001  1 700     000CB   1405    1211    C         0000030L0
+QO7000000014291405   T1F0
+ZECH0      140500140500P0W0
+QI70000000182414051405B   T1F0
+ZECH0      140500140500P0W0
+QI70000000039614061406B   T0F0
+ZECH0      140610140610P0W0
+QI70000000039814071407B   T0F0
+ZECH0      140723140723P0W0
+QI70000000049414071407B   T0F0
+ZECH0      140756140756P0W0
+QI70000000049614081408B   T0F0
+ZECH0      140846140846P0W0
+QI70000000049814091409B   T0F0
+ZECH0      140946140946P0W0
+QI70000000050014101410B   T0F0
+ZECH0      141020141020P0W0
+QI70000000050214111411B   T0F0
+ZECH0      141114141114P0W0
+QI70000000178914121412B   T1F0
+ZECH0      141200141200P0W0
+QI70000000179014121412B   T0F0
+ZECH0      141228141228P0W0
+QI70000000179114131413B   T0F0
+ZECH0      141313141313P0W0
+QI70000000179214131413B   T0F0
+ZECH0      141355141355P0W0
+QI70000000179314141414B   T0F0
+ZECH0      141450141450P0W0
+QI70000000179414161416B   T1F0
+ZECH0      141600141600P0W0
+QI70000000179614171417B   T1F0
+ZECH0      141700141700P0W0
+QI70000000179714171417B   T0F0
+ZECH0      141742141742P0W0
+QI70000000179814181418B   T0F0
+ZECH0      141813141813P0W0
+QI70000000179914191419B   T1F0
+ZECH0      141900141900P0W0
+QI70000000046414191419B   T0F0
+ZECH0      141934141934P0W0
+QI70000000046614201420B   T1F0
+ZECH0      142000142000P0W0
+QI70000000046814201420B   T0F0
+ZECH0      142030142030P0W0
+QI70000000047014211421B   T0F0
+ZECH0      142113142113P0W0
+QI70000000047214211421B   T0F0
+ZECH0      142143142143P0W0
+QI70000000047414221422B   T0F0
+ZECH0      142207142207P0W0
+QI70000000047614231423B   T0F0
+ZECH0      142304142304P0W0
+QI70000000047814241424B   T1F0
+ZECH0      142400142400P0W0
+QI70000000048014241424B   T0F0
+ZECH0      142441142441P0W0
+QI70000000048214251425B   T0F0
+ZECH0      142514142514P0W0
+QI70000000048414261426B   T0F0
+ZECH0      142614142614P0W0
+QI70000000048614271427B   T0F0
+ZECH0      142704142704P0W0
+QI70000000048814281428B   T1F0
+ZECH0      142800142800P0W0
+QI70000000049014281428B   T0F0
+ZECH0      142836142836P0W0
+QI70000000005814291429B   T0F0
+ZECH0      142914142914P0W0
+QI70000000006014291429B   T0F0
+ZECH0      142939142939P0W0
+QI70000001472414301430B   T0F0
+ZECH0      143005143005P0W0
+QI70000001473614301430B   T0F0
+ZECH0      143023143023P0W0
+QI70000000006214301430B   T0F0
+ZECH0      143059143059P0W0
+QI70000000006414311431B   T0F0
+ZECH0      143139143139P0W0
+QT7000000147151432   T1F0
+ZECH0      143200143200P0W0
+QSNTM  14095320091010        0000010  10H 10F15 0               O
+ZJTMAO010H001  1 700     000CB   1435    2356    C         0000030L0
+QO7000000014291435   T1F0
+ZECH0      143500143500P0W0
+QI70000000182414351435B   T1F0
+ZECH0      143500143500P0W0
+QI70000000039614361436B   T0F0
+ZE H0      143610143610P0W0
+QI70000000039814371437B   T0F0
+ZE H0      143723143723P0W0
+QI70000000049414371437B   T0F0
+ZE H0      143756143756P0W0
+QI70000000049614381438B   T0F0
+ZE H0      143846143846P0W0
+QI70000000049814391439B   T0F0
+ZE H0      143946143946P0W0
+QI70000000050014401440B   T0F0
+ZE H0      144020144020P0W0
+QI70000000050214411441B   T0F0
+ZE H0      144114144114P0W0
+QI70000000178914421442B   T1F0
+ZECH0      144200144200P0W0
+QI70000000179014421442B   T0F0
+ZECH0      144228144228P0W0
+QI70000000179114431443B   T0F0
+ZECH0      144313144313P0W0
+QI70000000179214431443B   T0F0
+ZECH0      144355144355P0W0
+QI70000000179314441444B   T0F0
+ZECH0      144450144450P0W0
+QI70000000179414461446B   T1F0
+ZECH0      144600144600P0W0
+QI70000000179614471447B   T1F0
+ZECH0      144700144700P0W0
+QI70000000179714471447B   T0F0
+ZECH0      144742144742P0W0
+QI70000000179814481448B   T0F0
+ZECH0      144813144813P0W0
+QI70000000179914491449B   T1F0
+ZECH0      144900144900P0W0
+QI70000000046414491449B   T0F0
+ZECH0      144934144934P0W0
+QI70000000046614501450B   T1F0
+ZECH0      145000145000P0W0
+QI70000000046814501450B   T0F0
+ZECH0      145030145030P0W0
+QI70000000047014511451B   T0F0
+ZECH0      145113145113P0W0
+QI70000000047214511451B   T0F0
+ZECH0      145143145143P0W0
+QI70000000047414521452B   T0F0
+ZECH0      145207145207P0W0
+QI70000000047614531453B   T0F0
+ZECH0      145304145304P0W0
+QI70000000047814541454B   T1F0
+ZECH0      145400145400P0W0
+QI70000000048014541454B   T0F0
+ZECH0      145441145441P0W0
+QI70000000048214551455B   T0F0
+ZECH0      145514145514P0W0
+QI70000000048414561456B   T0F0
+ZECH0      145614145614P0W0
+QI70000000048614571457B   T0F0
+ZECH0      145704145704P0W0
+QI70000000048814581458B   T1F0
+ZECH0      145800145800P0W0
+QI70000000049014581458B   T0F0
+ZECH0      145836145836P0W0
+QI70000000005814591459B   T0F0
+ZECH0      145914145914P0W0
+QI70000000006014591459B   T0F0
+ZECH0      145939145939P0W0
+QI70000001472415001500B   T0F0
+ZECH0      150005150005P0W0
+QI70000001473615001500B   T0F0
+ZECH0      150023150023P0W0
+QI70000000006215001500B   T0F0
+ZECH0      150059150059P0W0
+QI70000000006415011501B   T0F0
+ZECH0      150139150139P0W0
+QT7000000147151502   T1F0
+ZECH0      150200150200P0W0
+QSNTM  14095920091010        0000010  10H 10F04 0               O
+ZJTMAO010H001  1 700     000CB   1505    1313    C         0000030L0
+QO7000000014291505   T1F0
+ZECH0      150500150500P0W0
+QI70000000182415051505B   T1F0
+ZECH0      150500150500P0W0
+QI70000000039615061506B   T0F0
+ZECH0      150610150610P0W0
+QI70000000039815071507B   T0F0
+ZECH0      150723150723P0W0
+QI70000000049415071507B   T0F0
+ZECH0      150756150756P0W0
+QI70000000049615081508B   T0F0
+ZECH0      150846150846P0W0
+QI70000000049815091509B   T0F0
+ZECH0      150946150946P0W0
+QI70000000050015101510B   T0F0
+ZECH0      151020151020P0W0
+QI70000000050215111511B   T0F0
+ZECH0      151114151114P0W0
+QI70000000178915121512B   T1F0
+ZECH0      151200151200P0W0
+QI70000000179015121512B   T0F0
+ZECH0      151228151228P0W0
+QI70000000179115131513B   T0F0
+ZECH0      151313151313P0W0
+QI70000000179215131513B   T0F0
+ZECH0      151355151355P0W0
+QI70000000179315141514B   T0F0
+ZECH0      151450151450P0W0
+QI70000000179415161516B   T1F0
+ZECH0      151600151600P0W0
+QI70000000179615171517B   T1F0
+ZECH0      151700151700P0W0
+QI70000000179715171517B   T0F0
+ZECH0      151742151742P0W0
+QI70000000179815181518B   T0F0
+ZECH0      151813151813P0W0
+QI70000000179915191519B   T1F0
+ZECH0      151900151900P0W0
+QI70000000046415191519B   T0F0
+ZE H0      151934151934P0W0
+QI70000000046615201520B   T1F0
+ZECH0      152000152000P0W0
+QI70000000046815201520B   T0F0
+ZECH0      152030152030P0W0
+QI70000000047015211521B   T0F0
+ZECH0      152113152113P0W0
+QI70000000047215211521B   T0F0
+ZECH0      152143152143P0W0
+QI70000000047415221522B   T0F0
+ZECH0      152207152207P0W0
+QI70000000047615231523B   T0F0
+ZECH0      152304152304P0W0
+QI70000000047815241524B   T1F0
+ZECH0      152400152400P0W0
+QI70000000048015241524B   T0F0
+ZECH0      152441152441P0W0
+QI70000000048215251525B   T0F0
+ZECH0      152514152514P0W0
+QI70000000048415261526B   T0F0
+ZECH0      152614152614P0W0
+QI70000000048615271527B   T0F0
+ZECH0      152704152704P0W0
+QI70000000048815281528B   T1F0
+ZECH0      152800152800P0W0
+QI70000000049015281528B   T0F0
+ZECH0      152836152836P0W0
+QI70000000005815291529B   T0F0
+ZECH0      152914152914P0W0
+QI70000000006015291529B   T0F0
+ZECH0      152939152939P0W0
+QI70000001472415301530B   T0F0
+ZECH0      153005153005P0W0
+QI70000001473615301530B   T0F0
+ZECH0      153023153023P0W0
+QI70000000006215301530B   T0F0
+ZECH0      153059153059P0W0
+QI70000000006415311531B   T0F0
+ZECH0      153139153139P0W0
+QT7000000147151532   T1F0
+ZECH0      153200153200P0W0
+QSNTM  14096520091010        0000010  10H 10F03 0               O
+ZJTMAO010H001  1 700     000CB   1535    1208    C         0000030L0
+QO7000000014291535   T1F0
+ZECH0      153500153500P0W0
+QI70000000182415351535B   T1F0
+ZECH0      153500153500P0W0
+QI70000000039615361536B   T0F0
+ZECH0      153610153610P0W0
+QI70000000039815371537B   T0F0
+ZECH0      153723153723P0W0
+QI70000000049415371537B   T0F0
+ZECH0      153756153756P0W0
+QI70000000049615381538B   T0F0
+ZECH0      153846153846P0W0
+QI70000000049815391539B   T0F0
+ZECH0      153946153946P0W0
+QI70000000050015401540B   T0F0
+ZECH0      154020154020P0W0
+QI70000000050215411541B   T0F0
+ZECH0      154114154114P0W0
+QI70000000178915421542B   T1F0
+ZECH0      154200154200P0W0
+QI70000000179015421542B   T0F0
+ZECH0      154228154228P0W0
+QI70000000179115431543B   T0F0
+ZECH0      154313154313P0W0
+QI70000000179215431543B   T0F0
+ZECH0      154355154355P0W0
+QI70000000179315441544B   T0F0
+ZECH0      154450154450P0W0
+QI70000000179415461546B   T1F0
+ZECH0      154600154600P0W0
+QI70000000179615471547B   T1F0
+ZECH0      154700154700P0W0
+QI70000000179715471547B   T0F0
+ZECH0      154742154742P0W0
+QI70000000179815481548B   T0F0
+ZECH0      154813154813P0W0
+QI70000000179915491549B   T1F0
+ZECH0      154900154900P0W0
+QI70000000046415491549B   T0F0
+ZECH0      154934154934P0W0
+QI70000000046615501550B   T1F0
+ZECH0      155000155000P0W0
+QI70000000046815501550B   T0F0
+ZECH0      155030155030P0W0
+QI70000000047015511551B   T0F0
+ZECH0      155113155113P0W0
+QI70000000047215511551B   T0F0
+ZECH0      155143155143P0W0
+QI70000000047415521552B   T0F0
+ZECH0      155207155207P0W0
+QI70000000047615531553B   T0F0
+ZECH0      155304155304P0W0
+QI70000000047815541554B   T1F0
+ZECH0      155400155400P0W0
+QI70000000048015541554B   T0F0
+ZECH0      155441155441P0W0
+QI70000000048215551555B   T0F0
+ZECH0      155514155514P0W0
+QI70000000048415561556B   T0F0
+ZECH0      155614155614P0W0
+QI70000000048615571557B   T0F0
+ZECH0      155704155704P0W0
+QI70000000048815581558B   T1F0
+ZECH0      155800155800P0W0
+QI70000000049015581558B   T0F0
+ZECH0      155836155836P0W0
+QI70000000005815591559B   T0F0
+ZECH0      155914155914P0W0
+QI70000000006015591559B   T0F0
+ZECH0      155939155939P0W0
+QI70000001472416001600B   T0F0
+ZECH0      160005160005P0W0
+QI70000001473616001600B   T0F0
+ZECH0      160023160023P0W0
+QI70000000006216001600B   T0F0
+ZECH0      160059160059P0W0
+QI70000000006416011601B   T0F0
+ZECH0      160139160139P0W0
+QT7000000147151602   T1F0
+ZECH0      160200160200P0W0
+QSNTM  14097120091010        0000010  10H 10F11 0               O
+ZJTMAO010H001  1 700     000CB   1605    2218    C         0000030L0
+QO7000000014291605   T1F0
+ZECH0      160500160500P0W0
+QI70000000182416051605B   T1F0
+ZECH0      160500160500P0W0
+QI70000000039616061606B   T0F0
+ZECH0      160610160610P0W0
+QI70000000039816071607B   T0F0
+ZECH0      160723160723P0W0
+QI70000000049416071607B   T0F0
+ZECH0      160756160756P0W0
+QI70000000049616081608B   T0F0
+ZECH0      160846160846P0W0
+QI70000000049816091609B   T0F0
+ZECH0      160946160946P0W0
+QI70000000050016101610B   T0F0
+ZECH0      161020161020P0W0
+QI70000000050216111611B   T0F0
+ZECH0      161114161114P0W0
+QI70000000178916121612B   T1F0
+ZECH0      161200161200P0W0
+QI70000000179016121612B   T0F0
+ZECH0      161228161228P0W0
+QI70000000179116131613B   T0F0
+ZECH0      161313161313P0W0
+QI70000000179216131613B   T0F0
+ZECH0      161355161355P0W0
+QI70000000179316141614B   T0F0
+ZECH0      161450161450P0W0
+QI70000000179416161616B   T1F0
+ZECH0      161600161600P0W0
+QI70000000179616171617B   T1F0
+ZECH0      161700161700P0W0
+QI70000000179716171617B   T0F0
+ZECH0      161742161742P0W0
+QI70000000179816181618B   T0F0
+ZECH0      161813161813P0W0
+QI70000000179916191619B   T1F0
+ZECH0      161900161900P0W0
+QI70000000046416191619B   T0F0
+ZECH0      161934161934P0W0
+QI70000000046616201620B   T1F0
+ZECH0      162000162000P0W0
+QI70000000046816201620B   T0F0
+ZECH0      162030162030P0W0
+QI70000000047016211621B   T0F0
+ZECH0      162113162113P0W0
+QI70000000047216211621B   T0F0
+ZECH0      162143162143P0W0
+QI70000000047416221622B   T0F0
+ZECH0      162207162207P0W0
+QI70000000047616231623B   T0F0
+ZECH0      162304162304P0W0
+QI70000000047816241624B   T1F0
+ZECH0      162400162400P0W0
+QI70000000048016241624B   T0F0
+ZECH0      162441162441P0W0
+QI70000000048216251625B   T0F0
+ZECH0      162514162514P0W0
+QI70000000048416261626B   T0F0
+ZECH0      162614162614P0W0
+QI70000000048616271627B   T0F0
+ZECH0      162704162704P0W0
+QI70000000048816281628B   T1F0
+ZECH0      162800162800P0W0
+QI70000000049016281628B   T0F0
+ZECH0      162836162836P0W0
+QI70000000005816291629B   T0F0
+ZECH0      162914162914P0W0
+QI70000000006016291629B   T0F0
+ZECH0      162939162939P0W0
+QI70000001472416301630B   T0F0
+ZECH0      163005163005P0W0
+QI70000001473616301630B   T0F0
+ZECH0      163023163023P0W0
+QI70000000006216301630B   T0F0
+ZECH0      163059163059P0W0
+QI70000000006416311631B   T0F0
+ZECH0      163139163139P0W0
+QT7000000147151632   T1F0
+ZECH0      163200163200P0W0
+QSNTM  14097720091010        0000010  10H 10F13 0               O
+ZJTMAO010H001  1 700     000CB   1635    3204    C         0000030L0
+QO7000000014291635   T1F0
+ZECH0      163500163500P0W0
+QI70000000182416351635B   T1F0
+ZECH0      163500163500P0W0
+QI70000000039616361636B   T0F0
+ZECH0      163610163610P0W0
+QI70000000039816371637B   T0F0
+ZECH0      163723163723P0W0
+QI70000000049416371637B   T0F0
+ZECH0      163756163756P0W0
+QI70000000049616381638B   T0F0
+ZECH0      163846163846P0W0
+QI70000000049816391639B   T0F0
+ZECH0      163946163946P0W0
+QI70000000050016401640B   T0F0
+ZECH0      164020164020P0W0
+QI70000000050216411641B   T0F0
+ZECH0      164114164114P0W0
+QI70000000178916421642B   T1F0
+ZECH0      164200164200P0W0
+QI70000000179016421642B   T0F0
+ZECH0      164228164228P0W0
+QI70000000179116431643B   T0F0
+ZECH0      164313164313P0W0
+QI70000000179216431643B   T0F0
+ZECH0      164355164355P0W0
+QI70000000179316441644B   T0F0
+ZECH0      164450164450P0W0
+QI70000000179416461646B   T1F0
+ZECH0      164600164600P0W0
+QI70000000179616471647B   T1F0
+ZECH0      164700164700P0W0
+QI70000000179716471647B   T0F0
+ZECH0      164742164742P0W0
+QI70000000179816481648B   T0F0
+ZECH0      164813164813P0W0
+QI70000000179916491649B   T1F0
+ZECH0      164900164900P0W0
+QI70000000046416491649B   T0F0
+ZECH0      164934164934P0W0
+QI70000000046616501650B   T1F0
+ZECH0      165000165000P0W0
+QI70000000046816501650B   T0F0
+ZECH0      165030165030P0W0
+QI70000000047016511651B   T0F0
+ZECH0      165113165113P0W0
+QI70000000047216511651B   T0F0
+ZECH0      165143165143P0W0
+QI70000000047416521652B   T0F0
+ZECH0      165207165207P0W0
+QI70000000047616531653B   T0F0
+ZECH0      165304165304P0W0
+QI70000000047816541654B   T1F0
+ZECH0      165400165400P0W0
+QI70000000048016541654B   T0F0
+ZECH0      165441165441P0W0
+QI70000000048216551655B   T0F0
+ZECH0      165514165514P0W0
+QI70000000048416561656B   T0F0
+ZECH0      165614165614P0W0
+QI70000000048616571657B   T0F0
+ZECH0      165704165704P0W0
+QI70000000048816581658B   T1F0
+ZECH0      165800165800P0W0
+QI70000000049016581658B   T0F0
+ZECH0      165836165836P0W0
+QI70000000005816591659B   T0F0
+ZECH0      165914165914P0W0
+QI70000000006016591659B   T0F0
+ZECH0      165939165939P0W0
+QI70000001472417001700B   T0F0
+ZECH0      170005170005P0W0
+QI70000001473617001700B   T0F0
+ZECH0      170023170023P0W0
+QI70000000006217001700B   T0F0
+ZECH0      170059170059P0W0
+QI70000000006417011701B   T0F0
+ZECH0      170139170139P0W0
+QT7000000147151702   T1F0
+ZECH0      170200170200P0W0
+QSNTM  14098320091010        0000010  10H 10F16 0               O
+ZJTMAO010H001  1 700     000CB   1705    1323    C         0000030L0
+QO7000000014291705   T1F0
+ZECH0      170500170500P0W0
+QI70000000182417051705B   T1F0
+ZECH0      170500170500P0W0
+QI70000000039617061706B   T0F0
+ZECH0      170610170610P0W0
+QI70000000039817071707B   T0F0
+ZECH0      170723170723P0W0
+QI70000000049417071707B   T0F0
+ZECH0      170756170756P0W0
+QI70000000049617081708B   T0F0
+ZECH0      170846170846P0W0
+QI70000000049817091709B   T0F0
+ZECH0      170946170946P0W0
+QI70000000050017101710B   T0F0
+ZECH0      171020171020P0W0
+QI70000000050217111711B   T0F0
+ZECH0      171114171114P0W0
+QI70000000178917121712B   T1F0
+ZECH0      171200171200P0W0
+QI70000000179017121712B   T0F0
+ZECH0      171228171228P0W0
+QI70000000179117131713B   T0F0
+ZECH0      171313171313P0W0
+QI70000000179217131713B   T0F0
+ZECH0      171355171355P0W0
+QI70000000179317141714B   T0F0
+ZECH0      171450171450P0W0
+QI70000000179417161716B   T1F0
+ZECH0      171600171600P0W0
+QI70000000179617171717B   T1F0
+ZECH0      171700171700P0W0
+QI70000000179717171717B   T0F0
+ZECH0      171742171742P0W0
+QI70000000179817181718B   T0F0
+ZECH0      171813171813P0W0
+QI70000000179917191719B   T1F0
+ZECH0      171900171900P0W0
+QI70000000046417191719B   T0F0
+ZECH0      171934171934P0W0
+QI70000000046617201720B   T1F0
+ZECH0      172000172000P0W0
+QI70000000046817201720B   T0F0
+ZECH0      172030172030P0W0
+QI70000000047017211721B   T0F0
+ZECH0      172113172113P0W0
+QI70000000047217211721B   T0F0
+ZECH0      172143172143P0W0
+QI70000000047417221722B   T0F0
+ZECH0      172207172207P0W0
+QI70000000047617231723B   T0F0
+ZECH0      172304172304P0W0
+QI70000000047817241724B   T1F0
+ZECH0      172400172400P0W0
+QI70000000048017241724B   T0F0
+ZECH0      172441172441P0W0
+QI70000000048217251725B   T0F0
+ZECH0      172514172514P0W0
+QI70000000048417261726B   T0F0
+ZECH0      172614172614P0W0
+QI70000000048617271727B   T0F0
+ZECH0      172704172704P0W0
+QI70000000048817281728B   T1F0
+ZECH0      172800172800P0W0
+QI70000000049017281728B   T0F0
+ZECH0      172836172836P0W0
+QI70000000005817291729B   T0F0
+ZECH0      172914172914P0W0
+QI70000000006017291729B   T0F0
+ZECH0      172939172939P0W0
+QI70000001472417301730B   T0F0
+ZECH0      173005173005P0W0
+QI70000001473617301730B   T0F0
+ZECH0      173023173023P0W0
+QI70000000006217301730B   T0F0
+ZECH0      173059173059P0W0
+QI70000000006417311731B   T0F0
+ZECH0      173139173139P0W0
+QT7000000147151732   T1F0
+ZECH0      173200173200P0W0
+QSNTM  14098920091010        0000010  10H 10G12 0               O
+ZJTMAO010H001  1 700     000CB   1735    1302    C         0000030L0
+QO7000000014291735   T1F0
+ZECH0      173500173500P0W0
+QI70000000182417351735B   T1F0
+ZECH0      173500173500P0W0
+QI70000000039617361736B   T0F0
+ZECH0      173610173610P0W0
+QI70000000039817371737B   T0F0
+ZECH0      173723173723P0W0
+QI70000000049417371737B   T0F0
+ZECH0      173756173756P0W0
+QI70000000049617381738B   T0F0
+ZECH0      173846173846P0W0
+QI70000000049817391739B   T0F0
+ZECH0      173946173946P0W0
+QI70000000050017401740B   T0F0
+ZECH0      174020174020P0W0
+QI70000000050217411741B   T0F0
+ZECH0      174114174114P0W0
+QI70000000178917421742B   T1F0
+ZECH0      174200174200P0W0
+QI70000000179017421742B   T0F0
+ZECH0      174228174228P0W0
+QI70000000179117431743B   T0F0
+ZECH0      174313174313P0W0
+QI70000000179217431743B   T0F0
+ZECH0      174355174355P0W0
+QI70000000179317441744B   T0F0
+ZECH0      174450174450P0W0
+QI70000000179417461746B   T1F0
+ZECH0      174600174600P0W0
+QI70000000179617471747B   T1F0
+ZECH0      174700174700P0W0
+QI70000000179717471747B   T0F0
+ZECH0      174742174742P0W0
+QI70000000179817481748B   T0F0
+ZECH0      174813174813P0W0
+QI70000000179917491749B   T1F0
+ZECH0      174900174900P0W0
+QI70000000046417491749B   T0F0
+ZECH0      174934174934P0W0
+QI70000000046617501750B   T1F0
+ZECH0      175000175000P0W0
+QI70000000046817501750B   T0F0
+ZECH0      175030175030P0W0
+QI70000000047017511751B   T0F0
+ZECH0      175113175113P0W0
+QI70000000047217511751B   T0F0
+ZECH0      175143175143P0W0
+QI70000000047417521752B   T0F0
+ZECH0      175207175207P0W0
+QI70000000047617531753B   T0F0
+ZECH0      175304175304P0W0
+QI70000000047817541754B   T1F0
+ZECH0      175400175400P0W0
+QI70000000048017541754B   T0F0
+ZECH0      175441175441P0W0
+QI70000000048217551755B   T0F0
+ZECH0      175514175514P0W0
+QI70000000048417561756B   T0F0
+ZECH0      175614175614P0W0
+QI70000000048617571757B   T0F0
+ZECH0      175704175704P0W0
+QI70000000048817581758B   T1F0
+ZECH0      175800175800P0W0
+QI70000000049017581758B   T0F0
+ZECH0      175836175836P0W0
+QI70000000005817591759B   T0F0
+ZECH0      175914175914P0W0
+QI70000000006017591759B   T0F0
+ZECH0      175939175939P0W0
+QI70000001472418001800B   T0F0
+ZECH0      180005180005P0W0
+QI70000001473618001800B   T0F0
+ZECH0      180023180023P0W0
+QI70000000006218001800B   T0F0
+ZECH0      180059180059P0W0
+QI70000000006418011801B   T0F0
+ZECH0      180139180139P0W0
+QT7000000147151802   T1F0
+ZECH0      180200180200P0W0
+QLN700000015002Mount Eagles Terminal                           1 
+QBN700000015002  326241  369544                                                
+GS00015002 N                    Belfast Metro Ops                                 7000
+QLN700000001871Lagmore View                                    1 
+QBN700000001871  326764  369366                                                
+GS00001871 N                    Belfast Metro Ops                                 7000
+GR00001871Lagmore View                                                                                        7000
+QLN700000015004MOUNT EAGLES CRESCENT O/S 76                    0 
+QBN700000015004  326148  369333                                                
+GS00015004 N                    Belfast Metro Ops                                 7000
+QLN700000015005MOUNT EAGLES PARK                               0 
+QBN700000015005  326139  369235                                                
+GS00015005 N                    Belfast Metro Ops                                 7000
+QLN700000001868Village Square                                  0 
+QBN700000001868  326398  369026                                                
+GS00001868 N                    Belfast Metro Ops                                 7000
+GR00001868Mount Eagles Square                                                                                 7000
+QLN700000000002Lagmore Reservoir                               0 
+QBN700000000002  326677  369188                                                
+GS00000002 N                    Belfast Metro Ops                                 7000
+GR00000002Lagmore Ave                                                                                         7000
+QLN700000000004Lagmore Ave(Teeling Ave)                        1 
+QBN700000000004  326737  369160                                                
+GS00000004 N                    Belfast Metro Ops                                 7000
+GR00000004Lagmore Ave                                                                                         7000
+QLN700000000006Lagmore Ave(Glendowan Pk)                       0 
+QBN700000000006  326873  369054                                                
+GS00000006 N                    Belfast Metro Ops                                 7000
+GR00000006Lagmore Ave                                                                                         7000
+QLN700000000008Lagmore Ave(Glenferna)                          0 
+QBN700000000008  327329  369095                                                
+GS00000008 N                    Belfast Metro Ops                                 7000
+GR00000008Lagmore Ave                                                                                         7000
+QLN700000014717Lagmore Grove                                   0 
+QBN700000014717  327500  368890                                                
+GS00014717 N                    Belfast Metro Ops                                 7000
+GR00014717Lagmore Ave                                                                                         7000
+QLN700000000010Lagmore Meadows                                 0 
+QBN700000000010  327405  368789                                                
+GS00000010 N                    Belfast Metro Ops                                 7000
+GR00000010Lagmore Drive                                                                                       7000
+QLN700000000012Lagmore Drive                                   0 
+QBN700000000012  327396  368596                                                
+GS00000012 N                    Belfast Metro Ops                                 7000
+GR00000012Lagmore Drive                                                                                       7000
+QLN700000000014Lagmore Dale                                    1 
+QBN700000000014  327584  368462                                                
+GS00000014 N                    Belfast Metro Ops                                 7000
+GR00000014Lagmore Dale                                                                                        7000
+QLN700000000432Broom Park                                      0 
+QBN700000000432  327633  368370                                                
+GS00000432 N                    Belfast Metro Ops                                 7000
+GR00000432Stewartstown Rd                                                                                     7000
+QLN700000000434Creighton Mews                                  0 
+QBN700000000434  327674  368227                                                
+GS00000434 N                    Belfast Metro Ops                                 7000
+GR00000434Stewartstown Rd                                                                                     7000
+QLN700000000030Summerhill Estate                               0 
+QBN700000000030  327950  368317                                                
+GS00000030 N                    Belfast Metro Ops                                 7000
+GR00000030Summerhill Drive                                                                                    7000
+QLN700000000032Summerhill Drive(St.Marks)                      1 
+QBN700000000032  327949  368629                                                
+GS00000032 N                    Belfast Metro Ops                                 7000
+GR00000032Summerhill Drive                                                                                    7000
+QLN700000000404Stewartstown Rd(Lagmore Dale)                   0 
+QBN700000000404  327629  368517                                                
+GS00000404 N                    Belfast Metro Ops                                 7000
+GR00000404Stewartstown Rd                                                                                     7000
+QLN700000000406Stewartstown Road(Lagmore Avenue)               0 
+QBN700000000406  327662  368820                                                
+GS00000406 N                    Belfast Metro Ops                                 7000
+GR00000406Stewartstown Rd                                                                                     7000
+QLN700000000408Stewartstown Road(Lagmore grove)                0 
+QBN700000000408  327680  368972                                                
+GS00000408 N                    Belfast Metro Ops                                 7000
+GR00000408Stewartstown Rd                                                                                     7000
+QLN700000000410Stewartstown Road(Twinbrook Road)               1 
+QBN700000000410  327696  369132                                                
+GS00000410 N                    Belfast Metro Ops                                 7000
+GR00000410Stewartstown Rd                                                                                     7000
+QLN700000000036Twinbrook Rd                                    0 
+QBN700000000036  327927  369151                                                
+GS00000036 N                    Belfast Metro Ops                                 7000
+GR00000036Twinbrook Rd                                                                                        7000
+QLN700000000038Twinbrook Rd                                    0 
+QBN700000000038  327759  369175                                                
+GS00000038 N                    Belfast Metro Ops                                 7000
+GR00000038Twinbrook Rd                                                                                        7000
+QLN700000000412Stewartstown Road(Glasvey Park)                 0 
+QBN700000000412  327753  369326                                                
+GS00000412 N                    Belfast Metro Ops                                 7000
+GR00000412Stewartstown Rd                                                                                     7000
+QLN700000000414Stewartstown Road(Health Centre)                0 
+QBN700000000414  327909  369704                                                
+GS00000414 N                    Belfast Metro Ops                                 7000
+GR00000414Stewartstown Rd                                                                                     7000
+QLN700000000416Stewartstown Road(Dairy Farm)                   1 
+QBN700000000416  328036  369963                                                
+GS00000416 N                    Belfast Metro Ops                                 7000
+GR00000416Stewartstown Rd                                                                                     7000
+QLN700000000106Poleglass(Pembroke Loop)                        1 
+QBN700000000106  327684  370386                                                
+GS00000106 N                    Belfast Metro Ops                                 7000
+GR00000106Pembroke Loop                                                                                       7000
+QLN700000000108Pembroke Manor                                  0 
+QBN700000000108  327881  370607                                                
+GS00000108 N                    Belfast Metro Ops                                 7000
+GR00000108Pembroke Loop                                                                                       7000
+QLN700000014721Colinbrooke                                     0 
+QBN700000014721  327870  370890                                                
+GS00014721 N                    Belfast Metro Ops                                 7000
+GR00014721Pembrooke Loop                                                                                      7000
+QLN700000000110Colinbrook Avenue                               0 
+QBN700000000110  327681  370911                                                
+GS00000110 N                    Belfast Metro Ops                                 7000
+GR00000110Pembroke Loop                                                                                       7000
+QLN700000000112Springbank Close                                0 
+QBN700000000112  327588  370755                                                
+GS00000112 N                    Belfast Metro Ops                                 7000
+GR00000112Pembroke Loop                                                                                       7000
+QLN700000000122Brians Well Close                               0 
+QBN700000000122  327195  370094                                                
+GS00000122 N                    Belfast Metro Ops                                 7000
+GR00000122Brianswell Road                                                                                     7000
+QLN700000014729Brians Well Road(Glenkeen)                      1 
+QBN700000014729  327115  369844                                                
+GS00014729 N                    Belfast Metro Ops                                 7000
+GR00014729Brianswell Road                                                                                     7000
+QLN700000000350Bell Steel Road(Stewartstown Road)              0 
+QBN700000000350  327736  369424                                                
+GS00000350 N                    Belfast Metro Ops                                 7000
+GR00000350Bell Steel Road                                                                                     7000
+QLN700000000352Bell Steel Road(Woodside)                       0 
+QBN700000000352  327491  369355                                                
+GS00000352 N                    Belfast Metro Ops                                 7000
+GR00000352Bell Steel Road                                                                                     7000
+QLN700000014722Brainswell Road(Glenbawn)                       0 
+QBN700000014722  327290  369650                                                
+GS00014722 N                    Belfast Metro Ops                                 7000
+GR00014722Brainswell Road                                                                                     7000
+QLN700000000354Bell Steel Road(Brian's Well Road)              0 
+QBN700000000354  327394  369655                                                
+GS00000354 N                    Belfast Metro Ops                                 7000
+GR00000354Bell Steel Road                                                                                     7000
+QLN700000000356Bell Steel Road(Glenwood)                       1 
+QBN700000000356  327474  369797                                                
+GS00000356 N                    Belfast Metro Ops                                 7000
+GR00000356Bell Steel Road                                                                                     7000
+QLN700000000034Brook Activity Centre                           0 
+QBN700000000034  328040  368941                                                
+GS00000034 N                    Belfast Metro Ops                                 7000
+GR00000034Summerhill Road                                                                                     7000
+QLN700000000090St. Lukes                                       0 
+QBN700000000090  328032  369209                                                
+GS00000090 N                    Belfast Metro Ops                                 7000
+GR00000090Summerhill Road                                                                                     7000
+QLN700000000092Aspen Walk                                      0 
+QBN700000000092  328217  369210                                                
+GS00000092 N                    Belfast Metro Ops                                 7000
+GR00000092Summerhill Road                                                                                     7000
+QLN700000000094Cherry Park                                     0 
+QBN700000000094  328351  369077                                                
+GS00000094 N                    Belfast Metro Ops                                 7000
+GR00000094Cherry Road                                                                                         7000
+QLN700000000096Cherry Road                                     0 
+QBN700000000096  328566  369159                                                
+GS00000096 N                    Belfast Metro Ops                                 7000
+GR00000096Cherry Road                                                                                         7000
+QLN700000000098Upper Dunmurry Lane(Cherry Road)                1 
+QBN700000000098  328771  369412                                                
+GS00000098 N                    Belfast Metro Ops                                 7000
+GR00000098Upper Dunmurry Lane                                                                                 7000
+QLN700000000100Upper Dunmurry Lane(Credenhill)                 0 
+QBN700000000100  328633  369559                                                
+GS00000100 N                    Belfast Metro Ops                                 7000
+GR00000100Upper Dunmurry Lane                                                                                 7000
+QLN700000000076Upper Dunmurry Lane(Corrina Park)               0 
+QBN700000000076  328401  369834                                                
+GS00000076 N                    Belfast Metro Ops                                 7000
+GR00000076Upper Dunmurry Lane                                                                                 7000
+QLN700000000078Upper Dunmurry Lane(Glengoland)                 0 
+QBN700000000078  328301  370018                                                
+GS00000078 N                    Belfast Metro Ops                                 7000
+GR00000078Upper Dunmurry Lane                                                                                 7000
+QLN700000000358Bell Steel Road(Laurelbank)                     0 
+QBN700000000358  327566  369990                                                
+GS00000358 N                    Belfast Metro Ops                                 7000
+GR00000358Bell Steel Road                                                                                     7000
+QLN700000000118Laurelbank                                      0 
+QBN700000000118  327704  370125                                                
+GS00000118 N                    Belfast Metro Ops                                 7000
+GR00000118Pantridge Road                                                                                      7000
+QLN700000000120Old Colin                                       0 
+QBN700000000120  328058  370141                                                
+GS00000120 N                    Belfast Metro Ops                                 7000
+GR00000120Pantridge Road                                                                                      7000
+QLN700000000418Stewartstown Road                               0 
+QBN700000000418  328090  370073                                                
+GS00000418 N                    Belfast Metro Ops                                 7000
+GR00000418Stewartstown Rd                                                                                     7000
+QLN700000000420Glengoland Roundabout                           1 
+QBN700000000420  328155  370225                                                
+GS00000420 N                    Belfast Metro Ops                                 7000
+GR00000420Stewartstown Rd                                                                                     7000
+QLN700000000436Helen's Wood                                    0 
+QBN700000000436  328409  370393                                                
+GS00000436 N                    Belfast Metro Ops                                 7000
+GR00000436Stewartstown Rd                                                                                     7000
+QLN700000000438Stewartstown Road(Woodbourne)                   1 
+QBN700000000438  328610  370572                                                
+GS00000438 N                    Belfast Metro Ops                                 7000
+GR00000438Stewartstown Rd                                                                                     7000
+QLN700000014715Blacks Road(Oakhurst)                           1 
+QBN700000014715  329588  369817                                                
+GS00014715 N                    Belfast Metro Ops                                 7000
+GR00014715Blacks Road                                                                                         7000
+QLN700000000048Blacks Rd(Balmoral Hotel)                       0 
+QBN700000000048  329522  369856                                                
+GS00000048 N                    Belfast Metro Ops                                 7000
+GR00000048Blacks Road                                                                                         7000
+QLN700000000050Blacks Road(Garnock Hill)                       0 
+QBN700000000050  329338  370118                                                
+GS00000050 N                    Belfast Metro Ops                                 7000
+GR00000050Blacks Road                                                                                         7000
+QLN700000000052Blacks Road(Brooke Drive)                       0 
+QBN700000000052  329159  370253                                                
+GS00000052 N                    Belfast Metro Ops                                 7000
+GR00000052Blacks Road                                                                                         7000
+QLN700000000054Blacks Road(Blacks Court)                       0 
+QBN700000000054  329046  370279                                                
+GS00000054 N                    Belfast Metro Ops                                 7000
+GR00000054Blacks Road                                                                                         7000
+QLN700000000056Blacks Road(Erris Grove)                        0 
+QBN700000000056  328779  370428                                                
+GS00000056 N                    Belfast Metro Ops                                 7000
+GR00000056Blacks Road                                                                                         7000
+QLN700000000440Stewartstown Road(Doon Road)                    1 
+QBN700000000440  328830  370745                                                
+GS00000440 N                    Belfast Metro Ops                                 7000
+GR00000440Stewartstown Rd                                                                                     7000
+QLN700000000364Suffolk Road(Woodbourne)                        1 
+QBN700000000364  328535  370698                                                
+GS00000364 N                    Belfast Metro Ops                                 7000
+GR00000364Suffolk Road                                                                                        7000
+QLN700000000366Riverside Mews                                  0 
+QBN700000000366  328443  370856                                                
+GS00000366 N                    Belfast Metro Ops                                 7000
+GR00000366Suffolk Road                                                                                        7000
+QLN700000000368Falcarragh                                      0 
+QBN700000000368  328325  370991                                                
+GS00000368 N                    Belfast Metro Ops                                 7000
+GR00000368Suffolk Road                                                                                        7000
+QLN700000000370Donegal Celtic                                  0 
+QBN700000000370  327983  371293                                                
+GS00000370 N                    Belfast Metro Ops                                 7000
+GR00000370Suffolk Road                                                                                        7000
+QLN700000000372Suffolk Heights                                 0 
+QBN700000000372  327828  371401                                                
+GS00000372 N                    Belfast Metro Ops                                 7000
+GR00000372Suffolk Road                                                                                        7000
+QLN700000000374Hannahstown Hill                                0 
+QBN700000000374  327856  371534                                                
+GS00000374 N                    Belfast Metro Ops                                 7000
+GR00000374Glen Road                                                                                           7000
+QLN700000000376Glencolin                                       1 
+QBN700000000376  328115  371562                                                
+GS00000376 N                    Belfast Metro Ops                                 7000
+GR00000376Glen Road                                                                                           7000
+QLN700000000378St.Oliver Plunkett                              0 
+QBN700000000378  328239  371578                                                
+GS00000378 N                    Belfast Metro Ops                                 7000
+GR00000378Glen Road                                                                                           7000
+QLN700000000380Shaws Rd Jct.                                   0 
+QBN700000000380  328447  371614                                                
+GS00000380 N                    Belfast Metro Ops                                 7000
+GR00000380Glen Road                                                                                           7000
+QLN700000000382Rosnareen                                       0 
+QBN700000000382  328975  371840                                                
+GS00000382 N                    Belfast Metro Ops                                 7000
+GR00000382Glen Road                                                                                           7000
+QLN700000000384Hamill Grove                                    0 
+QBN700000000384  329140  371914                                                
+GS00000384 N                    Belfast Metro Ops                                 7000
+GR00000384Glen Road                                                                                           7000
+QLN700000000386CBS                                             0 
+QBN700000000386  329446  372053                                                
+GS00000386 N                    Belfast Metro Ops                                 7000
+GR00000386Glen Road                                                                                           7000
+QLN700000000388Coolnasilla                                     0 
+QBN700000000388  329637  372126                                                
+GS00000388 N                    Belfast Metro Ops                                 7000
+GR00000388Glen Road                                                                                           7000
+QLN700000000390Glen Road(St.Teresa's)                          1 
+QBN700000000390  329966  372144                                                
+GS00000390 N                    Belfast Metro Ops                                 7000
+GR00000390Glen Road                                                                                           7000
+QLN700000000342Shaws Road(Lenadoon Avenue)                     1 
+QBN700000000342  328731  371644                                                
+GS00000342 N                    Belfast Metro Ops                                 7000
+GR00000342Shaws Road                                                                                          7000
+QLN700000001130Ladybrook(Turning Circle)                       1 
+QBN700000001130  329407  370422                                                
+GS00001130 N                    Belfast Metro Ops                                 7000
+GR00001130Ladybrook Cross                                                                                     7000
+QLN700000000442Suffolk Ave                                     0 
+QBN700000000442  329020  370955                                                
+GS00000442 N                    Belfast Metro Ops                                 7000
+GR00000442Stewartstown Rd                                                                                     7000
+QLN700000000444Hillhead Crescent                               0 
+QBN700000000444  329194  371036                                                
+GS00000444 N                    Belfast Metro Ops                                 7000
+GR00000444Stewartstown Rd                                                                                     7000
+QLN700000000446St. Genieves                                    0 
+QBN700000000446  329360  371191                                                
+GS00000446 N                    Belfast Metro Ops                                 7000
+GR00000446Stewartstown Rd                                                                                     7000
+QLN700000000344Shaws Road(Hillhead Cottages)                   0 
+QBN700000000344  329082  371534                                                
+GS00000344 N                    Belfast Metro Ops                                 7000
+GR00000344Shaws Road                                                                                          7000
+QLN700000000346Shaws Road(Stewartstown Road)                   0 
+QBN700000000346  329319  371369                                                
+GS00000346 N                    Belfast Metro Ops                                 7000
+GR00000346Shaws Road                                                                                          7000
+QLN700000000448Stewartstown Road(Shaws Road)                   0 
+QBN700000000448  329526  371291                                                
+GS00000448 N                    Belfast Metro Ops                                 7000
+GR00000448Stewartstown Rd                                                                                     7000
+QLN700000001132Ladybrook Avenue                                0 
+QBN700000001132  329587  370568                                                
+GS00001132 N                    Belfast Metro Ops                                 7000
+GR00001132Ladybrook Park                                                                                      7000
+QLN700000001134Ladybrook Shops                                 0 
+QBN700000001134  329868  370780                                                
+GS00001134 N                    Belfast Metro Ops                                 7000
+GR00001134Ladybrook Park                                                                                      7000
+QLN700000000332Finaghy Road North                              0 
+QBN700000000332  329880  370869                                                
+GS00000332 N                    Belfast Metro Ops                                 7000
+GR00000332Finaghy Road North                                                                                  7000
+QLN700000000348St.Michaels                                     0 
+QBN700000000348  329728  371139                                                
+GS00000348 N                    Belfast Metro Ops                                 7000
+GR00000348Finaghy Road North                                                                                  7000
+QLN700000014723Ballyowen                                       0 
+QBN700000014723  329750  371270                                                
+GS00014723 N                    Belfast Metro Ops                                 7000
+GR00014723Andersonstown Road                                                                                  7000
+QLN700000000450Andersonstown Rd.(Slievegallion Drive)          1 
+QBN700000000450  329958  371296                                                
+GS00000450 N                    Belfast Metro Ops                                 7000
+GR00000450Andersonstown Road                                                                                  7000
+QLN700000000452Owenvarragh Pk                                  0 
+QBN700000000452  330269  371399                                                
+GS00000452 N                    Belfast Metro Ops                                 7000
+GR00000452Andersonstown Road                                                                                  7000
+QLN700000000454Fruithill                                       0 
+QBN700000000454  330539  371609                                                
+GS00000454 N                    Belfast Metro Ops                                 7000
+GR00000454Andersonstown Road                                                                                  7000
+QLN700000000456Fruithill Park                                  0 
+QBN700000000456  330627  371718                                                
+GS00000456 N                    Belfast Metro Ops                                 7000
+GR00000456Andersonstown Road                                                                                  7000
+QLN700000000458Westwood Centre                                 0 
+QBN700000000458  330681  371935                                                
+GS00000458 N                    Belfast Metro Ops                                 7000
+GR00000458Andersonstown Road                                                                                  7000
+QLN700000000460Kennedy Centre                                  1 
+QBN700000000460  330637  372114                                                
+GS00000460 N                    Belfast Metro Ops                                 7000
+GR00000460Falls Road                                                                                          7000
+QLN700000000462Milltown Cemetery                               0 
+QBN700000000462  330687  372353                                                
+GS00000462 N                    Belfast Metro Ops                                 7000
+GR00000462Falls Road                                                                                          7000
+QLN700000000392Gransha Shops                                   0 
+QBN700000000392  330304  372395                                                
+GS00000392 N                    Belfast Metro Ops                                 7000
+GR00000392Glen Road                                                                                           7000
+QLN700000000394Glen Parade                                     0 
+QBN700000000394  330582  372492                                                
+GS00000394 N                    Belfast Metro Ops                                 7000
+GR00000394Glen Road                                                                                           7000
+QLN700000000504Falls Park                                      1 
+QBN700000000504  330784  372574                                                
+GS00000504 N                    Belfast Metro Ops                                 7000
+GR00000504Falls Road                                                                                          7000
+QLN700000000506Rossa House                                     0 
+QBN700000000506  331029  372712                                                
+GS00000506 N                    Belfast Metro Ops                                 7000
+GR00000506Falls Road                                                                                          7000
+QLN700000000508Falls Road(City Cemetry)                        1 
+QBN700000000508  331198  372902                                                
+GS00000508 N                    Belfast Metro Ops                                 7000
+GR00000508Falls Road                                                                                          7000
+QLN700000000510Falls Road(St.James)                            1 
+QBN700000000510  331351  373175                                                
+GS00000510 N                    Belfast Metro Ops                                 7000
+GR00000510Falls Road                                                                                          7000
+QLN700000000512Beechview Park                                  0 
+QBN700000000512  331408  373257                                                
+GS00000512 N                    Belfast Metro Ops                                 7000
+GR00000512Falls Road                                                                                          7000
+QLN700000000514Ard-Na-Va                                       0 
+QBN700000000514  331536  373359                                                
+GS00000514 N                    Belfast Metro Ops                                 7000
+GR00000514Falls Road                                                                                          7000
+QLN700000000516Beechmount                                      0 
+QBN700000000516  331724  373431                                                
+GS00000516 N                    Belfast Metro Ops                                 7000
+GR00000516Falls Road                                                                                          7000
+QLN700000000518St. Marys College                               0 
+QBN700000000518  331921  373554                                                
+GS00000518 N                    Belfast Metro Ops                                 7000
+GR00000518Falls Road                                                                                          7000
+QLN700000000520Childrens Hospital                              0 
+QBN700000000520  332032  373630                                                
+GS00000520 N                    Belfast Metro Ops                                 7000
+GR00000520Falls Road                                                                                          7000
+QLN700000000522Falls Road(Royal Hospitals)                     1 
+QBN700000000522  332109  373723                                                
+GS00000522 N                    Belfast Metro Ops                                 7000
+GR00000522Falls Road                                                                                          7000
+QLN700000000524Dunville Park                                   0 
+QBN700000000524  332243  373922                                                
+GS00000524 N                    Belfast Metro Ops                                 7000
+GR00000524Falls Road                                                                                          7000
+QLN700000000526Falls Library                                   0 
+QBN700000000526  332338  374084                                                
+GS00000526 N                    Belfast Metro Ops                                 7000
+GR00000526Falls Road                                                                                          7000
+QLN700000000528Twin Spires                                     0 
+QBN700000000528  332696  374285                                                
+GS00000528 N                    Belfast Metro Ops                                 7000
+GR00000528Falls Road                                                                                          7000
+QLN700000000530St.Comgall's                                    0 
+QBN700000000530  332856  374358                                                
+GS00000530 N                    Belfast Metro Ops                                 7000
+GR00000530Falls Road                                                                                          7000
+QLN700000000532Divis Tower                                     0 
+QBN700000000532  333022  374412                                                
+GS00000532 N                    Belfast Metro Ops                                 7000
+GR00000532Divis Street                                                                                        7000
+QLN700000000534Barrack St.                                     0 
+QBN700000000534  333287  374361                                                
+GS00000534 N                    Belfast Metro Ops                                 7000
+GR00000534Divis Street                                                                                        7000
+QLN700000001424King St.                                        0 
+QBN700000001424  333524  374190                                                
+GS00001424 N                    Belfast Metro Ops                                 7000
+GR00001424College Square East                                                                                 7000
+QLN700000001425Wellington Place                                1 
+QBN700000001425  333569  374067                                                
+GS00001425 N                    Belfast Metro Ops                                 7000
+GR00001425Wellington Place                                                                                    7000
+QPNTM  Translink Metro         Translink Metro                                                         
+QQ                                                                              
+ZLTMAO010AT02I
+ZD20091010        Saturdays                                                             0000030
+ZSTMAO010H10H Black's Road - City Centre                                                                          
+ZAN700000015002                                                P1W1T1
+ZAN700000001871                                                P1W1T1
+ZAN700000015004                                                P0W0T0
+ZAN700000015005                                                P0W0T0
+ZAN700000001868                                                P0W0T0
+ZAN700000000002                                                P0W0T0
+ZAN700000000004                                                P0W1T1
+ZAN700000000006                                                P0W0T0
+ZAN700000000008                                                P0W0T0
+ZAN700000014717                                                P0W0T0
+ZAN700000000010                                                P0W0T0
+ZAN700000000012                                                P0W0T0
+ZAN700000000014                                                P1W1T1
+ZAN700000000432                                                P0W0T0
+ZAN700000000434                                                P0W0T0
+ZAN700000000030                                                P0W0T0
+ZAN700000000032                                                P1W1T1
+ZAN700000000404                                                P0W0T0
+ZAN700000000406                                                P0W0T0
+ZAN700000000408                                                P0W0T0
+ZAN700000000410                                                P0W1T1
+ZAN700000000036                                                P0W0T0
+ZAN700000000038                                                P0W0T0
+ZAN700000000412                                                P0W0T0
+ZAN700000000414                                                P0W0T0
+ZAN700000000416                                                P1W1T1
+ZAN700000000106                                                P1W1T1
+ZAN700000000108                                                P0W0T0
+ZAN700000014721                                                P0W0T0
+ZAN700000000110                                                P0W0T0
+ZAN700000000112                                                P0W0T0
+ZAN700000000122                                                P0W0T0
+ZAN700000014729                                                P1W1T1
+ZAN700000000350                                                P0W0T0
+ZAN700000000352                                                P0W0T0
+ZAN700000014722                                                P0W0T0
+ZAN700000000354                                                P0W0T0
+ZAN700000000356                                                P1W1T1
+ZAN700000000034                                                P0W0T0
+ZAN700000000090                                                P0W0T0
+ZAN700000000092                                                P0W0T0
+ZAN700000000094                                                P0W0T0
+ZAN700000000096                                                P0W0T0
+ZAN700000000098                                                P1W1T1
+ZAN700000000100                                                P0W0T0
+ZAN700000000076                                                P0W0T0
+ZAN700000000078                                                P0W0T0
+ZAN700000000358                                                P0W0T0
+ZAN700000000118                                                P0W0T0
+ZAN700000000120                                                P0W0T0
+ZAN700000000418                                                P0W0T0
+ZAN700000000420                                                P1W1T1
+ZAN700000000436                                                P0W0T0
+ZAN700000000438                                                P1W1T1
+ZAN700000014715                                                P1W1T1
+ZAN700000000048                                                P0W0T0
+ZAN700000000050                                                P0W0T0
+ZAN700000000052                                                P0W0T0
+ZAN700000000054                                                P0W0T0
+ZAN700000000056                                                P0W0T0
+ZAN700000000440                                                P1W1T1
+ZAN700000000364                                                P1W1T1
+ZAN700000000366                                                P0W0T0
+ZAN700000000368                                                P0W0T0
+ZAN700000000370                                                P0W0T0
+ZAN700000000372                                                P0W0T0
+ZAN700000000374                                                P0W0T0
+ZAN700000000376                                                P1W1T1
+ZAN700000000378                                                P0W0T0
+ZAN700000000380                                                P0W0T0
+ZAN700000000382                                                P0W0T0
+ZAN700000000384                                                P0W0T0
+ZAN700000000386                                                P0W0T0
+ZAN700000000388                                                P0W0T0
+ZAN700000000390                                                P1W1T1
+ZAN700000000342                                                P1W1T1
+ZAN700000001130                                                P1W1T1
+ZAN700000000442                                                P0W0T0
+ZAN700000000444                                                P0W0T0
+ZAN700000000446                                                P0W0T0
+ZAN700000000344                                                P0W0T0
+ZAN700000000346                                                P0W0T0
+ZAN700000000448                                                P0W0T0
+ZAN700000001132                                                P0W0T0
+ZAN700000001134                                                P0W0T0
+ZAN700000000332                                                P0W0T0
+ZAN700000000348                                                P0W0T0
+ZAN700000014723                                                P0W0T0
+ZAN700000000450                                                P1W1T1
+ZAN700000000452                                                P0W0T0
+ZAN700000000454                                                P0W0T0
+ZAN700000000456                                                P0W0T0
+ZAN700000000458                                                P0W0T0
+ZAN700000000460                                                P1W1T1
+ZAN700000000462                                                P0W0T0
+ZAN700000000392                                                P0W0T0
+ZAN700000000394                                                P0W0T0
+ZAN700000000504                                                P0W1T1
+ZAN700000000506                                                P0W0T0
+ZAN700000000508                                                P1W1T1
+ZAN700000000510                                                P0W1T1
+ZAN700000000512                                                P0W0T0
+ZAN700000000514                                                P0W0T0
+ZAN700000000516                                                P0W0T0
+ZAN700000000518                                                P0W0T0
+ZAN700000000520                                                P0W0T0
+ZAN700000000522                                                P1W1T1
+ZAN700000000524                                                P0W0T0
+ZAN700000000526                                                P0W0T0
+ZAN700000000528                                                P0W0T0
+ZAN700000000530                                                P0W0T0
+ZAN700000000532                                                P0W0T0
+ZAN700000000534                                                P0W0T0
+ZAN700000001424                                                P0W0T0
+ZAN700000001425                                                P1W1T1
+QSNTM  14105520091010        0000010  10H 10F11 0               I
+ZJTMAO010H002 551150     000CB   1052    1307    C         0000030L0
+QO7000000147151052   T1F0
+ZECH0      105200105200P0W0
+QI70000000004810521052B   T0F0
+ZECH0      105213105213P0W0
+QI70000000005010521052B   T0F0
+ZECH0      105250105250P0W0
+QI70000000005210531053B   T0F0
+ZECH0      105317105317P0W0
+QI70000000005410531053B   T0F0
+ZECH0      105331105331P0W0
+QI70000000005610541054B   T0F0
+ZECH0      105408105408P0W0
+QI70000000044010551055B   T1F0
+ZECH0      105500105500P0W0
+QI70000000044210551055B   T0F0
+ZECH0      105538105538P0W0
+QI70000000044410561056B   T0F0
+ZECH0      105603105603P0W0
+QI70000000044610561056B   T0F0
+ZECH0      105635105635P0W0
+QI70000000044810571057B   T0F0
+ZECH0      105701105701P0W0
+QI70000001472310571057B   T0F0
+ZECH0      105731105731P0W0
+QI70000000045010581058B   T1F0
+ZECH0      105800105800P0W0
+QI70000000045210591059B   T0F0
+ZECH0      105902105902P0W0
+QI70000000045411001100B   T0F0
+ZECH0      110010110010P0W0
+QI70000000045611001100B   T0F0
+ZECH0      110036110036P0W0
+QI70000000045811011101B   T0F0
+ZECH0      110124110124P0W0
+QI70000000046011021102B   T1F0
+ZECH0      110200110200P0W0
+QI70000000046211021102B   T0F0
+ZECH0      110228110228P0W0
+QI70000000050411031103B   T1F0
+ZECH0      110300110300P0W0
+QI70000000050611031103B   T0F0
+ZECH0      110330110330P0W0
+QI70000000050811041104B   T1F0
+ZECH0      110400110400P0W0
+QI70000000051011041104B   T1F0
+ZECH0      110400110400P0W0
+QI70000000051211041104B   T0F0
+ZECH0      110430110430P0W0
+QI70000000051411051105B   T0F0
+ZECH0      110522110522P0W0
+QI70000000051611061106B   T0F0
+ZECH0      110624110624P0W0
+QI70000000051811071107B   T0F0
+ZECH0      110736110736P0W0
+QI70000000052011081108B   T0F0
+ZECH0      110818110818P0W0
+QI70000000052211091109B   T1F0
+ZECH0      110900110900P0W0
+QI70000000052411091109B   T0F0
+ZECH0      110959110959P0W0
+QI70000000052611101110B   T0F0
+ZECH0      111046111046P0W0
+QI70000000052811121112B   T0F0
+ZECH0      111229111229P0W0
+QI70000000053011131113B   T0F0
+ZECH0      111312111312P0W0
+QI70000000053211131113B   T0F0
+ZECH0      111355111355P0W0
+QI70000000053411151115B   T0F0
+ZECH0      111501111501P0W0
+QI70000000142411161116B   T0F0
+ZECH0      111619111619P0W0
+QT7000000014251117   T1F0
+ZECH0      111700111700P0W0
+QSNTM  14105920091010        0000010  10H 10G12 0               I
+ZJTMAO010H002 551150     000CB   1113    1211    C         0000030L0
+QO7000000147151113   T1F0
+ZECH0      111300111300P0W0
+QI70000000004811131113B   T0F0
+ZECH0      111318111318P0W0
+QI70000000005011141114B   T0F0
+ZECH0      111407111407P0W0
+QI70000000005211141114B   T0F0
+ZECH0      111443111443P0W0
+QI70000000005411151115B   T0F0
+ZECH0      111502111502P0W0
+QI70000000005611151115B   T0F0
+ZECH0      111551111551P0W0
+QI70000000044011171117B   T1F0
+ZECH0      111700111700P0W0
+QI70000000044211171117B   T0F0
+ZECH0      111750111750P0W0
+QI70000000044411181118B   T0F0
+ZECH0      111824111824P0W0
+QI70000000044611191119B   T0F0
+ZECH0      111906111906P0W0
+QI70000000044811191119B   T0F0
+ZECH0      111941111941P0W0
+QI70000001472311201120B   T0F0
+ZECH0      112022112022P0W0
+QI70000000045011211121B   T1F0
+ZECH0      112100112100P0W0
+QI70000000045211221122B   T0F0
+ZECH0      112202112202P0W0
+QI70000000045411231123B   T0F0
+ZECH0      112310112310P0W0
+QI70000000045611231123B   T0F0
+ZECH0      112336112336P0W0
+QI70000000045811241124B   T0F0
+ZECH0      112424112424P0W0
+QI70000000046011251125B   T1F0
+ZECH0      112500112500P0W0
+QI70000000046211251125B   T0F0
+ZECH0      112528112528P0W0
+QI70000000050411261126B   T1F0
+ZECH0      112600112600P0W0
+QI70000000050611261126B   T0F0
+ZECH0      112630112630P0W0
+QI70000000050811271127B   T1F0
+ZECH0      112700112700P0W0
+QI70000000051011271127B   T1F0
+ZECH0      112700112700P0W0
+QI70000000051211271127B   T0F0
+ZECH0      112730112730P0W0
+QI70000000051411281128B   T0F0
+ZECH0      112822112822P0W0
+QI70000000051611291129B   T0F0
+ZECH0      112924112924P0W0
+QI70000000051811301130B   T0F0
+ZECH0      113036113036P0W0
+QI70000000052011311131B   T0F0
+ZECH0      113118113118P0W0
+QI70000000052211321132B   T1F0
+ZECH0      113200113200P0W0
+QI70000000052411321132B   T0F0
+ZECH0      113259113259P0W0
+QI70000000052611331133B   T0F0
+ZECH0      113346113346P0W0
+QI70000000052811351135B   T0F0
+ZECH0      113529113529P0W0
+QI70000000053011361136B   T0F0
+ZECH0      113612113612P0W0
+QI70000000053211361136B   T0F0
+ZECH0      113655113655P0W0
+QI70000000053411381138B   T0F0
+ZECH0      113801113801P0W0
+QI70000000142411391139B   T0F0
+ZECH0      113919113919P0W0
+QT7000000014251140   T1F0
+ZECH0      114000114000P0W0
+QSNTM  14106520091010        0000010  10H 10F15 0               I
+ZJTMAO010H002 551150     000CB   1143    1306    C         0000030L0
+QO7000000147151143   T1F0
+ZECH0      114300114300P0W0
+QI70000000004811431143B   T0F0
+ZECH0      114318114318P0W0
+QI70000000005011441144B   T0F0
+ZECH0      114407114407P0W0
+QI70000000005211441144B   T0F0
+ZECH0      114443114443P0W0
+QI70000000005411451145B   T0F0
+ZECH0      114502114502P0W0
+QI70000000005611451145B   T0F0
+ZECH0      114551114551P0W0
+QI70000000044011471147B   T1F0
+ZECH0      114700114700P0W0
+QI70000000044211471147B   T0F0
+ZECH0      114750114750P0W0
+QI70000000044411481148B   T0F0
+ZECH0      114824114824P0W0
+QI70000000044611491149B   T0F0
+ZECH0      114906114906P0W0
+QI70000000044811491149B   T0F0
+ZECH0      114941114941P0W0
+QI70000001472311501150B   T0F0
+ZECH0      115022115022P0W0
+QI70000000045011511151B   T1F0
+ZECH0      115100115100P0W0
+QI70000000045211521152B   T0F0
+ZECH0      115202115202P0W0
+QI70000000045411531153B   T0F0
+ZECH0      115310115310P0W0
+QI70000000045611531153B   T0F0
+ZECH0      115336115336P0W0
+QI70000000045811541154B   T0F0
+ZECH0      115424115424P0W0
+QI70000000046011551155B   T1F0
+ZECH0      115500115500P0W0
+QI70000000046211551155B   T0F0
+ZECH0      115528115528P0W0
+QI70000000050411561156B   T1F0
+ZECH0      115600115600P0W0
+QI70000000050611561156B   T0F0
+ZECH0      115630115630P0W0
+QI70000000050811571157B   T1F0
+ZECH0      115700115700P0W0
+QI70000000051011571157B   T1F0
+ZECH0      115700115700P0W0
+QI70000000051211571157B   T0F0
+ZECH0      115730115730P0W0
+QI70000000051411581158B   T0F0
+ZECH0      115822115822P0W0
+QI70000000051611591159B   T0F0
+ZECH0      115924115924P0W0
+QI70000000051812001200B   T0F0
+ZECH0      120036120036P0W0
+QI70000000052012011201B   T0F0
+ZECH0      120118120118P0W0
+QI70000000052212021202B   T1F0
+ZECH0      120200120200P0W0
+QI70000000052412021202B   T0F0
+ZECH0      120259120259P0W0
+QI70000000052612031203B   T0F0
+ZECH0      120346120346P0W0
+QI70000000052812051205B   T0F0
+ZECH0      120529120529P0W0
+QI70000000053012061206B   T0F0
+ZECH0      120612120612P0W0
+QI70000000053212061206B   T0F0
+ZECH0      120655120655P0W0
+QI70000000053412081208B   T0F0
+ZECH0      120801120801P0W0
+QI70000000142412091209B   T0F0
+ZECH0      120919120919P0W0
+QT7000000014251210   T1F0
+ZECH0      121000121000P0W0
+QSNTM  14107120091010        0000010  10H 10F04 0               I
+ZJTMAO010H002 551150     000CB   1213    1313    C         0000030L0
+QO7000000147151213   T1F0
+ZECH0      121300121300P0W0
+QI70000000004812131213B   T0F0
+ZECH0      121318121318P0W0
+QI70000000005012141214B   T0F0
+ZECH0      121407121407P0W0
+QI70000000005212141214B   T0F0
+ZECH0      121443121443P0W0
+QI70000000005412151215B   T0F0
+ZECH0      121502121502P0W0
+QI70000000005612151215B   T0F0
+ZECH0      121551121551P0W0
+QI70000000044012171217B   T1F0
+ZECH0      121700121700P0W0
+QI70000000044212171217B   T0F0
+ZECH0      121750121750P0W0
+QI70000000044412181218B   T0F0
+ZECH0      121824121824P0W0
+QI70000000044612191219B   T0F0
+ZECH0      121906121906P0W0
+QI70000000044812191219B   T0F0
+ZECH0      121941121941P0W0
+QI70000001472312201220B   T0F0
+ZECH0      122022122022P0W0
+QI70000000045012211221B   T1F0
+ZECH0      122100122100P0W0
+QI70000000045212221222B   T0F0
+ZECH0      122202122202P0W0
+QI70000000045412231223B   T0F0
+ZECH0      122310122310P0W0
+QI70000000045612231223B   T0F0
+ZECH0      122336122336P0W0
+QI70000000045812241224B   T0F0
+ZECH0      122424122424P0W0
+QI70000000046012251225B   T1F0
+ZECH0      122500122500P0W0
+QI70000000046212251225B   T0F0
+ZECH0      122528122528P0W0
+QI70000000050412261226B   T1F0
+ZECH0      122600122600P0W0
+QI70000000050612261226B   T0F0
+ZECH0      122630122630P0W0
+QI70000000050812271227B   T1F0
+ZECH0      122700122700P0W0
+QI70000000051012271227B   T1F0
+ZECH0      122700122700P0W0
+QI70000000051212271227B   T0F0
+ZECH0      122730122730P0W0
+QI70000000051412281228B   T0F0
+ZECH0      122822122822P0W0
+QI70000000051612291229B   T0F0
+ZECH0      122924122924P0W0
+QI70000000051812301230B   T0F0
+ZECH0      123036123036P0W0
+QI70000000052012311231B   T0F0
+ZECH0      123118123118P0W0
+QI70000000052212321232B   T1F0
+ZECH0      123200123200P0W0
+QI70000000052412321232B   T0F0
+ZECH0      123259123259P0W0
+QI70000000052612331233B   T0F0
+ZECH0      123346123346P0W0
+QI70000000052812351235B   T0F0
+ZECH0      123529123529P0W0
+QI70000000053012361236B   T0F0
+ZECH0      123612123612P0W0
+QI70000000053212361236B   T0F0
+ZECH0      123655123655P0W0
+QI70000000053412381238B   T0F0
+ZECH0      123801123801P0W0
+QI70000000142412391239B   T0F0
+ZECH0      123919123919P0W0
+QT7000000014251240   T1F0
+ZECH0      124000124000P0W0
+QSNTM  14107720091010        0000010  10H 10F03 0               I
+ZJTMAO010H002 551150     000CB   1243    3328    C         0000030L0
+QO7000000147151243   T1F0
+ZECH0      124300124300P0W0
+QI70000000004812431243B   T0F0
+ZECH0      124318124318P0W0
+QI70000000005012441244B   T0F0
+ZECH0      124407124407P0W0
+QI70000000005212441244B   T0F0
+ZECH0      124443124443P0W0
+QI70000000005412451245B   T0F0
+ZECH0      124502124502P0W0
+QI70000000005612451245B   T0F0
+ZECH0      124551124551P0W0
+QI70000000044012471247B   T1F0
+ZECH0      124700124700P0W0
+QI70000000044212471247B   T0F0
+ZECH0      124750124750P0W0
+QI70000000044412481248B   T0F0
+ZECH0      124824124824P0W0
+QI70000000044612491249B   T0F0
+ZECH0      124906124906P0W0
+QI70000000044812491249B   T0F0
+ZECH0      124941124941P0W0
+QI70000001472312501250B   T0F0
+ZECH0      125022125022P0W0
+QI70000000045012511251B   T1F0
+ZECH0      125100125100P0W0
+QI70000000045212521252B   T0F0
+ZECH0      125202125202P0W0
+QI70000000045412531253B   T0F0
+ZECH0      125310125310P0W0
+QI70000000045612531253B   T0F0
+ZECH0      125336125336P0W0
+QI70000000045812541254B   T0F0
+ZECH0      125424125424P0W0
+QI70000000046012551255B   T1F0
+ZECH0      125500125500P0W0
+QI70000000046212551255B   T0F0
+ZECH0      125528125528P0W0
+QI70000000050412561256B   T1F0
+ZECH0      125600125600P0W0
+QI70000000050612561256B   T0F0
+ZECH0      125630125630P0W0
+QI70000000050812571257B   T1F0
+ZECH0      125700125700P0W0
+QI70000000051012571257B   T1F0
+ZECH0      125700125700P0W0
+QI70000000051212571257B   T0F0
+ZECH0      125730125730P0W0
+QI70000000051412581258B   T0F0
+ZECH0      125822125822P0W0
+QI70000000051612591259B   T0F0
+ZECH0      125924125924P0W0
+QI70000000051813001300B   T0F0
+ZECH0      130036130036P0W0
+QI70000000052013011301B   T0F0
+ZECH0      130118130118P0W0
+QI70000000052213021302B   T1F0
+ZECH0      130200130200P0W0
+QI70000000052413021302B   T0F0
+ZECH0      130259130259P0W0
+QI70000000052613031303B   T0F0
+ZECH0      130346130346P0W0
+QI70000000052813051305B   T0F0
+ZECH0      130529130529P0W0
+QI70000000053013061306B   T0F0
+ZECH0      130612130612P0W0
+QI70000000053213061306B   T0F0
+ZECH0      130655130655P0W0
+QI70000000053413081308B   T0F0
+ZECH0      130801130801P0W0
+QI70000000142413091309B   T0F0
+ZECH0      130919130919P0W0
+QT7000000014251310   T1F0
+ZECH0      131000131000P0W0
+QSNTM  14108320091010        0000010  10H 10F11 0               I
+ZJTMAO010H002 551150     000CB   1313    1307    C         0000030L0
+QO7000000147151313   T1F0
+ZECH0      131300131300P0W0
+QI70000000004813131313B   T0F0
+ZECH0      131318131318P0W0
+QI70000000005013141314B   T0F0
+ZECH0      131407131407P0W0
+QI70000000005213141314B   T0F0
+ZECH0      131443131443P0W0
+QI70000000005413151315B   T0F0
+ZECH0      131502131502P0W0
+QI70000000005613151315B   T0F0
+ZECH0      131551131551P0W0
+QI70000000044013171317B   T1F0
+ZECH0      131700131700P0W0
+QI70000000044213171317B   T0F0
+ZECH0      131750131750P0W0
+QI70000000044413181318B   T0F0
+ZECH0      131824131824P0W0
+QI70000000044613191319B   T0F0
+ZECH0      131906131906P0W0
+QI70000000044813191319B   T0F0
+ZECH0      131941131941P0W0
+QI70000001472313201320B   T0F0
+ZECH0      132022132022P0W0
+QI70000000045013211321B   T1F0
+ZECH0      132100132100P0W0
+QI70000000045213221322B   T0F0
+ZECH0      132202132202P0W0
+QI70000000045413231323B   T0F0
+ZECH0      132310132310P0W0
+QI70000000045613231323B   T0F0
+ZECH0      132336132336P0W0
+QI70000000045813241324B   T0F0
+ZECH0      132424132424P0W0
+QI70000000046013251325B   T1F0
+ZECH0      132500132500P0W0
+QI70000000046213251325B   T0F0
+ZECH0      132528132528P0W0
+QI70000000050413261326B   T1F0
+ZECH0      132600132600P0W0
+QI70000000050613261326B   T0F0
+ZECH0      132630132630P0W0
+QI70000000050813271327B   T1F0
+ZECH0      132700132700P0W0
+QI70000000051013271327B   T1F0
+ZECH0      132700132700P0W0
+QI70000000051213271327B   T0F0
+ZECH0      132730132730P0W0
+QI70000000051413281328B   T0F0
+ZECH0      132822132822P0W0
+QI70000000051613291329B   T0F0
+ZECH0      132924132924P0W0
+QI70000000051813301330B   T0F0
+ZECH0      133036133036P0W0
+QI70000000052013311331B   T0F0
+ZECH0      133118133118P0W0
+QI70000000052213321332B   T1F0
+ZECH0      133200133200P0W0
+QI70000000052413321332B   T0F0
+ZECH0      133259133259P0W0
+QI70000000052613331333B   T0F0
+ZECH0      133346133346P0W0
+QI70000000052813351335B   T0F0
+ZECH0      133529133529P0W0
+QI70000000053013361336B   T0F0
+ZECH0      133612133612P0W0
+QI70000000053213361336B   T0F0
+ZECH0      133655133655P0W0
+QI70000000053413381338B   T0F0
+ZECH0      133801133801P0W0
+QI70000000142413391339B   T0F0
+ZECH0      133919133919P0W0
+QT7000000014251340   T1F0
+ZECH0      134000134000P0W0
+QSNTM  14108920091010        0000010  10H 10F13 0               I
+ZJTMAO010H002 551150     000CB   1343    1322    C         0000030L0
+QO7000000147151343   T1F0
+ZECH0      134300134300P0W0
+QI70000000004813431343B   T0F0
+ZECH0      134318134318P0W0
+QI70000000005013441344B   T0F0
+ZECH0      134407134407P0W0
+QI70000000005213441344B   T0F0
+ZECH0      134443134443P0W0
+QI70000000005413451345B   T0F0
+ZECH0      134502134502P0W0
+QI70000000005613451345B   T0F0
+ZECH0      134551134551P0W0
+QI70000000044013471347B   T1F0
+ZECH0      134700134700P0W0
+QI70000000044213471347B   T0F0
+ZECH0      134750134750P0W0
+QI70000000044413481348B   T0F0
+ZECH0      134824134824P0W0
+QI70000000044613491349B   T0F0
+ZECH0      134906134906P0W0
+QI70000000044813491349B   T0F0
+ZECH0      134941134941P0W0
+QI70000001472313501350B   T0F0
+ZECH0      135022135022P0W0
+QI70000000045013511351B   T1F0
+ZECH0      135100135100P0W0
+QI70000000045213521352B   T0F0
+ZECH0      135202135202P0W0
+QI70000000045413531353B   T0F0
+ZECH0      135310135310P0W0
+QI70000000045613531353B   T0F0
+ZECH0      135336135336P0W0
+QI70000000045813541354B   T0F0
+ZECH0      135424135424P0W0
+QI70000000046013551355B   T1F0
+ZECH0      135500135500P0W0
+QI70000000046213551355B   T0F0
+ZECH0      135528135528P0W0
+QI70000000050413561356B   T1F0
+ZECH0      135600135600P0W0
+QI70000000050613561356B   T0F0
+ZECH0      135630135630P0W0
+QI70000000050813571357B   T1F0
+ZECH0      135700135700P0W0
+QI70000000051013571357B   T1F0
+ZECH0      135700135700P0W0
+QI70000000051213571357B   T0F0
+ZECH0      135730135730P0W0
+QI70000000051413581358B   T0F0
+ZECH0      135822135822P0W0
+QI70000000051613591359B   T0F0
+ZECH0      135924135924P0W0
+QI70000000051814001400B   T0F0
+ZECH0      140036140036P0W0
+QI70000000052014011401B   T0F0
+ZECH0      140118140118P0W0
+QI70000000052214021402B   T1F0
+ZECH0      140200140200P0W0
+QI70000000052414021402B   T0F0
+ZECH0      140259140259P0W0
+QI70000000052614031403B   T0F0
+ZECH0      140346140346P0W0
+QI70000000052814051405B   T0F0
+ZECH0      140529140529P0W0
+QI70000000053014061406B   T0F0
+ZECH0      140612140612P0W0
+QI70000000053214061406B   T0F0
+ZECH0      140655140655P0W0
+QI70000000053414081408B   T0F0
+ZECH0      140801140801P0W0
+QI70000000142414091409B   T0F0
+ZECH0      140919140919P0W0
+QT7000000014251410   T1F0
+ZECH0      141000141000P0W0
+QSNTM  14109520091010        0000010  10H 10F16 0               I
+ZJTMAO010H002 551150     000CB   1413    1343    C         0000030L0
+QO7000000147151413   T1F0
+ZECH0      141300141300P0W0
+QI70000000004814131413B   T0F0
+ZECH0      141318141318P0W0
+QI70000000005014141414B   T0F0
+ZECH0      141407141407P0W0
+QI70000000005214141414B   T0F0
+ZECH0      141443141443P0W0
+QI70000000005414151415B   T0F0
+ZECH0      141502141502P0W0
+QI70000000005614151415B   T0F0
+ZECH0      141551141551P0W0
+QI70000000044014171417B   T1F0
+ZECH0      141700141700P0W0
+QI70000000044214171417B   T0F0
+ZECH0      141750141750P0W0
+QI70000000044414181418B   T0F0
+ZECH0      141824141824P0W0
+QI70000000044614191419B   T0F0
+ZECH0      141906141906P0W0
+QI70000000044814191419B   T0F0
+ZECH0      141941141941P0W0
+QI70000001472314201420B   T0F0
+ZECH0      142022142022P0W0
+QI70000000045014211421B   T1F0
+ZECH0      142100142100P0W0
+QI70000000045214221422B   T0F0
+ZECH0      142202142202P0W0
+QI70000000045414231423B   T0F0
+ZECH0      142310142310P0W0
+QI70000000045614231423B   T0F0
+ZECH0      142336142336P0W0
+QI70000000045814241424B   T0F0
+ZECH0      142424142424P0W0
+QI70000000046014251425B   T1F0
+ZECH0      142500142500P0W0
+QI70000000046214251425B   T0F0
+ZECH0      142528142528P0W0
+QI70000000050414261426B   T1F0
+ZECH0      142600142600P0W0
+QI70000000050614261426B   T0F0
+ZECH0      142630142630P0W0
+QI70000000050814271427B   T1F0
+ZECH0      142700142700P0W0
+QI70000000051014271427B   T1F0
+ZECH0      142700142700P0W0
+QI70000000051214271427B   T0F0
+ZECH0      142730142730P0W0
+QI70000000051414281428B   T0F0
+ZECH0      142822142822P0W0
+QI70000000051614291429B   T0F0
+ZECH0      142924142924P0W0
+QI70000000051814301430B   T0F0
+ZECH0      143036143036P0W0
+QI70000000052014311431B   T0F0
+ZECH0      143118143118P0W0
+QI70000000052214321432B   T1F0
+ZECH0      143200143200P0W0
+QI70000000052414321432B   T0F0
+ZECH0      143259143259P0W0
+QI70000000052614331433B   T0F0
+ZECH0      143346143346P0W0
+QI70000000052814351435B   T0F0
+ZECH0      143529143529P0W0
+QI70000000053014361436B   T0F0
+ZECH0      143612143612P0W0
+QI70000000053214361436B   T0F0
+ZECH0      143655143655P0W0
+QI70000000053414381438B   T0F0
+ZECH0      143801143801P0W0
+QI70000000142414391439B   T0F0
+ZECH0      143919143919P0W0
+QT7000000014251440   T1F0
+ZECH0      144000144000P0W0
+QSNTM  14110120091010        0000010  10H 10G12 0               I
+ZJTMAO010H002 551150     000CB   1443    1211    C         0000030L0
+QO7000000147151443   T1F0
+ZECH0      144300144300P0W0
+QI70000000004814431443B   T0F0
+ZECH0      144318144318P0W0
+QI70000000005014441444B   T0F0
+ZECH0      144407144407P0W0
+QI70000000005214441444B   T0F0
+ZECH0      144443144443P0W0
+QI70000000005414451445B   T0F0
+ZECH0      144502144502P0W0
+QI70000000005614451445B   T0F0
+ZECH0      144551144551P0W0
+QI70000000044014471447B   T1F0
+ZECH0      144700144700P0W0
+QI70000000044214471447B   T0F0
+ZECH0      144750144750P0W0
+QI70000000044414481448B   T0F0
+ZECH0      144824144824P0W0
+QI70000000044614491449B   T0F0
+ZECH0      144906144906P0W0
+QI70000000044814491449B   T0F0
+ZECH0      144941144941P0W0
+QI70000001472314501450B   T0F0
+ZECH0      145022145022P0W0
+QI70000000045014511451B   T1F0
+ZECH0      145100145100P0W0
+QI70000000045214521452B   T0F0
+ZECH0      145202145202P0W0
+QI70000000045414531453B   T0F0
+ZECH0      145310145310P0W0
+QI70000000045614531453B   T0F0
+ZECH0      145336145336P0W0
+QI70000000045814541454B   T0F0
+ZECH0      145424145424P0W0
+QI70000000046014551455B   T1F0
+ZECH0      145500145500P0W0
+QI70000000046214551455B   T0F0
+ZECH0      145528145528P0W0
+QI70000000050414561456B   T1F0
+ZECH0      145600145600P0W0
+QI70000000050614561456B   T0F0
+ZE H0      145630145630P0W0
+QI70000000050814571457B   T1F0
+ZECH0      145700145700P0W0
+QI70000000051014571457B   T1F0
+ZECH0      145700145700P0W0
+QI70000000051214571457B   T0F0
+ZECH0      145730145730P0W0
+QI70000000051414581458B   T0F0
+ZECH0      145822145822P0W0
+QI70000000051614591459B   T0F0
+ZECH0      145924145924P0W0
+QI70000000051815001500B   T0F0
+ZECH0      150036150036P0W0
+QI70000000052015011501B   T0F0
+ZECH0      150118150118P0W0
+QI70000000052215021502B   T1F0
+ZECH0      150200150200P0W0
+QI70000000052415021502B   T0F0
+ZECH0      150259150259P0W0
+QI70000000052615031503B   T0F0
+ZECH0      150346150346P0W0
+QI70000000052815051505B   T0F0
+ZECH0      150529150529P0W0
+QI70000000053015061506B   T0F0
+ZECH0      150612150612P0W0
+QI70000000053215061506B   T0F0
+ZECH0      150655150655P0W0
+QI70000000053415081508B   T0F0
+ZECH0      150801150801P0W0
+QI70000000142415091509B   T0F0
+ZECH0      150919150919P0W0
+QT7000000014251510   T1F0
+ZECH0      151000151000P0W0
+QSNTM  14110720091010        0000010  10H 10F15 0               I
+ZJTMAO010H002 551150     000CB   1513    2356    C         0000030L0
+QO7000000147151513   T1F0
+ZECH0      151300151300P0W0
+QI70000000004815131513B   T0F0
+ZECH0      151318151318P0W0
+QI70000000005015141514B   T0F0
+ZECH0      151407151407P0W0
+QI70000000005215141514B   T0F0
+ZECH0      151443151443P0W0
+QI70000000005415151515B   T0F0
+ZECH0      151502151502P0W0
+QI70000000005615151515B   T0F0
+ZECH0      151551151551P0W0
+QI70000000044015171517B   T1F0
+ZECH0      151700151700P0W0
+QI70000000044215171517B   T0F0
+ZECH0      151750151750P0W0
+QI70000000044415181518B   T0F0
+ZECH0      151824151824P0W0
+QI70000000044615191519B   T0F0
+ZECH0      151906151906P0W0
+QI70000000044815191519B   T0F0
+ZECH0      151941151941P0W0
+QI70000001472315201520B   T0F0
+ZECH0      152022152022P0W0
+QI70000000045015211521B   T1F0
+ZECH0      152100152100P0W0
+QI70000000045215221522B   T0F0
+ZECH0      152202152202P0W0
+QI70000000045415231523B   T0F0
+ZECH0      152310152310P0W0
+QI70000000045615231523B   T0F0
+ZECH0      152336152336P0W0
+QI70000000045815241524B   T0F0
+ZECH0      152424152424P0W0
+QI70000000046015251525B   T1F0
+ZECH0      152500152500P0W0
+QI70000000046215251525B   T0F0
+ZECH0      152528152528P0W0
+QI70000000050415261526B   T1F0
+ZECH0      152600152600P0W0
+QI70000000050615261526B   T0F0
+ZECH0      152630152630P0W0
+QI70000000050815271527B   T1F0
+ZECH0      152700152700P0W0
+QI70000000051015271527B   T1F0
+ZECH0      152700152700P0W0
+QI70000000051215271527B   T0F0
+ZECH0      152730152730P0W0
+QI70000000051415281528B   T0F0
+ZECH0      152822152822P0W0
+QI70000000051615291529B   T0F0
+ZECH0      152924152924P0W0
+QI70000000051815301530B   T0F0
+ZECH0      153036153036P0W0
+QI70000000052015311531B   T0F0
+ZECH0      153118153118P0W0
+QI70000000052215321532B   T1F0
+ZECH0      153200153200P0W0
+QI70000000052415321532B   T0F0
+ZECH0      153259153259P0W0
+QI70000000052615331533B   T0F0
+ZECH0      153346153346P0W0
+QI70000000052815351535B   T0F0
+ZECH0      153529153529P0W0
+QI70000000053015361536B   T0F0
+ZECH0      153612153612P0W0
+QI70000000053215361536B   T0F0
+ZECH0      153655153655P0W0
+QI70000000053415381538B   T0F0
+ZECH0      153801153801P0W0
+QI70000000142415391539B   T0F0
+ZECH0      153919153919P0W0
+QT7000000014251540   T1F0
+ZECH0      154000154000P0W0
+QSNTM  14111320091010        0000010  10H 10F04 0               I
+ZJTMAO010H002 551150     000CB   1543    1202    C         0000030L0
+QO7000000147151543   T1F0
+ZECH0      154300154300P0W0
+QI70000000004815431543B   T0F0
+ZECH0      154318154318P0W0
+QI70000000005015441544B   T0F0
+ZECH0      154407154407P0W0
+QI70000000005215441544B   T0F0
+ZECH0      154443154443P0W0
+QI70000000005415451545B   T0F0
+ZECH0      154502154502P0W0
+QI70000000005615451545B   T0F0
+ZECH0      154551154551P0W0
+QI70000000044015471547B   T1F0
+ZECH0      154700154700P0W0
+QI70000000044215471547B   T0F0
+ZECH0      154750154750P0W0
+QI70000000044415481548B   T0F0
+ZECH0      154824154824P0W0
+QI70000000044615491549B   T0F0
+ZECH0      154906154906P0W0
+QI70000000044815491549B   T0F0
+ZECH0      154941154941P0W0
+QI70000001472315501550B   T0F0
+ZECH0      155022155022P0W0
+QI70000000045015511551B   T1F0
+ZECH0      155100155100P0W0
+QI70000000045215521552B   T0F0
+ZECH0      155202155202P0W0
+QI70000000045415531553B   T0F0
+ZECH0      155310155310P0W0
+QI70000000045615531553B   T0F0
+ZECH0      155336155336P0W0
+QI70000000045815541554B   T0F0
+ZECH0      155424155424P0W0
+QI70000000046015551555B   T1F0
+ZECH0      155500155500P0W0
+QI70000000046215551555B   T0F0
+ZECH0      155528155528P0W0
+QI70000000050415561556B   T1F0
+ZECH0      155600155600P0W0
+QI70000000050615561556B   T0F0
+ZECH0      155630155630P0W0
+QI70000000050815571557B   T1F0
+ZECH0      155700155700P0W0
+QI70000000051015571557B   T1F0
+ZECH0      155700155700P0W0
+QI70000000051215571557B   T0F0
+ZECH0      155730155730P0W0
+QI70000000051415581558B   T0F0
+ZECH0      155822155822P0W0
+QI70000000051615591559B   T0F0
+ZECH0      155924155924P0W0
+QI70000000051816001600B   T0F0
+ZECH0      160036160036P0W0
+QI70000000052016011601B   T0F0
+ZECH0      160118160118P0W0
+QI70000000052216021602B   T1F0
+ZECH0      160200160200P0W0
+QI70000000052416021602B   T0F0
+ZECH0      160259160259P0W0
+QI70000000052616031603B   T0F0
+ZECH0      160346160346P0W0
+QI70000000052816051605B   T0F0
+ZECH0      160529160529P0W0
+QI70000000053016061606B   T0F0
+ZECH0      160612160612P0W0
+QI70000000053216061606B   T0F0
+ZECH0      160655160655P0W0
+QI70000000053416081608B   T0F0
+ZECH0      160801160801P0W0
+QI70000000142416091609B   T0F0
+ZECH0      160919160919P0W0
+QT7000000014251610   T1F0
+ZECH0      161000161000P0W0
+QSNTM  14111920091010        0000010  10H 10F03 0               I
+ZJTMAO010H002 551150     000CB   1613    1208    C         0000030L0
+QO7000000147151613   T1F0
+ZECH0      161300161300P0W0
+QI70000000004816131613B   T0F0
+ZECH0      161318161318P0W0
+QI70000000005016141614B   T0F0
+ZECH0      161407161407P0W0
+QI70000000005216141614B   T0F0
+ZECH0      161443161443P0W0
+QI70000000005416151615B   T0F0
+ZECH0      161502161502P0W0
+QI70000000005616151615B   T0F0
+ZECH0      161551161551P0W0
+QI70000000044016171617B   T1F0
+ZECH0      161700161700P0W0
+QI70000000044216171617B   T0F0
+ZECH0      161750161750P0W0
+QI70000000044416181618B   T0F0
+ZECH0      161824161824P0W0
+QI70000000044616191619B   T0F0
+ZECH0      161906161906P0W0
+QI70000000044816191619B   T0F0
+ZECH0      161941161941P0W0
+QI70000001472316201620B   T0F0
+ZECH0      162022162022P0W0
+QI70000000045016211621B   T1F0
+ZECH0      162100162100P0W0
+QI70000000045216221622B   T0F0
+ZECH0      162202162202P0W0
+QI70000000045416231623B   T0F0
+ZECH0      162310162310P0W0
+QI70000000045616231623B   T0F0
+ZECH0      162336162336P0W0
+QI70000000045816241624B   T0F0
+ZECH0      162424162424P0W0
+QI70000000046016251625B   T1F0
+ZECH0      162500162500P0W0
+QI70000000046216251625B   T0F0
+ZECH0      162528162528P0W0
+QI70000000050416261626B   T1F0
+ZECH0      162600162600P0W0
+QI70000000050616261626B   T0F0
+ZECH0      162630162630P0W0
+QI70000000050816271627B   T1F0
+ZECH0      162700162700P0W0
+QI70000000051016271627B   T1F0
+ZECH0      162700162700P0W0
+QI70000000051216271627B   T0F0
+ZECH0      162730162730P0W0
+QI70000000051416281628B   T0F0
+ZECH0      162822162822P0W0
+QI70000000051616291629B   T0F0
+ZECH0      162924162924P0W0
+QI70000000051816301630B   T0F0
+ZECH0      163036163036P0W0
+QI70000000052016311631B   T0F0
+ZECH0      163118163118P0W0
+QI70000000052216321632B   T1F0
+ZECH0      163200163200P0W0
+QI70000000052416321632B   T0F0
+ZECH0      163259163259P0W0
+QI70000000052616331633B   T0F0
+ZECH0      163346163346P0W0
+QI70000000052816351635B   T0F0
+ZECH0      163529163529P0W0
+QI70000000053016361636B   T0F0
+ZECH0      163612163612P0W0
+QI70000000053216361636B   T0F0
+ZECH0      163655163655P0W0
+QI70000000053416381638B   T0F0
+ZECH0      163801163801P0W0
+QI70000000142416391639B   T0F0
+ZECH0      163919163919P0W0
+QT7000000014251640   T1F0
+ZECH0      164000164000P0W0
+QSNTM  14112520091010        0000010  10H 10F11 0               I
+ZJTMAO010H002 551150     000CB   1643    2218    C         0000030L0
+QO7000000147151643   T1F0
+ZECH0      164300164300P0W0
+QI70000000004816431643B   T0F0
+ZECH0      164318164318P0W0
+QI70000000005016441644B   T0F0
+ZECH0      164407164407P0W0
+QI70000000005216441644B   T0F0
+ZECH0      164443164443P0W0
+QI70000000005416451645B   T0F0
+ZECH0      164502164502P0W0
+QI70000000005616451645B   T0F0
+ZECH0      164551164551P0W0
+QI70000000044016471647B   T1F0
+ZECH0      164700164700P0W0
+QI70000000044216471647B   T0F0
+ZECH0      164750164750P0W0
+QI70000000044416481648B   T0F0
+ZECH0      164824164824P0W0
+QI70000000044616491649B   T0F0
+ZECH0      164906164906P0W0
+QI70000000044816491649B   T0F0
+ZECH0      164941164941P0W0
+QI70000001472316501650B   T0F0
+ZECH0      165022165022P0W0
+QI70000000045016511651B   T1F0
+ZECH0      165100165100P0W0
+QI70000000045216521652B   T0F0
+ZECH0      165202165202P0W0
+QI70000000045416531653B   T0F0
+ZECH0      165310165310P0W0
+QI70000000045616531653B   T0F0
+ZECH0      165336165336P0W0
+QI70000000045816541654B   T0F0
+ZECH0      165424165424P0W0
+QI70000000046016551655B   T1F0
+ZECH0      165500165500P0W0
+QI70000000046216551655B   T0F0
+ZECH0      165528165528P0W0
+QI70000000050416561656B   T1F0
+ZECH0      165600165600P0W0
+QI70000000050616561656B   T0F0
+ZECH0      165630165630P0W0
+QI70000000050816571657B   T1F0
+ZECH0      165700165700P0W0
+QI70000000051016571657B   T1F0
+ZECH0      165700165700P0W0
+QI70000000051216571657B   T0F0
+ZECH0      165730165730P0W0
+QI70000000051416581658B   T0F0
+ZECH0      165822165822P0W0
+QI70000000051616591659B   T0F0
+ZECH0      165924165924P0W0
+QI70000000051817001700B   T0F0
+ZECH0      170036170036P0W0
+QI70000000052017011701B   T0F0
+ZECH0      170118170118P0W0
+QI70000000052217021702B   T1F0
+ZECH0      170200170200P0W0
+QI70000000052417021702B   T0F0
+ZECH0      170259170259P0W0
+QI70000000052617031703B   T0F0
+ZECH0      170346170346P0W0
+QI70000000052817051705B   T0F0
+ZECH0      170529170529P0W0
+QI70000000053017061706B   T0F0
+ZECH0      170612170612P0W0
+QI70000000053217061706B   T0F0
+ZECH0      170655170655P0W0
+QI70000000053417081708B   T0F0
+ZECH0      170801170801P0W0
+QI70000000142417091709B   T0F0
+ZECH0      170919170919P0W0
+QT7000000014251710   T1F0
+ZECH0      171000171000P0W0
+QSNTM  14113120091010        0000010  10H 10F13 0               I
+ZJTMAO010H002 551150     000CB   1713    3204    C         0000030L0
+QO7000000147151713   T1F0
+ZECH0      171300171300P0W0
+QI70000000004817131713B   T0F0
+ZECH0      171318171318P0W0
+QI70000000005017141714B   T0F0
+ZECH0      171407171407P0W0
+QI70000000005217141714B   T0F0
+ZECH0      171443171443P0W0
+QI70000000005417151715B   T0F0
+ZECH0      171502171502P0W0
+QI70000000005617151715B   T0F0
+ZECH0      171551171551P0W0
+QI70000000044017171717B   T1F0
+ZECH0      171700171700P0W0
+QI70000000044217171717B   T0F0
+ZECH0      171750171750P0W0
+QI70000000044417181718B   T0F0
+ZECH0      171824171824P0W0
+QI70000000044617191719B   T0F0
+ZECH0      171906171906P0W0
+QI70000000044817191719B   T0F0
+ZECH0      171941171941P0W0
+QI70000001472317201720B   T0F0
+ZECH0      172022172022P0W0
+QI70000000045017211721B   T1F0
+ZECH0      172100172100P0W0
+QI70000000045217221722B   T0F0
+ZECH0      172202172202P0W0
+QI70000000045417231723B   T0F0
+ZECH0      172310172310P0W0
+QI70000000045617231723B   T0F0
+ZECH0      172336172336P0W0
+QI70000000045817241724B   T0F0
+ZECH0      172424172424P0W0
+QI70000000046017251725B   T1F0
+ZECH0      172500172500P0W0
+QI70000000046217251725B   T0F0
+ZECH0      172528172528P0W0
+QI70000000050417261726B   T1F0
+ZECH0      172600172600P0W0
+QI70000000050617261726B   T0F0
+ZECH0      172630172630P0W0
+QI70000000050817271727B   T1F0
+ZECH0      172700172700P0W0
+QI70000000051017271727B   T1F0
+ZECH0      172700172700P0W0
+QI70000000051217271727B   T0F0
+ZECH0      172730172730P0W0
+QI70000000051417281728B   T0F0
+ZECH0      172822172822P0W0
+QI70000000051617291729B   T0F0
+ZECH0      172924172924P0W0
+QI70000000051817301730B   T0F0
+ZECH0      173036173036P0W0
+QI70000000052017311731B   T0F0
+ZECH0      173118173118P0W0
+QI70000000052217321732B   T1F0
+ZECH0      173200173200P0W0
+QI70000000052417321732B   T0F0
+ZECH0      173252173252P0W0
+QI70000000052617331733B   T0F0
+ZECH0      173332173332P0W0
+QI70000000052817351735B   T0F0
+ZECH0      173502173502P0W0
+QI70000000053017351735B   T0F0
+ZECH0      173540173540P0W0
+QI70000000053217361736B   T0F0
+ZECH0      173618173618P0W0
+QI70000000053417371737B   T0F0
+ZECH0      173716173716P0W0
+QI70000000142417381738B   T0F0
+ZECH0      173824173824P0W0
+QT7000000014251739   T1F0
+ZECH0      173900173900P0W0
+QVN0       Bus                     
+QHN20061225
+QHN20061226
+QHN20070101
+QHN20070406
+QHN20070409
+QHN20070507
+QHN20070528
+QHN20070827
+QHN20071225
+QHN20071226
