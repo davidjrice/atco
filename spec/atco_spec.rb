@@ -17,7 +17,7 @@ describe Atco do
       :file_originator => 'Electronic Registration',
       :source_product => 'MIA 4.20.18',
       :production_datetime => '20090915113809'
-      }
+    }
   end
   
   it "should parse bank holiday" do
