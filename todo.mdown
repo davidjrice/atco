@@ -1,14 +1,14 @@
-8. Bank Holiday Dates
+## TODO
 
-4a. Operator Record 1
-
-
-2b. Additional Location Information Record
-2a. Location record
-
-1f. Destination Record
-1e. Intermediate Record
-1d. Origin Record
+0. File Header **(DONE)**
 1a. Journey Header
+1d. Origin Record
+1e. Intermediate Record
+1f. Destination Record
+2a. Location record
+2b. Additional Location Information Record **(DONE)**
+4a. Operator Record 1 **(DONE)**
+8. Bank Holiday Dates **(DONE)**
 
-0. File Header
+
+

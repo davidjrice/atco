@@ -20,4 +20,32 @@ describe Atco do
       }
   end
   
+  it "should parse bank holiday" do
+    Atco.parse_bank_holiday("QHN20061225").should == {
+      :record_identity => 'QH',
+      :transaction_type => 'N',
+      :date_of_bank_holiday => '20061225'
+    }
+  end
+  
+  it "should parse operator" do
+    Atco.parse_operator("QPNTM  Translink Metro         Translink Metro           \r\n").should == {
+      :record_identity => 'QP',
+      :transaction_type => 'N',
+      :operator => 'TM',
+      :operator_short_form => 'Translink Metro',
+      :operator_legal_name => 'Translink Metro'
+    }
+  end
+  
+  it "should parse additional location information" do
+    Atco.parse_additional_location_info("QBN700000001252  328622  367433      \r\n").should == {
+      :record_identity => 'QB',
+      :transaction_type => 'N',
+      :location => '700000001252',
+      :grid_reference_easting => '328622',
+      :grid_reference_northing => '367433'
+    }
+  end
+  
 end
