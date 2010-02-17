@@ -14,4 +14,6 @@
 * Collate data in a procedural form **(DONE)**
 * Output data **(DONE)**
 
+* Handle translink atco-cif extensions during parsing
+* handle bank holiday parsing
 * Gemify the library
