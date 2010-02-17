@@ -58,5 +58,16 @@ describe Atco do
     }
   end
 
+  # QT7000000012520605   T1F0
+  it "should parse destination" do
+    Atco.parse_destination("QT7000000012520605   T1F0\r\n").should == {
+      :record_identity => 'QT',
+      :location => '700000001252',
+      :published_arrival_time => '0605',
+      :bay_number => "",
+      :timing_point_indicator => 'T1',
+      :fare_stage_indicator => 'F0'
+    }
+  end
   
 end
