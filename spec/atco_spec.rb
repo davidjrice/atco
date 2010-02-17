@@ -48,4 +48,15 @@ describe Atco do
     }
   end
   
+  it "should parse location" do
+    Atco.parse_location("QLN700000001252Conway (River Rd)                               1\r\n").should == {
+      :record_identity => 'QL',
+      :transaction_type => 'N',
+      :location => '700000001252',
+      :full_location => 'Conway (River Rd)',
+      :gazetteer_code => '1'
+    }
+  end
+
+  
 end
