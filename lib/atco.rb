@@ -65,6 +65,16 @@ module Atco
       }
     end
     
+    def parse_destination(string)
+      {
+        :record_identity => string[0,2],
+        :transaction_type => string[2,1],
+        :location => string[3,12].strip,
+        :full_location => string[15,48].strip,
+        :gazetteer_code => string[63,1]
+      }
+    end
+    
   end
   
 end
