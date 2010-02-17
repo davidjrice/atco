@@ -1,14 +1,15 @@
 ## TODO
 
 * 0. File Header **(DONE)**
-* 1a. Journey Header
-* 1d. Origin Record
-* 1e. Intermediate Record
-* 1f. Destination Record
+* 1a. Journey Header **(DONE)**
+* 1d. Origin Record **(DONE)**
+* 1e. Intermediate Record **(DONE)**
+* 1f. Destination Record **(DONE)**
 * 2a. Location record **(DONE)**
 * 2b. Additional Location Information Record **(DONE)**
 * 4a. Operator Record 1 **(DONE)**
 * 8. Bank Holiday Dates **(DONE)**
 
-
-
+* Iterate lines and parse each into an object from methods extracted above
+* Collate data in a procedural form
+* Output data

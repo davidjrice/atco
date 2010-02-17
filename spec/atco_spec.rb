@@ -7,7 +7,7 @@ describe Atco do
   end
   
   it "should output file" do
-    Atco.parse('SVRTMAO009A-20091005.cif')
+    puts Atco.parse('SVRTMAO009A-20091005.cif')
   end
   
   it "should parse header" do
@@ -70,4 +70,53 @@ describe Atco do
     }
   end
   
+  it "should parse intermediate" do
+    Atco.parse_intermediate("QI70000000125607120712B   T1F0\r\n").should == {
+      :record_identity => 'QI',
+      :location => '700000001256',
+      :published_arrival_time => '0712',
+      :published_departure_time => '0712',
+      :activity_flag => "B",
+      :bay_number => "",
+      :timing_point_indicator => 'T1',
+      :fare_stage_indicator => 'F0'
+    }
+  end
+  
+  it "should parse origin" do
+    Atco.parse_origin("QO7000000012520730   T1F0\r\n").should == {
+      :record_identity => 'QO',
+      :location => '700000001252',
+      :published_departure_time => '0730',
+      :bay_number => "",
+      :timing_point_indicator => 'T1',
+      :fare_stage_indicator => 'F0'
+    }
+  end
+
+  it "should parse journey header" do
+    Atco.parse_journey_header("QSNTM  13986520091005        1111100  9A  9018  0               I\r\n").should == {
+      :record_identity => 'QS',
+      :transaction_type => 'N',
+      :operator => 'TM',
+      :unique_journey_identifier => '139865',
+      :first_date_of_operation => '20091005',
+      :last_date_of_operation => '',
+      :operates_on_mondays => '1',
+      :operates_on_tuesdays => '1',
+      :operates_on_wednesdays => '1',
+      :operates_on_thursdays => '1',
+      :operates_on_fridays => '1',
+      :operates_on_saturdays => '0',
+      :operates_on_sundays => '0',
+      :school_term_time => '',
+      :bank_holidays => '',
+      :route_number => '9A',
+      :running_board => '9018',
+      :vehicle_type => '0',
+      :registration_number => '',
+      :route_direction => 'I'
+    }
+  end
+
 end
