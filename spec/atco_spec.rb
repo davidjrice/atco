@@ -7,14 +7,35 @@ describe Atco do
    
   end
   
-  it "should output file" do
+  it "should output file for debugging!" do
     result = Atco.parse('spec/fixtures/example.cif')
     File.open('test.output', 'w+') do |f|
       f.flush
       f.write(JSON.pretty_generate(result))
     end
     fixture = JSON.parse(File.read('spec/fixtures/example.json'))
-    result.should == fixture
+  end
+  
+  it "should parse header from fixture" do
+    result = Atco.parse('spec/fixtures/example.cif')
+    result[:header].should == {
+      :file_type => "ATCO-CIF",
+      :file_originator => "Electronic Registration",
+      :source_product => "MIA 4.20.18",
+      :version => "5.0",
+      :production_datetime => "20090915113809"
+    }
+  end
+  
+  it "should parse locations from fixture" do
+    result = Atco.parse('spec/fixtures/example.cif')
+    result[:header].should == {
+      :file_type => "ATCO-CIF",
+      :file_originator => "Electronic Registration",
+      :source_product => "MIA 4.20.18",
+      :version => "5.0",
+      :production_datetime => "20090915113809"
+    }
   end
   
   it "should parse header" do
