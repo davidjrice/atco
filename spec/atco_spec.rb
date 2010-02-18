@@ -8,11 +8,13 @@ describe Atco do
   end
   
   it "should output file" do
-    result = Atco.parse('SVRTMAO009A-20091005.cif')
-    File.open('../test.output', 'w+') do |f|
+    result = Atco.parse('spec/fixtures/example.cif')
+    File.open('test.output', 'w+') do |f|
       f.flush
       f.write(JSON.pretty_generate(result))
     end
+    fixture = JSON.parse(File.read('spec/fixtures/example.json'))
+    result.should == fixture
   end
   
   it "should parse header" do

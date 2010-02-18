@@ -23,7 +23,7 @@ module Atco
     }
     
     def parse(file)
-      @path = File.expand_path(File.join(File.dirname(__FILE__), '..', 'data', file))
+      @path = File.expand_path(file)
       data = File.readlines(@path)
       
       objects = []
