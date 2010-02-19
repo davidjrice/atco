@@ -54,7 +54,7 @@ module Atco
               if journeys[current_journey[:unique_journey_identifier]]
                 journeys[current_journey[:unique_journey_identifier]] << object
               else
-                journeys[current_journey[:unique_journey_identifier]] = []
+                journeys[current_journey[:unique_journey_identifier]] = [object]
               end
             end
             objects << object
