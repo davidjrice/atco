@@ -14,7 +14,7 @@
 * Collate data in a procedural form **(DONE)**
 * Output data **(DONE)**
 
-* Journey header not integrated into output
+* Journey header not integrated into output **(DONE)**
 * Location data should be combined
 * Header attributes should just be root attrs
 * Handle translink atco-cif extensions during parsing
