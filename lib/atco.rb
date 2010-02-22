@@ -3,7 +3,7 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 require 'open3'
 require 'tempfile'  
-
+require 'location'
 
 module Atco
   VERSION = '0.0.1'
@@ -46,7 +46,7 @@ module Atco
               if object[:record_identity] == @@methods[:location]
                 current_location = object 
               else
-                locations << [current_location, object]
+                locations << Location.new(current_location, object)
               end
             end
 

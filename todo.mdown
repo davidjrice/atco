@@ -15,7 +15,7 @@
 * Output data **(DONE)**
 
 * Journey header not integrated into output **(DONE)**
-* Location data should be combined
+* Location data should be combined **(DONE)**
 * Header attributes should just be root attrs
 * Handle translink atco-cif extensions during parsing
 * handle bank holiday parsing

@@ -13,7 +13,7 @@ describe Atco do
       f.flush
       f.write(JSON.pretty_generate(result))
     end
-    fixture = JSON.parse(File.read('spec/fixtures/example.json'))
+    #fixture = JSON.parse(File.read('spec/fixtures/example.json'))
   end
   
   it "should parse header from fixture" do
