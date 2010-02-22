@@ -10,10 +10,8 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["David Rice"]
   s.date = %q{2010-02-22}
-  s.default_executable = %q{atco}
   s.description = %q{Simple and opinionated library for parsing ATCO-CIF files with Ruby.}
   s.email = %q{me@davidjrice.co.uk}
-  s.executables = ["atco"]
   s.extra_rdoc_files = [
     "README.mdown"
   ]

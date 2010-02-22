@@ -2,7 +2,6 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "atco"
-    s.executables = "atco"
     s.summary = "Simple and opinionated library for parsing ATCO-CIF files with Ruby."
     s.email = "me@davidjrice.co.uk"
     s.homepage = "http://github.com/davidjrice/atco"
