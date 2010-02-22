@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{atco}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["David Rice"]
@@ -20,7 +20,9 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/atco.rb",
-     "lib/location.rb"
+     "lib/atco/journey.rb",
+     "lib/atco/location.rb",
+     "lib/atco/stop.rb"
   ]
   s.homepage = %q{http://github.com/davidjrice/atco}
   s.rdoc_options = ["--charset=UTF-8"]
