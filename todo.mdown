@@ -16,9 +16,10 @@
 
 * Journey header not integrated into output **(DONE)**
 * Location data should be combined **(DONE)**
+* Gemify the library **(DONE)**
 
+* Place the entirety of atco code within a Module for namespacing.
 * Journey data, combine into one object.
 * Header attributes should just be root attrs
 * Handle translink atco-cif extensions during parsing
 * handle bank holiday parsing
-* Gemify the library
