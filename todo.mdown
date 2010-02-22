@@ -20,9 +20,16 @@
 
 ### Version (0.0.2)
 
-* Place the entirety of atco code within a Module for namespacing.
-* Journey data, combine into one object.
+* Place the entirety of atco code within a Module for namespacing. **(DONE)**
+* Journey data, combine into one object. **(DONE)**
+
+### Version (0.0.3)
+
 * Header attributes should just be root attrs
 * Handle translink atco-cif extensions during parsing
 * handle bank holiday parsing
-* Tests should not test the internal methods, should retrieve the objects to test from Atco.parse !!
+* Specs should not test the internal methods, should retrieve the objects to test from Atco.parse !!
+* Remove data from the repo / gem
+* If nil or blank data found. Remove from output
+* Parse all objects into more native ruby objects
+* "Models" are getting quite repetitive/declarative, declarative is good to allow for easy (understandable) mapping to better domain... however, use active model?
