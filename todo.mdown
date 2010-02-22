@@ -1,5 +1,7 @@
 ## TODO
 
+### Version (0.0.1)
+
 * 0. File Header **(DONE)**
 * 1a. Journey Header **(DONE)**
 * 1d. Origin Record **(DONE)**
@@ -9,17 +11,18 @@
 * 2b. Additional Location Information Record **(DONE)**
 * 4a. Operator Record 1 **(DONE)**
 * 8. Bank Holiday Dates **(DONE)**
-
 * Iterate lines and parse each into an object from methods extracted above **(DONE)**
 * Collate data in a procedural form **(DONE)**
 * Output data **(DONE)**
-
 * Journey header not integrated into output **(DONE)**
 * Location data should be combined **(DONE)**
 * Gemify the library **(DONE)**
+
+### Version (0.0.2)
 
 * Place the entirety of atco code within a Module for namespacing.
 * Journey data, combine into one object.
 * Header attributes should just be root attrs
 * Handle translink atco-cif extensions during parsing
 * handle bank holiday parsing
+* Tests should not test the internal methods, should retrieve the objects to test from Atco.parse !!
