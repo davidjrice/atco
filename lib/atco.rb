@@ -3,7 +3,10 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 require 'open3'
 require 'tempfile'  
-require 'location'
+require 'atco/location'
+require 'atco/journey'
+require 'atco/stop'
+
 
 module Atco
   VERSION = '0.0.1'
@@ -52,9 +55,9 @@ module Atco
 
             if current_journey
               if journeys[current_journey[:unique_journey_identifier]]
-                journeys[current_journey[:unique_journey_identifier]] << object
+                journeys[current_journey[:unique_journey_identifier]].stops << Stop.new(object)
               else
-                journeys[current_journey[:unique_journey_identifier]] = [object]
+                journeys[current_journey[:unique_journey_identifier]] = Journey.new(object)
               end
             end
             objects << object
