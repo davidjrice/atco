@@ -13,9 +13,8 @@ describe Atco do
       f.flush
       f.write(JSON.pretty_generate(result))
     end
-    #fixture = JSON.parse(File.read('spec/fixtures/example.json'))
   end
-  
+
   it "should parse header from fixture" do
     result = Atco.parse('spec/fixtures/example.cif')
     result[:header].should == {
@@ -146,5 +145,34 @@ describe Atco do
       :route_direction => 'I'
     }
   end
+
+  describe "with example.cif" do
+    
+    before(:all) do
+      @atco = Atco.parse('spec/fixtures/example.cif')
+    end
+      
+    it "should parse 1 journey" do
+      @atco[:journeys].size.should == 1
+    end
+    
+    it "should parse journeys into Atco::Joruney objects" do
+      @atco[:journeys]["139748"].should be_a_kind_of(Atco::Journey)
+    end
+
+    it "should parse 6 stops for joureny 139748" do
+      @atco[:journeys]["139748"].stops.size.should == 6
+    end
+    
+    it "should parse 6 stops for joureny 139748" do
+      @atco[:journeys]["139748"].stops.size.should == 6
+    end
+    
+    it "should parse 2 locations" do
+      @atco[:locations].size.should == 2
+    end
+    
+  end
+  
 
 end
