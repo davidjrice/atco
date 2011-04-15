@@ -1,12 +1,11 @@
-$:.unshift(File.dirname(__FILE__)) unless
-  $:.include?(File.dirname(__FILE__)) || $:.include?(File.expand_path(File.dirname(__FILE__)))
-
 require 'open3'
 require 'tempfile'  
 require 'atco/location'
 require 'atco/journey'
 require 'atco/stop'
-
+require 'atco/journey_route'
+require 'atco/journey_times'
+require 'atco/z_location'
 
 module Atco
   VERSION = '0.0.1'
@@ -23,6 +22,12 @@ module Atco
       :intermediate => 'QI',
       :origin => 'QO',
       :journey_header => 'QS'
+    }
+    
+    @@gmpte_methods = {
+      :journey_route => 'ZS',
+      :stop_location_name => 'ZA',
+      :journey_times => 'ZD'
     }
     
     def parse(file)
@@ -64,7 +69,39 @@ module Atco
           end
         end
       end
-      return {:header => header, :locations => locations, :journeys => journeys}
+      
+      @path = File.expand_path(file)
+      data = File.readlines(@path)
+      gmpte_info=[]
+      record_ended = false
+      data.each do |line|
+        case line[0,2]
+          when 'ZD'
+            puts 'ZD: ' + line
+            #this is a gmpte specific thing
+            #it's a new journey so start again
+            #the assumption is that the journey record is defined before the stops etc
+            record_ended = false
+            z_locations=[]
+            @journey = JourneyTimes.new(parse_journey_times line)
+            @journey.z_locations=z_locations
+            @journey.journey_identifiers = []
+          when 'ZA'
+            #this is a gmpte specific thing
+            @journey.z_locations << ZLocation.new(parse_stop_location_name line)
+          when 'ZS'
+            #this is a gmpte specific thing
+            @journey.journey_route = JourneyRoute.new(parse_journey_route line)
+          when 'QS'
+            journey_info = parse_journey_header(line)
+            #each journey can have several records due to bank holidays, weekends etc.
+            @journey.journey_identifiers << journey_info[:unique_journey_identifier]
+            #That's the end of the record
+            gmpte_info << @journey unless record_ended
+            record_ended = true
+          end
+        end
+      return {:header => header, :locations => locations, :journeys => journeys, :gmpte_info=>gmpte_info}
     end
     
     def parse_header(string)
@@ -177,6 +214,36 @@ module Atco
     
     def parse_value(value)
       return value.strip if value
+    end
+    
+    #GMPTE has this data
+    def parse_journey_times(string)
+      {
+        :record_identity => string[0,2],
+        :start_time => string[2,8],
+        :end_time => string[10,8],
+        :days_of_the_week_text => parse_value(string[18,48])
+      }
+    end
+    
+    #GMPTE has this data
+    def parse_journey_route(string)
+      {
+        :record_identity => string[0,2],
+        :provider => string[2,8],
+        :route_name => parse_value(string[10,4]),
+        :route_text => parse_value(string[14,50])
+      }
+    end
+    
+    #GMPTE has this data
+    def parse_stop_location_name(string)
+      {
+        :record_identity => string[0,2],
+        :type => string[2,1],
+        :identifier => parse_value(string[3,12]),
+        :name => parse_value(string[14,48])
+      }
     end
   end
   

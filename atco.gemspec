@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["David Rice"]
+  s.authors = ["David Rice", "Ian Dunlop"]
   s.date = %q{2010-02-22}
   s.description = %q{Simple and opinionated library for parsing ATCO-CIF files with Ruby.}
-  s.email = %q{me@davidjrice.co.uk}
+  s.email = [%q{me@davidjrice.co.uk}, %q{ianwdunlop@gmail.com}]
   s.extra_rdoc_files = [
     "README.mdown"
   ]
@@ -22,7 +22,10 @@ Gem::Specification.new do |s|
      "lib/atco.rb",
      "lib/atco/journey.rb",
      "lib/atco/location.rb",
-     "lib/atco/stop.rb"
+     "lib/atco/stop.rb",
+     "lib/atco/z_location.rb",
+     "lib/atco/journey_times.rb",
+     "lib/atco/journey_route.rb"
   ]
   s.homepage = %q{http://github.com/davidjrice/atco}
   s.rdoc_options = ["--charset=UTF-8"]
