@@ -6,6 +6,7 @@ require 'atco/stop'
 require 'atco/journey_route'
 require 'atco/journey_times'
 require 'atco/z_location'
+require 'iconv'
 
 module Atco
   VERSION = '0.0.1'
@@ -77,7 +78,6 @@ module Atco
       data.each do |line|
         case line[0,2]
           when 'ZD'
-            puts 'ZD: ' + line
             #this is a gmpte specific thing
             #it's a new journey so start again
             #the assumption is that the journey record is defined before the stops etc
@@ -213,7 +213,7 @@ module Atco
     end
     
     def parse_value(value)
-      return value.strip if value
+        return value.strip if value
     end
     
     #GMPTE has this data
