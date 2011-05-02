@@ -11,70 +11,42 @@ require 'iconv'
 module Atco
   VERSION = '0.0.1'
   
-  class << self
-    
-    @path = nil
-    @@methods = {
-      :bank_holiday => 'QH',
-      :operator => 'QP',
-      :additional_location_info => 'QB',
-      :location => 'QL',
-      :destination => 'QT',
-      :intermediate => 'QI',
-      :origin => 'QO',
-      :journey_header => 'QS'
-    }
-    
-    @@gmpte_methods = {
-      :journey_route => 'ZS',
-      :stop_location_name => 'ZA',
-      :journey_times => 'ZD'
-    }
+  class Parser
     
     def parse(file)
-      @path = File.expand_path(file)
-      data = File.readlines(@path)
+      path = File.expand_path(file)
+      data = File.readlines(path)
       
-      objects = []
-      current_journey = nil
-      current_location = nil
-      locations = []
-      journeys = {}
+      # locations = []
+      journeys = []
       header = nil
-      
+      journey = nil
       data.each do |line|
-        if line == data.first
-          header = parse_header(line)
-          next
-        end
-        @@methods.each do |method,identifier|
-          object = self.send("parse_#{method}", line)
-          if object[:record_identity] && object[:record_identity] == identifier
-            current_journey = object if object[:record_identity] && object[:record_identity] == @@methods[:journey_header]
-            if object[:record_identity] && ( object[:record_identity] == @@methods[:location] ||  object[:record_identity] == @@methods[:additional_location_info] )
-              if object[:record_identity] == @@methods[:location]
-                current_location = object 
-              else
-                locations << Location.new(current_location, object)
-              end
-            end
-
-            if current_journey
-              if journeys[current_journey[:unique_journey_identifier]]
-                journeys[current_journey[:unique_journey_identifier]].stops << Stop.new(object)
-              else
-                journeys[current_journey[:unique_journey_identifier]] = Journey.new(object)
-              end
-            end
-            objects << object
-          end
+        case line[0,2]
+        when 'QS'
+          journey = Journey.new(parse_journey_header line)
+          journeys << journey
+        when 'QO'
+          journey.stops << Stop.new(parse_origin line)
+        when 'QP'
+        when 'QB'
+        when 'QL'
+        when 'QH'
+        when 'QI'
+          journey.stops << Stop.new(parse_intermediate line)
+        when 'QT'
+          journey.stops << Stop.new(parse_destination line)
+        when 'QO'
         end
       end
+    #   return journeys
+    # end
       
-      @path = File.expand_path(file)
-      data = File.readlines(@path)
+      path = File.expand_path(file)
+      data = File.readlines(path)
       gmpte_info=[]
       record_ended = false
+      journey = nil
       data.each do |line|
         case line[0,2]
           when 'ZD'
@@ -83,75 +55,75 @@ module Atco
             #the assumption is that the journey record is defined before the stops etc
             record_ended = false
             z_locations=[]
-            @journey = JourneyTimes.new(parse_journey_times line)
-            @journey.z_locations=z_locations
-            @journey.journey_identifiers = []
+            journey = JourneyTimes.new(parse_journey_times line)
+            journey.z_locations=z_locations
+            journey.journey_identifiers = []
           when 'ZA'
             #this is a gmpte specific thing
-            @journey.z_locations << ZLocation.new(parse_stop_location_name line)
+            journey.z_locations << ZLocation.new(parse_stop_location_name line)
           when 'ZS'
             #this is a gmpte specific thing
-            @journey.journey_route = JourneyRoute.new(parse_journey_route line)
+            journey.journey_route = JourneyRoute.new(parse_journey_route line)
           when 'QS'
             journey_info = parse_journey_header(line)
             #each journey can have several records due to bank holidays, weekends etc.
-            @journey.journey_identifiers << journey_info[:unique_journey_identifier]
+            journey.journey_identifiers << journey_info[:unique_journey_identifier]
             #That's the end of the record
-            gmpte_info << @journey unless record_ended
+            gmpte_info << journey unless record_ended
             record_ended = true
           end
         end
-      return {:header => header, :locations => locations, :journeys => journeys, :gmpte_info=>gmpte_info}
+      return {:journeys => journeys, :gmpte_info=>gmpte_info}
     end
     
-    def parse_header(string)
-      {
-        :file_type => string[0,8],
-        :version => "#{string[8,2].to_i}.#{string[10,2].to_i}",
-        :file_originator => string[12,32].strip!,
-        :source_product => string[44,16].strip!,
-        :production_datetime => string[60,14]
-      } 
-    end
-    
-    def parse_bank_holiday(string)
-      {
-        :record_identity => string[0,2],
-        :transaction_type => string[2,1],
-        :date_of_bank_holiday => string[3,8]
-      }
-    end
-    
-    def parse_operator(string)
-      {
-        :record_identity => string[0,2],
-        :transaction_type => string[2,1],
-        :operator => parse_value(string[3,4]),
-        :operator_short_form => parse_value(string[7,24]),
-        :operator_legal_name => parse_value(string[31,48])
-      }
-    end
-
-    def parse_additional_location_info(string)
-      {
-        :record_identity => string[0,2],
-        :transaction_type => string[2,1],
-        :location => string[3,12].strip,
-        :grid_reference_easting => parse_value(string[15,8]),
-        :grid_reference_northing => parse_value(string[23,8])
-      }
-    end
-
-    def parse_location(string)
-      {
-        :record_identity => string[0,2],
-        :transaction_type => string[2,1],
-        :location => parse_value(string[3,12]),
-        :full_location => parse_value(string[15,48]),
-        :gazetteer_code => string[63,1]
-      }
-    end
-
+    # def parse_header(string)
+    #   {
+    #     Journey.new(:file_type => string[0,8],
+    #     :version => "#{string[8,2].to_i}.#{string[10,2].to_i}",
+    #     :file_originator => string[12,32].strip!,
+    #     :source_product => string[44,16].strip!,
+    #     :production_datetime => string[60,14])
+    #   } 
+    # end
+    # 
+    # def parse_bank_holiday(string)
+    #   {
+    #     BankHoliday.new(:record_identity => string[0,2],
+    #     :transaction_type => string[2,1],
+    #     :date_of_bank_holiday => string[3,8])
+    #   }
+    # end
+    # 
+    # def parse_operator(string)
+    #   {
+    #     Operator.new(:record_identity => string[0,2],
+    #     :transaction_type => string[2,1],
+    #     :operator => parse_value(string[3,4]),
+    #     :operator_short_form => parse_value(string[7,24]),
+    #     :operator_legal_name => parse_value(string[31,48]))
+    #   }
+    # end
+    # 
+    # def parse_additional_location_info(string)
+    #   {
+    #     :record_identity => string[0,2],
+    #     :transaction_type => string[2,1],
+    #     :location => string[3,12].strip,
+    #     :grid_reference_easting => parse_value(string[15,8]),
+    #     :grid_reference_northing => parse_value(string[23,8])
+    #   }
+    # end
+    # 
+    # def parse_location(string)
+    #   {
+    #     :record_identity => string[0,2],
+    #     :transaction_type => string[2,1],
+    #     :location => parse_value(string[3,12]),
+    #     :full_location => parse_value(string[15,48]),
+    #     :gazetteer_code => string[63,1]
+    #   }
+    # end
+    # 
     def parse_destination(string)
       {
         :record_identity => string[0,2],
@@ -162,7 +134,7 @@ module Atco
         :fare_stage_indicator => string[23,2]
       }
     end
-
+    
     def parse_intermediate(string)
       {
         :record_identity => string[0,2],
@@ -175,7 +147,7 @@ module Atco
         :fare_stage_indicator => string[28,2]
       }
     end
-
+    
     def parse_origin(string)
       {
         :record_identity => string[0,2],
@@ -186,7 +158,7 @@ module Atco
         :fare_stage_indicator => string[23,2]
       }
     end
-
+    # 
     def parse_journey_header(string)
       {
         :record_identity => string[0,2],
@@ -211,7 +183,7 @@ module Atco
         :route_direction => string[64,1]
       }
     end
-    
+    # 
     def parse_value(value)
         return value.strip if value
     end
