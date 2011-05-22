@@ -6,6 +6,8 @@ require 'atco/stop'
 require 'atco/journey_route'
 require 'atco/journey_times'
 require 'atco/z_location'
+require 'atco/operator'
+require 'atco/header'
 require 'iconv'
 
 module Atco
@@ -17,113 +19,130 @@ module Atco
       path = File.expand_path(file)
       data = File.readlines(path)
       
-      # locations = []
-      journeys = []
-      header = nil
+      locations = []
+      # journeys = []
       journey = nil
+      header = nil
+      z_journey = nil
+      operator = nil
+      journeys = nil
+      # locations = []
+      operators = []
+      gmpte_info=[]
+      first_line = data.first
+      header = Header.new(parse_header first_line)
       data.each do |line|
         case line[0,2]
         when 'QS'
           journey = Journey.new(parse_journey_header line)
-          journeys << journey
+          z_journey.journeys << journey
         when 'QO'
           journey.stops << Stop.new(parse_origin line)
         when 'QP'
+          #operator
+          operator = Operator.new(parse_operator line)
+          operators << operator
+        when 'QQ'
+          #additional operator info
+          additional_operator_info = parse_additonal_operator_info line
+          operator.address = additional_operator_info[:address]
         when 'QB'
+          additional_info = parse_additional_location_info(line)
+          location.easting = additonal_info[:grid_reference_easting]
+          location.northing = additonal_info[:grid_reference_northing]
+          location.short_code = additional_info[:location]
         when 'QL'
+          location = Location.new(parse_location line)
+          locations << location
+        when 'QA'
+          #alternative location
         when 'QH'
         when 'QI'
           journey.stops << Stop.new(parse_intermediate line)
         when 'QT'
           journey.stops << Stop.new(parse_destination line)
         when 'QO'
-        end
-      end
-    #   return journeys
-    # end
-      
-      path = File.expand_path(file)
-      data = File.readlines(path)
-      gmpte_info=[]
-      record_ended = false
-      journey = nil
-      data.each do |line|
-        case line[0,2]
-          when 'ZD'
+        when 'QR'
+          #repetition records
+        when 'ZD'
             #this is a gmpte specific thing
             #it's a new journey so start again
             #the assumption is that the journey record is defined before the stops etc
-            record_ended = false
+            # record_ended = false
             z_locations=[]
-            journey = JourneyTimes.new(parse_journey_times line)
-            journey.z_locations=z_locations
-            journey.journey_identifiers = []
-          when 'ZA'
+            z_journey = JourneyTimes.new(parse_journey_times line)
+            z_journey.z_locations=z_locations
+            z_journey.journey_identifiers = []
+            journeys = []
+            z_journey.journeys = journeys
+            gmpte_info << z_journey
+        when 'ZA'
             #this is a gmpte specific thing
-            journey.z_locations << ZLocation.new(parse_stop_location_name line)
-          when 'ZS'
+            z_journey.z_locations << ZLocation.new(parse_stop_location_name line)
+        when 'ZS'
             #this is a gmpte specific thing
-            journey.journey_route = JourneyRoute.new(parse_journey_route line)
-          when 'QS'
-            journey_info = parse_journey_header(line)
-            #each journey can have several records due to bank holidays, weekends etc.
-            journey.journey_identifiers << journey_info[:unique_journey_identifier]
-            #That's the end of the record
-            gmpte_info << journey unless record_ended
-            record_ended = true
-          end
+            z_journey.journey_route = JourneyRoute.new(parse_journey_route line)
         end
-      return {:journeys => journeys, :gmpte_info=>gmpte_info}
+      end
+      
+      return {:header => header, :locations => locations, :operators => operators, :journeys => journeys, :gmpte_info=>gmpte_info}
     end
     
-    # def parse_header(string)
-    #   {
-    #     Journey.new(:file_type => string[0,8],
-    #     :version => "#{string[8,2].to_i}.#{string[10,2].to_i}",
-    #     :file_originator => string[12,32].strip!,
-    #     :source_product => string[44,16].strip!,
-    #     :production_datetime => string[60,14])
-    #   } 
-    # end
-    # 
-    # def parse_bank_holiday(string)
-    #   {
-    #     BankHoliday.new(:record_identity => string[0,2],
-    #     :transaction_type => string[2,1],
-    #     :date_of_bank_holiday => string[3,8])
-    #   }
-    # end
-    # 
-    # def parse_operator(string)
-    #   {
-    #     Operator.new(:record_identity => string[0,2],
-    #     :transaction_type => string[2,1],
-    #     :operator => parse_value(string[3,4]),
-    #     :operator_short_form => parse_value(string[7,24]),
-    #     :operator_legal_name => parse_value(string[31,48]))
-    #   }
-    # end
-    # 
-    # def parse_additional_location_info(string)
-    #   {
-    #     :record_identity => string[0,2],
-    #     :transaction_type => string[2,1],
-    #     :location => string[3,12].strip,
-    #     :grid_reference_easting => parse_value(string[15,8]),
-    #     :grid_reference_northing => parse_value(string[23,8])
-    #   }
-    # end
-    # 
-    # def parse_location(string)
-    #   {
-    #     :record_identity => string[0,2],
-    #     :transaction_type => string[2,1],
-    #     :location => parse_value(string[3,12]),
-    #     :full_location => parse_value(string[15,48]),
-    #     :gazetteer_code => string[63,1]
-    #   }
-    # end
-    # 
+    def parse_header(string)
+      {
+        :file_type => string[0,8],
+        :version => "#{string[8,2].to_i}.#{string[10,2].to_i}",
+        :file_originator => string[12,32].strip!,
+        :source_product => string[44,16].strip!,
+        :production_datetime => string[60,14]
+      } 
+    end
+    
+    def parse_bank_holiday(string)
+      {
+        :record_identity => string[0,2],
+        :transaction_type => string[2,1],
+        :date_of_bank_holiday => string[3,8]
+      }
+    end
+    
+    def parse_operator(string)
+      {
+        :record_identity => string[0,2],
+        :transaction_type => string[2,1],
+        :operator => parse_value(string[3,4]),
+        :operator_short_form => parse_value(string[7,24]),
+        :operator_legal_name => parse_value(string[31,48])
+      }
+    end
+    
+    def parse_additonal_operator_info
+      {
+        :record_identity => string[0,2],
+        :address => string[77,3]
+      }
+    end
+    
+    def parse_additional_location_info(string)
+      {
+        :record_identity => string[0,2],
+        :transaction_type => string[2,1],
+        :location => string[3,12].strip,
+        :grid_reference_easting => parse_value(string[15,8]),
+        :grid_reference_northing => parse_value(string[23,8])
+      }
+    end
+    
+    def parse_location(string)
+      {
+        :record_identity => string[0,2],
+        :transaction_type => string[2,1],
+        :location => parse_value(string[3,12]),
+        :full_location => parse_value(string[15,48]),
+        :gazetteer_code => string[63,1]
+      }
+    end
+    
     def parse_destination(string)
       {
         :record_identity => string[0,2],

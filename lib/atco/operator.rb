@@ -2,8 +2,8 @@ module Atco
   
   class Operator
 
-    attr_accessor :record_identity, :transaction_type, :operator, :operator_short_form, :operator_legal_name
-    attr_writer :record_identity, :transaction_type, :operator, :operator_short_form, :operator_legal_name
+    attr_accessor :record_identity, :transaction_type, :operator, :operator_short_form, :operator_legal_name, :address
+    attr_writer :record_identity, :transaction_type, :operator, :operator_short_form, :operator_legal_name, :address
 
     def initialize(data)
       @record_identity = data[:record_identity]

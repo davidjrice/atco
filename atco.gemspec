@@ -25,7 +25,9 @@ Gem::Specification.new do |s|
      "lib/atco/stop.rb",
      "lib/atco/z_location.rb",
      "lib/atco/journey_times.rb",
-     "lib/atco/journey_route.rb"
+     "lib/atco/journey_route.rb",
+     "lib/atco/header.rb",
+     "lib/atco/operator.rb"
   ]
   s.homepage = %q{http://github.com/davidjrice/atco}
   s.rdoc_options = ["--charset=UTF-8"]
