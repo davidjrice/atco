@@ -38,7 +38,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       unparsed = []
 
       data.each_with_index do |line, line_number| # rubocop:disable Metrics/BlockLength
-        if line == data.first
+        if line_number.zero?
           header = parse_header(line)
           next
         end
@@ -52,13 +52,13 @@ module Atco # rubocop:disable Metrics/ModuleLength
           object = send("parse_#{method}", line)
           next unless object[:record_identity] && object[:record_identity] == identifier
 
-          current_journey = object if object[:record_identity] && object[:record_identity] == METHODS[:journey_header]
-          if object[:record_identity] && (object[:record_identity] == METHODS[:location] || object[:record_identity] == METHODS[:additional_location_info]) # rubocop:disable Layout/LineLength
-            if object[:record_identity] == METHODS[:location]
-              current_location = object
-            else
-              locations << Location.new(current_location, object)
-            end
+          case method
+          when :journey_header
+            current_journey = object
+          when :location
+            current_location = object
+          when :additional_location_info
+            locations << Location.new(current_location, object)
           end
 
           if current_journey
@@ -73,6 +73,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
           unparsed << { line: line, line_number: line_number }
           next
         end
+        objects << object
       end
       { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
     end
