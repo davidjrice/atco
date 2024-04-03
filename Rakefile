@@ -1,14 +1,13 @@
+require "bundler/gem_tasks"
+
 begin
-  require 'jeweler'
-  Jeweler::Tasks.new do |s|
-    s.name = "atco"
-    s.summary = "Simple and opinionated library for parsing ATCO-CIF files with Ruby."
-    s.email = "me@davidjrice.co.uk"
-    s.homepage = "http://github.com/davidjrice/atco"
-    s.description = "Simple and opinionated library for parsing ATCO-CIF files with Ruby."
-    s.authors = ["David Rice"]
-    s.files =  FileList["[A-Z]*", "{bin,generators,lib,test}/**/*", 'lib/jeweler/templates/.gitignore']
+  require 'rake/testtask'
+
+  Rake::TestTask.new do |t|
+    t.libs << 'test'
+    t.test_files = FileList['test/**/*_test.rb']
+    t.verbose = true
   end
 rescue LoadError
-  puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install jeweler"
+  puts "Rake, or one of its dependencies, is not available. Install it with: sudo gem install rake"
 end
