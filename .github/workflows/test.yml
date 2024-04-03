@@ -32,3 +32,6 @@ jobs:
 
     - name: Run tests
       run: bundle exec rspec spec
+
+    - name: Test gem bundling
+      run: bundle check
