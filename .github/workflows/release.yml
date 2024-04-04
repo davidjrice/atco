@@ -1,4 +1,11 @@
 # .github/workflows/release.yml
+# .github/workflows/release.yml
+name: Release
+
+on:
+  push:
+    branches: [ master ]
+
 jobs:
   push:
     name: Push gem to RubyGems.org
