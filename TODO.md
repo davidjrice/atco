@@ -1,12 +1,21 @@
 ## TODO
 
-### Version (0.0.3)
+### Version (future)
 
 * Remove data from the repo / gem **(DONE)**
 * If nil or blank data found. Remove from output
 * Specs should not test the internal methods, should retrieve the objects to test from Atco.parse !!
 * Parse all objects into more native ruby objects
 * Header attributes should just be root attrs
+* "Models" are getting quite repetitive/declarative, declarative is good to allow for easy (understandable) mapping to better domain... however, use active model?
+* Handle translink atco-cif extensions during parsing
+* handle bank holiday parsing
+
+### Version (1.0.0)
+
+* Update to Ruby 3.x.x compatibility
+* Remove deprecated code
+* Update docs
 
 ### Version (0.0.2)
 
@@ -30,9 +39,3 @@
 * Journey header not integrated into output **(DONE)**
 * Location data should be combined **(DONE)**
 * Gemify the library **(DONE)**
-
-### Nice-to-have
-
-* "Models" are getting quite repetitive/declarative, declarative is good to allow for easy (understandable) mapping to better domain... however, use active model?
-* Handle translink atco-cif extensions during parsing
-* handle bank holiday parsing

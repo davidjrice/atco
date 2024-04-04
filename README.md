@@ -9,7 +9,7 @@ ATCO-CIF is the format of choice for UK public transport authorities. This is a 
 
 ### USAGE
 
-Currently this library is under-development and has several things left to do before it is perfect (see the [todo.mdown](http://github.com/davidjrice/atco/blob/master/todo.mdown) list ).
+Currently this library is under-development and has several things left to do before it is perfect (see the [todo.md](http://github.com/davidjrice/atco/blob/master/TODO.md) list ).
 
 * clone this library
 * start an irb session

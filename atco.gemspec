@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.license = 'MIT'
   s.authors = ['David Rice']
   s.email = 'me@davidjrice.co.uk'
-  s.files = s.files = Dir['{lib,spec}/**/*', 'README.mdown', 'Rakefile', 'VERSION']
+  s.files = s.files = Dir['{lib,spec}/**/*', 'README.md', 'Rakefile', 'VERSION']
   s.extra_rdoc_files = [
-    'README.mdown'
+    'README.md'
   ]
   s.rdoc_options = ['--charset=UTF-8']
   s.require_paths = ['lib']
