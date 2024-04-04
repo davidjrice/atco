@@ -23,7 +23,7 @@ gem install atco
 irb
 
 
-require 'rubygems
+require 'rubygems'
 require 'atco'
 
 result = Atco.parse('filename.cif')
