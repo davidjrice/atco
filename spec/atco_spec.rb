@@ -1,4 +1,6 @@
-require File.dirname(__FILE__) + '/spec_helper'
+# frozen_string_literal: true
+
+require "#{File.dirname(__FILE__)}/spec_helper"
 require 'json'
 
 describe Atco do

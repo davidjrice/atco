@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Atco
   class Stop
     attr_accessor :bay_number, :location, :timing_point_indicator, :fare_stage_indicator, :published_departure_time,

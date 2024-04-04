@@ -1,5 +1,7 @@
-$:.unshift(File.dirname(__FILE__)) unless
-  $:.include?(File.dirname(__FILE__)) || $:.include?(__dir__)
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift(File.dirname(__FILE__)) unless
+  $LOAD_PATH.include?(File.dirname(__FILE__)) || $LOAD_PATH.include?(__dir__)
 
 require 'open3'
 require 'tempfile'
@@ -174,7 +176,7 @@ module Atco
     end
 
     def parse_value(value)
-      value.strip if value
+      value&.strip
     end
   end
 end

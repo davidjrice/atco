@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Atco
   class Location
     attr_accessor :name, :identifier, :easting, :northing, :gazeteer_code

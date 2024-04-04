@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Atco
   class Journey
     attr_accessor :vehicle_type, :registration_number, :identifier, :operator, :route_number, :first_date_of_operation,
