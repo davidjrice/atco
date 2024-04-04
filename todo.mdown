@@ -1,5 +1,18 @@
 ## TODO
 
+### Version (0.0.3)
+
+* Remove data from the repo / gem **(DONE)**
+* If nil or blank data found. Remove from output
+* Specs should not test the internal methods, should retrieve the objects to test from Atco.parse !!
+* Parse all objects into more native ruby objects
+* Header attributes should just be root attrs
+
+### Version (0.0.2)
+
+* Place the entirety of atco code within a Module for namespacing. **(DONE)**
+* Journey data, combine into one object. **(DONE)**
+
 ### Version (0.0.1)
 
 * 0. File Header **(DONE)**
@@ -17,19 +30,6 @@
 * Journey header not integrated into output **(DONE)**
 * Location data should be combined **(DONE)**
 * Gemify the library **(DONE)**
-
-### Version (0.0.2)
-
-* Place the entirety of atco code within a Module for namespacing. **(DONE)**
-* Journey data, combine into one object. **(DONE)**
-
-### Version (0.0.3)
-
-* Remove data from the repo / gem **(DONE)**
-* If nil or blank data found. Remove from output
-* Specs should not test the internal methods, should retrieve the objects to test from Atco.parse !!
-* Parse all objects into more native ruby objects
-* Header attributes should just be root attrs
 
 ### Nice-to-have
 
