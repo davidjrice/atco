@@ -1,7 +1,7 @@
-module Atco
-  
-  class Location
+# frozen_string_literal: true
 
+module Atco
+  class Location
     attr_accessor :name, :identifier, :easting, :northing, :gazeteer_code
 
     def initialize(location_header, additional_location_information)
@@ -13,15 +13,13 @@ module Atco
     end
 
     def to_json(*a)
-      { 
-        :name => @name,
-        :identifier => @identifier,
-        :easting => @easting,
-        :northing => @northing,
-        :gazeteer_code => @gazeteer_code 
+      {
+        name: @name,
+        identifier: @identifier,
+        easting: @easting,
+        northing: @northing,
+        gazeteer_code: @gazeteer_code
       }.to_json(*a)
     end
-
   end
-
 end

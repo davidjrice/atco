@@ -1,14 +1,12 @@
+# frozen_string_literal: true
+
+require 'bundler/gem_tasks'
+require 'rspec/core/rake_task'
+
 begin
-  require 'jeweler'
-  Jeweler::Tasks.new do |s|
-    s.name = "atco"
-    s.summary = "Simple and opinionated library for parsing ATCO-CIF files with Ruby."
-    s.email = "me@davidjrice.co.uk"
-    s.homepage = "http://github.com/davidjrice/atco"
-    s.description = "Simple and opinionated library for parsing ATCO-CIF files with Ruby."
-    s.authors = ["David Rice"]
-    s.files =  FileList["[A-Z]*", "{bin,generators,lib,test}/**/*", 'lib/jeweler/templates/.gitignore']
-  end
+  RSpec::Core::RakeTask.new(:spec)
 rescue LoadError
-  puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install jeweler"
+  puts 'RSpec, or one of its dependencies, is not available. Install it with: bundle install'
 end
+
+task default: :spec

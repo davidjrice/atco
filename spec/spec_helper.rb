@@ -1,5 +1,6 @@
+# frozen_string_literal: true
+
 require 'rubygems'
 require 'rspec'
-#require 'rspec/rails'
 
-require File.dirname(__FILE__) + '/../lib/atco'
+require "#{File.dirname(__FILE__)}/../lib/atco"

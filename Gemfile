@@ -1,4 +1,7 @@
-gem 'rspec'
-gem 'rspec-rails', '>= 2.0.0.beta.7'
-gem 'autotest-rails'
-gem 'autotest'
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+gemspec
+
+gem 'rubocop', require: false
