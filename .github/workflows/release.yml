@@ -2,7 +2,7 @@ name: Release
 
 on:
   workflow_run:
-    workflows: ["RSpec"]
+    workflows: ["tests"]
     types:
       - completed
     branches: [master]
