@@ -30,5 +30,5 @@ Gem::Specification.new do |s|
     "spec/atco_spec.rb",
     "spec/spec_helper.rb"
   ]
-
+  s.add_development_dependency 'rspec'
 end
