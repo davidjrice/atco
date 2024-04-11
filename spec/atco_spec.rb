@@ -8,14 +8,6 @@ describe Atco do # rubocop:disable Metrics/BlockLength
     expect(Atco::VERSION).not_to be nil
   end
 
-  it "should output file for debugging!" do
-    result = Atco.parse("spec/fixtures/example.cif")
-    File.open("test.output", "w+") do |f|
-      f.flush
-      f.write(JSON.pretty_generate(result))
-    end
-  end
-
   it "should parse header from fixture" do
     result = Atco.parse("spec/fixtures/example.cif")
     expect(result[:header]).to eq({
@@ -170,6 +162,20 @@ describe Atco do # rubocop:disable Metrics/BlockLength
 
     it "should parse 2 locations" do
       expect(@atco[:locations].size).to eq(2)
+    end
+
+    it "should output file as JSON" do
+      output = File.join(File.dirname(__FILE__), "test.output")
+      File.open(output, "w+") do |f|
+        f.flush
+        f.write(JSON.pretty_generate(@atco))
+      end
+
+      expect(File.exist?(output)).to be true
+
+      data = File.read(output)
+      json = JSON.parse(data)
+      expect(json).to be_a(Hash)
     end
   end
 end
