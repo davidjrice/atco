@@ -12,14 +12,14 @@ module Atco
       @gazeteer_code = location_header[:gazetteer_code]
     end
 
-    def to_json(*a)
+    def to_json(*attrs)
       {
         name: @name,
         identifier: @identifier,
         easting: @easting,
         northing: @northing,
         gazeteer_code: @gazeteer_code
-      }.to_json(*a)
+      }.to_json(*attrs)
     end
   end
 end

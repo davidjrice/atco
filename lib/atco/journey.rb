@@ -64,7 +64,7 @@ module Atco
       string && string == "1"
     end
 
-    def to_json(*args)
+    def to_json(*attrs)
       {
         vehicle_type: @vehicle_type,
         registration_number: @registration_number,
@@ -78,7 +78,7 @@ module Atco
         route_direction: @route_direction,
         bank_holidays: @bank_holidays,
         stops: @stops
-      }.to_json(*args)
+      }.to_json(*attrs)
     end
   end
 end

@@ -26,7 +26,7 @@ module Atco
       @record_identity = data[:record_identity]
     end
 
-    def to_json(*args)
+    def to_json(*attrs)
       {
         record_identity: @record_identity,
         location: @location,
@@ -34,7 +34,7 @@ module Atco
         timing_point_indicator: @timing_point_indicator,
         fare_stage_indicator: @fare_stage_indicator,
         bay_number: @bay_number
-      }.to_json(*args)
+      }.to_json(*attrs)
     end
   end
 end
