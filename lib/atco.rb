@@ -8,7 +8,7 @@ require_relative 'atco/stop'
 require_relative 'atco/version'
 
 module Atco
-  class << self
+  class << self # rubocop:disable Metrics/ClassLength
     @path = nil
     METHODS = {
       bank_holiday: "QH",
