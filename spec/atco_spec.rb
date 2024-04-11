@@ -4,9 +4,6 @@ require "#{File.dirname(__FILE__)}/spec_helper"
 require 'json'
 
 describe Atco do
-  before(:all) do
-  end
-
   it 'has a version number' do
     expect(Atco::VERSION).not_to be nil
   end

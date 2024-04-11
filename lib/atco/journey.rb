@@ -61,7 +61,7 @@ module Atco
     end
 
     def parse_boolean_int(string)
-      string && string == '1' ? true : false
+      string && string == '1'
     end
 
     def to_json(*args)
