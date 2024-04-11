@@ -18,6 +18,6 @@ Gem::Specification.new do |spec|
   ]
   spec.rdoc_options = ["--charset=UTF-8"]
   spec.require_paths = ["lib"]
-  spec.add_development_dependency "rake"
-  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "rake", "~> 13.0"
+  spec.add_development_dependency "rspec", "~> 3.9"
 end
