@@ -21,7 +21,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       journey_header: "QS"
     }.freeze
 
-    def parse(file) # rubocop:disable Metrics/PerceivedComplexity
+    def parse(file) # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
       @path = File.expand_path(file)
       data = File.readlines(@path)
 
