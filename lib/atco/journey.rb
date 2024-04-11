@@ -5,7 +5,7 @@ module Atco
     attr_accessor :vehicle_type, :registration_number, :identifier, :operator, :route_number, :first_date_of_operation,
                   :running_board, :last_date_of_operation, :school_term_time, :route_direction, :bank_holidays, :stops
 
-    def initialize(data) # rubocop:disable Metrics/AbcSize
+    def initialize(data) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
       @mondays = parse_boolean_int data[:operates_on_mondays]
       @tuesdays = parse_boolean_int data[:operates_on_tuesdays]
       @wednesdays = parse_boolean_int data[:operates_on_wednesdays]
@@ -64,7 +64,7 @@ module Atco
       string && string == "1"
     end
 
-    def to_json(*attrs)
+    def to_json(*attrs) # rubocop:disable Metrics/MethodLength
       {
         vehicle_type: @vehicle_type,
         registration_number: @registration_number,

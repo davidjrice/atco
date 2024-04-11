@@ -7,11 +7,6 @@
 # versions of RuboCop, may require this file to be generated again.
 
 # Offense count: 4
-# Configuration parameters: CountComments, CountAsOne, AllowedMethods, AllowedPatterns.
-Metrics/MethodLength:
-  Max: 35
-
-# Offense count: 4
 # Configuration parameters: AllowedConstants.
 Style/Documentation:
   Exclude:

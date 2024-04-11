@@ -21,7 +21,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       journey_header: "QS"
     }.freeze
 
-    def parse(file) # rubocop:disable Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+    def parse(file) # rubocop:disable Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/MethodLength, Metrics/PerceivedComplexity
       @path = File.expand_path(file)
       data = File.readlines(@path)
 
@@ -146,7 +146,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       }
     end
 
-    def parse_journey_header(string) # rubocop:disable Metrics/AbcSize
+    def parse_journey_header(string) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
       {
         record_identity: string[0, 2],
         transaction_type: string[2, 1],
