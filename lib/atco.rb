@@ -7,6 +7,7 @@ require_relative 'atco/journey'
 require_relative 'atco/stop'
 require_relative 'atco/version'
 
+# Public: Atco is a module that provides a parser for the ATCO-CIF data format.
 module Atco # rubocop:disable Metrics/ModuleLength
   class << self # rubocop:disable Metrics/ClassLength
     @path = nil

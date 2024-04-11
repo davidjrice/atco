@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 module Atco
+  # Atco::Location is a data class to abstract ATCO-CIF Location records.
   class Location
     attr_accessor :name, :identifier, :easting, :northing, :gazeteer_code
 

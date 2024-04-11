@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 module Atco
+  # Atco::Stop is a class to abstract ATCO-CIF Origin, Intermediate and Destination (Stop) records.
   class Stop
     attr_accessor :bay_number, :location, :timing_point_indicator, :fare_stage_indicator, :published_departure_time,
                   :record_identity
