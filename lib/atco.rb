@@ -9,6 +9,8 @@ require_relative "atco/version"
 
 # Public: Atco is a module that provides a parser for the ATCO-CIF data format.
 module Atco # rubocop:disable Metrics/ModuleLength
+  class UnidentifiedRecordError < StandardError; end
+
   class << self # rubocop:disable Metrics/ClassLength
     @path = nil
     METHODS = {
@@ -21,6 +23,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       origin: "QO",
       journey_header: "QS"
     }.freeze
+    METHODS_BY_RECORD_IDENTITY = METHODS.invert.freeze
 
     def parse(file) # rubocop:disable Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/MethodLength, Metrics/PerceivedComplexity
       @path = File.expand_path(file)
@@ -34,17 +37,20 @@ module Atco # rubocop:disable Metrics/ModuleLength
       header = nil
       unparsed = []
 
-      data.each do |line|
+      data.each do |line| # rubocop:disable Metrics/BlockLength
         if line == data.first
           header = parse_header(line)
           next
         end
-        METHODS.each do |method, identifier|
+
+        identifier = line[0, 2]
+        method = METHODS_BY_RECORD_IDENTITY[identifier]
+
+        begin
+          raise UnidentifiedRecordError, "Unidentified record: #{identifier}" unless method
+
           object = send("parse_#{method}", line)
-          unless object[:record_identity] && object[:record_identity] == identifier
-            unparsed << line
-            next
-          end
+          next unless object[:record_identity] && object[:record_identity] == identifier
 
           current_journey = object if object[:record_identity] && object[:record_identity] == METHODS[:journey_header]
           if object[:record_identity] && (object[:record_identity] == METHODS[:location] || object[:record_identity] == METHODS[:additional_location_info]) # rubocop:disable Layout/LineLength
@@ -63,6 +69,9 @@ module Atco # rubocop:disable Metrics/ModuleLength
             end
           end
           objects << object
+        rescue UnidentifiedRecordError
+          unparsed << line
+          next
         end
       end
       { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
