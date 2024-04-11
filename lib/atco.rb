@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require 'open3'
-require 'tempfile'
-require_relative 'atco/location'
-require_relative 'atco/journey'
-require_relative 'atco/stop'
-require_relative 'atco/version'
+require "open3"
+require "tempfile"
+require_relative "atco/location"
+require_relative "atco/journey"
+require_relative "atco/stop"
+require_relative "atco/version"
 
 # Public: Atco is a module that provides a parser for the ATCO-CIF data format.
 module Atco # rubocop:disable Metrics/ModuleLength
