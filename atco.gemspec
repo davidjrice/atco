@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.summary = "Parse ATCO .cif files to JSON with Ruby"
   s.homepage = "http://github.com/davidjrice/atco"
   s.license = "MIT"
+  spec.required_ruby_version = ">= 2.7.0"
   s.authors = ["David Rice"]
   s.email = "me@davidjrice.co.uk"
   s.files = Dir["{lib,spec}/**/*", "README.md", "Rakefile", "VERSION"]
