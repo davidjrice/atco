@@ -1,14 +1,11 @@
 # frozen_string_literal: true
 
-$LOAD_PATH.unshift(File.dirname(__FILE__)) unless
-  $LOAD_PATH.include?(File.dirname(__FILE__)) || $LOAD_PATH.include?(__dir__)
-
 require 'open3'
 require 'tempfile'
-require 'atco/location'
-require 'atco/journey'
-require 'atco/stop'
-require 'atco/version'
+require_relative 'atco/location'
+require_relative 'atco/journey'
+require_relative 'atco/stop'
+require_relative 'atco/version'
 
 module Atco
   class << self
