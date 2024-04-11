@@ -3,7 +3,7 @@
 require "#{File.dirname(__FILE__)}/spec_helper"
 require "json"
 
-describe Atco do
+describe Atco do # rubocop:disable Metrics/BlockLength
   it "has a version number" do
     expect(Atco::VERSION).not_to be nil
   end
