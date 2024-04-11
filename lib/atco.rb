@@ -42,7 +42,7 @@ module Atco
           next unless object[:record_identity] && object[:record_identity] == identifier
 
           current_journey = object if object[:record_identity] && object[:record_identity] == @@methods[:journey_header]
-          if object[:record_identity] && (object[:record_identity] == @@methods[:location] || object[:record_identity] == @@methods[:additional_location_info])
+          if object[:record_identity] && (object[:record_identity] == @@methods[:location] || object[:record_identity] == @@methods[:additional_location_info]) # rubocop:disable Layout/LineLength
             if object[:record_identity] == @@methods[:location]
               current_location = object
             else
