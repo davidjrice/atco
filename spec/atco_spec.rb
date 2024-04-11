@@ -165,7 +165,7 @@ describe Atco do # rubocop:disable Metrics/BlockLength
     end
 
     it "should output file as JSON" do
-      output = File.join(File.dirname(__FILE__), "test.output")
+      output = File.join(File.dirname(__FILE__), "artefacts", "test.json")
       File.open(output, "w+") do |f|
         f.flush
         f.write(JSON.pretty_generate(@atco))

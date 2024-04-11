@@ -1,6 +1,5 @@
 *.DS_Store
-test.output
-fixture.output
 pkg/*
 checksums/*
 *.gem
+spec/artefacts/test.json
