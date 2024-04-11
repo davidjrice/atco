@@ -37,7 +37,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       header = nil
       unparsed = []
 
-      data.each do |line| # rubocop:disable Metrics/BlockLength
+      data.each_with_index do |line, line_number| # rubocop:disable Metrics/BlockLength
         if line == data.first
           header = parse_header(line)
           next
@@ -70,7 +70,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
           end
           objects << object
         rescue UnidentifiedRecordError
-          unparsed << line
+          unparsed << {line: line, line_number: line_number}
           next
         end
       end
