@@ -2,13 +2,13 @@
 
 require_relative "lib/atco/version"
 
-Gem::Specification.new do |s|
-  s.name = "atco"
-  s.version = Atco::VERSION
-  s.description = "Simple and opinionated library for parsing ATCO .cif files to JSON with Ruby"
-  s.summary = "Parse ATCO .cif files to JSON with Ruby"
-  s.homepage = "http://github.com/davidjrice/atco"
-  s.license = "MIT"
+Gem::Specification.new do |spec|
+  spec.name = "atco"
+  spec.version = Atco::VERSION
+  spec.description = "Simple and opinionated library for parsing ATCO .cif files to JSON with Ruby"
+  spec.summary = "Parse ATCO .cif files to JSON with Ruby"
+  spec.homepage = "http://github.com/davidjrice/atco"
+  spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
   spec.authors = ["David Rice"]
   spec.email = "me@davidjrice.co.uk"
