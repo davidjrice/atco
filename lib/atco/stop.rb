@@ -6,15 +6,15 @@ module Atco
                   :record_identity
 
     def origin?
-      @record_identity == 'QO'
+      @record_identity == "QO"
     end
 
     def intermediate?
-      @record_identity == 'QI'
+      @record_identity == "QI"
     end
 
     def destination?
-      @record_identity == 'QT'
+      @record_identity == "QT"
     end
 
     def initialize(data)

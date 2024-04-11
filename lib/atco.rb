@@ -11,14 +11,14 @@ module Atco
   class << self
     @path = nil
     @@methods = {
-      bank_holiday: 'QH',
-      operator: 'QP',
-      additional_location_info: 'QB',
-      location: 'QL',
-      destination: 'QT',
-      intermediate: 'QI',
-      origin: 'QO',
-      journey_header: 'QS'
+      bank_holiday: "QH",
+      operator: "QP",
+      additional_location_info: "QB",
+      location: "QL",
+      destination: "QT",
+      intermediate: "QI",
+      origin: "QO",
+      journey_header: "QS"
     }
 
     def parse(file)
