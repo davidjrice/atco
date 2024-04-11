@@ -10,7 +10,7 @@ require_relative 'atco/version'
 module Atco
   class << self
     @path = nil
-    @@methods = {
+    METHODS = {
       bank_holiday: "QH",
       operator: "QP",
       additional_location_info: "QB",
@@ -19,7 +19,7 @@ module Atco
       intermediate: "QI",
       origin: "QO",
       journey_header: "QS"
-    }
+    }.freeze
 
     def parse(file)
       @path = File.expand_path(file)
@@ -37,13 +37,13 @@ module Atco
           header = parse_header(line)
           next
         end
-        @@methods.each do |method, identifier|
+        METHODS.each do |method, identifier|
           object = send("parse_#{method}", line)
           next unless object[:record_identity] && object[:record_identity] == identifier
 
-          current_journey = object if object[:record_identity] && object[:record_identity] == @@methods[:journey_header]
-          if object[:record_identity] && (object[:record_identity] == @@methods[:location] || object[:record_identity] == @@methods[:additional_location_info]) # rubocop:disable Layout/LineLength
-            if object[:record_identity] == @@methods[:location]
+          current_journey = object if object[:record_identity] && object[:record_identity] == METHODS[:journey_header]
+          if object[:record_identity] && (object[:record_identity] == METHODS[:location] || object[:record_identity] == METHODS[:additional_location_info]) # rubocop:disable Layout/LineLength
+            if object[:record_identity] == METHODS[:location]
               current_location = object
             else
               locations << Location.new(current_location, object)
