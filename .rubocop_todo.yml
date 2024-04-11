@@ -9,13 +9,6 @@
 # Offense count: 1
 # Configuration parameters: Severity, Include.
 # Include: **/*.gemspec
-Gemspec/DuplicatedAssignment:
-  Exclude:
-    - 'atco.gemspec'
-
-# Offense count: 1
-# Configuration parameters: Severity, Include.
-# Include: **/*.gemspec
 Gemspec/RequiredRubyVersion:
   Exclude:
     - 'atco.gemspec'
