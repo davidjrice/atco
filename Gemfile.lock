@@ -58,10 +58,6 @@ PLATFORMS
 
 DEPENDENCIES
   atco!
-  bundler (~> 2.2)
   rake (~> 13.0)
   rspec (~> 3.9)
   rubocop
-
-BUNDLED WITH
-   2.5.3
