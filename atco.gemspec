@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require_relative "lib/atco/version"
+
 Gem::Specification.new do |s|
   s.name = 'atco'
-  s.version = '1.0.0'
+  s.version = Atco::VERSION
   s.description = 'Simple and opinionated library for parsing ATCO .cif files to JSON with Ruby'
   s.summary = 'Parse ATCO .cif files to JSON with Ruby'
   s.homepage = 'http://github.com/davidjrice/atco'
