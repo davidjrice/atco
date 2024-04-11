@@ -7,7 +7,7 @@ require_relative 'atco/journey'
 require_relative 'atco/stop'
 require_relative 'atco/version'
 
-module Atco
+module Atco # rubocop:disable Metrics/ModuleLength
   class << self # rubocop:disable Metrics/ClassLength
     @path = nil
     METHODS = {
