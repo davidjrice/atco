@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    atco (1.0.0)
+    atco (1.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -58,8 +58,9 @@ PLATFORMS
 
 DEPENDENCIES
   atco!
-  rake
-  rspec
+  bundler (~> 2.2)
+  rake (~> 13.0)
+  rspec (~> 3.9)
   rubocop
 
 BUNDLED WITH
