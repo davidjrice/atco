@@ -3,3 +3,4 @@ test.output
 fixture.output
 pkg/*
 checksums/*
+*.gem

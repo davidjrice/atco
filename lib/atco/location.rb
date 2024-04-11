@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 module Atco
+  # Atco::Location is a data class to abstract ATCO-CIF Location records.
   class Location
     attr_accessor :name, :identifier, :easting, :northing, :gazeteer_code
 
@@ -12,14 +13,14 @@ module Atco
       @gazeteer_code = location_header[:gazetteer_code]
     end
 
-    def to_json(*a)
+    def to_json(*attrs)
       {
         name: @name,
         identifier: @identifier,
         easting: @easting,
         northing: @northing,
         gazeteer_code: @gazeteer_code
-      }.to_json(*a)
+      }.to_json(*attrs)
     end
   end
 end

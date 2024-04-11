@@ -1,27 +1,28 @@
 # frozen_string_literal: true
 
-require 'open3'
-require 'tempfile'
-require_relative 'atco/location'
-require_relative 'atco/journey'
-require_relative 'atco/stop'
-require_relative 'atco/version'
+require "open3"
+require "tempfile"
+require_relative "atco/location"
+require_relative "atco/journey"
+require_relative "atco/stop"
+require_relative "atco/version"
 
-module Atco
-  class << self
+# Public: Atco is a module that provides a parser for the ATCO-CIF data format.
+module Atco # rubocop:disable Metrics/ModuleLength
+  class << self # rubocop:disable Metrics/ClassLength
     @path = nil
-    @@methods = {
-      bank_holiday: 'QH',
-      operator: 'QP',
-      additional_location_info: 'QB',
-      location: 'QL',
-      destination: 'QT',
-      intermediate: 'QI',
-      origin: 'QO',
-      journey_header: 'QS'
-    }
+    METHODS = {
+      bank_holiday: "QH",
+      operator: "QP",
+      additional_location_info: "QB",
+      location: "QL",
+      destination: "QT",
+      intermediate: "QI",
+      origin: "QO",
+      journey_header: "QS"
+    }.freeze
 
-    def parse(file)
+    def parse(file) # rubocop:disable Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/MethodLength, Metrics/PerceivedComplexity
       @path = File.expand_path(file)
       data = File.readlines(@path)
 
@@ -37,13 +38,13 @@ module Atco
           header = parse_header(line)
           next
         end
-        @@methods.each do |method, identifier|
+        METHODS.each do |method, identifier|
           object = send("parse_#{method}", line)
           next unless object[:record_identity] && object[:record_identity] == identifier
 
-          current_journey = object if object[:record_identity] && object[:record_identity] == @@methods[:journey_header]
-          if object[:record_identity] && (object[:record_identity] == @@methods[:location] || object[:record_identity] == @@methods[:additional_location_info])
-            if object[:record_identity] == @@methods[:location]
+          current_journey = object if object[:record_identity] && object[:record_identity] == METHODS[:journey_header]
+          if object[:record_identity] && (object[:record_identity] == METHODS[:location] || object[:record_identity] == METHODS[:additional_location_info]) # rubocop:disable Layout/LineLength
+            if object[:record_identity] == METHODS[:location]
               current_location = object
             else
               locations << Location.new(current_location, object)
@@ -146,7 +147,7 @@ module Atco
       }
     end
 
-    def parse_journey_header(string)
+    def parse_journey_header(string) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
       {
         record_identity: string[0, 2],
         transaction_type: string[2, 1],

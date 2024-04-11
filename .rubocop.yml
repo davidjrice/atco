@@ -1,1 +1,25 @@
-inherit_from: .rubocop_todo.yml
+AllCops:
+  TargetRubyVersion: 2.7
+  SuggestExtensions: false
+  NewCops: enable
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Style/StringLiteralsInInterpolation:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Layout/LineLength:
+  Max: 120
+
+# TODO: Enable this cop after figuring out why it is failing even when mfa required is set to true
+Gemspec/RequireMFA:
+  Enabled: false
+
+
+# NOTE: I think I actually prefer to have the development dependencies in the gemspec as they
+#       are therefore visible in Rubygems.org
+Gemspec/DevelopmentDependencies:
+  Enabled: false

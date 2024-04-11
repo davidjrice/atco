@@ -1,20 +1,21 @@
 # frozen_string_literal: true
 
 module Atco
+  # Atco::Stop is a class to abstract ATCO-CIF Origin, Intermediate and Destination (Stop) records.
   class Stop
     attr_accessor :bay_number, :location, :timing_point_indicator, :fare_stage_indicator, :published_departure_time,
                   :record_identity
 
     def origin?
-      @record_identity == 'QO'
+      @record_identity == "QO"
     end
 
     def intermediate?
-      @record_identity == 'QI'
+      @record_identity == "QI"
     end
 
     def destination?
-      @record_identity == 'QT'
+      @record_identity == "QT"
     end
 
     def initialize(data)
@@ -26,7 +27,7 @@ module Atco
       @record_identity = data[:record_identity]
     end
 
-    def to_json(*args)
+    def to_json(*attrs)
       {
         record_identity: @record_identity,
         location: @location,
@@ -34,7 +35,7 @@ module Atco
         timing_point_indicator: @timing_point_indicator,
         fare_stage_indicator: @fare_stage_indicator,
         bay_number: @bay_number
-      }.to_json(*args)
+      }.to_json(*attrs)
     end
   end
 end
