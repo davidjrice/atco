@@ -32,6 +32,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
       locations = []
       journeys = {}
       header = nil
+      unparsed = []
 
       data.each do |line|
         if line == data.first
@@ -40,7 +41,10 @@ module Atco # rubocop:disable Metrics/ModuleLength
         end
         METHODS.each do |method, identifier|
           object = send("parse_#{method}", line)
-          next unless object[:record_identity] && object[:record_identity] == identifier
+          unless object[:record_identity] && object[:record_identity] == identifier
+            unparsed << line
+            next
+          end
 
           current_journey = object if object[:record_identity] && object[:record_identity] == METHODS[:journey_header]
           if object[:record_identity] && (object[:record_identity] == METHODS[:location] || object[:record_identity] == METHODS[:additional_location_info]) # rubocop:disable Layout/LineLength
@@ -61,7 +65,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
           objects << object
         end
       end
-      { header: header, locations: locations, journeys: journeys }
+      { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
     end
 
     def parse_header(string)
