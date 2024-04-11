@@ -8,10 +8,9 @@ require 'tempfile'
 require 'atco/location'
 require 'atco/journey'
 require 'atco/stop'
+require 'atco/version'
 
 module Atco
-  VERSION = '0.0.1'
-
   class << self
     @path = nil
     @@methods = {

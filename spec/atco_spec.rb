@@ -7,6 +7,10 @@ describe Atco do
   before(:all) do
   end
 
+  it 'has a version number' do
+    expect(Atco::VERSION).not_to be nil
+  end
+
   it 'should output file for debugging!' do
     result = Atco.parse('spec/fixtures/example.cif')
     File.open('test.output', 'w+') do |f|
