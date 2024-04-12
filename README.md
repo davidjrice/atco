@@ -35,3 +35,9 @@ result = Atco.parse('SVRTMAO009A-20091005.cif) # an example data file in the rep
   journies: {…}
 }
 ```
+
+### Author & Contributors
+
+The `ATCO-CIF` Ruby library was originally authored by David Rice [@davidjrice](https://github.com/davidjrice) in response to an FOI request to [Translink](https://www.translink.co.uk) for there timetable data as part of an [OpenDataNI](https://admin.opendatani.gov.uk) initiative.
+
+See [CONTRIBUTORS.md](http://github.com/davidjrice/atco/blob/master/CONTRIBUTORS.md)
