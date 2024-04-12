@@ -70,7 +70,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
           end
           objects << object
         rescue UnidentifiedRecordError
-          unparsed << {line: line, line_number: line_number}
+          unparsed << { line: line, line_number: line_number }
           next
         end
       end

@@ -200,18 +200,21 @@ RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
     end
 
     it "should not parse GS records" do
-      expect(@atco[:unparsed][0]).to eq({
-        line: "GS00001433 N                    Belfast Metro Ops                                 7000\n",
-        line_number: 3
-      })
+      expect(@atco[:unparsed][0]).to eq(
+        {
+          line: "GS00001433 N                    Belfast Metro Ops                                 7000\n",
+          line_number: 3
+        }
+      )
     end
 
     it "should not parse GR records" do
-      expect(@atco[:unparsed][1]).to eq({
-        line: "GR00001433Donegall Square East                                                                                7000\n",
-        line_number: 4
-      })
+      expect(@atco[:unparsed][1]).to eq(
+        {
+          line: "GR00001433Donegall Square East                                                                                7000\n", # rubocop:disable Layout/LineLength
+          line_number: 4
+        }
+      )
     end
-
   end
 end
