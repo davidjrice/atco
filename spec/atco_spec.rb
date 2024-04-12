@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require "#{File.dirname(__FILE__)}/spec_helper"
 require "json"
 
 describe Atco do # rubocop:disable Metrics/BlockLength
@@ -174,11 +173,7 @@ describe Atco do # rubocop:disable Metrics/BlockLength
       expect(@atco[:journeys]["139748"]).to be_a_kind_of(Atco::Journey)
     end
 
-    it "should parse 6 stops for joureny 139748" do
-      expect(@atco[:journeys]["139748"].stops.size).to eq(6)
-    end
-
-    it "should parse 6 stops for joureny 139748" do
+    it "should parse 6 stops for journey 139748" do
       expect(@atco[:journeys]["139748"].stops.size).to eq(6)
     end
 
