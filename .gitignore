@@ -3,3 +3,4 @@ pkg/*
 checksums/*
 *.gem
 spec/artefacts/test.json
+.rspec_status

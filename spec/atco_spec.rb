@@ -2,7 +2,7 @@
 
 require "json"
 
-describe Atco do # rubocop:disable Metrics/BlockLength
+RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
   it "has a version number" do
     expect(Atco::VERSION).not_to be nil
   end
