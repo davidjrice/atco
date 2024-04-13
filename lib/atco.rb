@@ -2,6 +2,7 @@
 
 require "open3"
 require "tempfile"
+require_relative "atco/header"
 require_relative "atco/location"
 require_relative "atco/journey"
 require_relative "atco/stop"
@@ -39,7 +40,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
 
       data.each_with_index do |line, line_number| # rubocop:disable Metrics/BlockLength
         if line_number.zero?
-          header = parse_header(line)
+          header = Header.parse(line)
           next
         end
 
@@ -76,16 +77,6 @@ module Atco # rubocop:disable Metrics/ModuleLength
         objects << object
       end
       { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
-    end
-
-    def parse_header(string)
-      {
-        file_type: string[0, 8],
-        version: "#{string[8, 2].to_i}.#{string[10, 2].to_i}",
-        file_originator: string[12, 32].strip!,
-        source_product: string[44, 16].strip!,
-        production_datetime: string[60, 14]
-      }
     end
 
     def parse_bank_holiday(string)
