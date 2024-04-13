@@ -39,14 +39,30 @@ RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
     )
   end
 
-  it "should parse location" do
+  it "should parse translink location" do
     expect(Atco.parse_location("QLN700000001252Conway (River Rd)                               1\r\n")).to eq(
       {
         record_identity: "QL",
         transaction_type: "N",
         location: "700000001252",
         full_location: "Conway (River Rd)",
-        gazetteer_code: "1"
+        gazetteer_code: "1",
+        point_type: "",
+        national_gazeteer_id: ""
+      }
+    )
+  end
+
+  it "should parse ulsterbus location" do
+    expect(Atco.parse_location("QLN700000015558Meetinghouse Lane                                 A0000001\r\n")).to eq(
+      {
+        record_identity: "QL",
+        transaction_type: "N",
+        location: "700000015558",
+        full_location: "Meetinghouse Lane",
+        gazetteer_code: "",
+        point_type: "",
+        national_gazeteer_id: "A0000001"
       }
     )
   end
@@ -93,7 +109,7 @@ RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
     )
   end
 
-  it "should parse journey header" do
+  it "should parse translink journey header" do
     expect(Atco.parse_journey_header("QSNTM  13986520091005        1111100  9A  9018  0               I\r\n")).to eq(
       {
         record_identity: "QS",
@@ -116,6 +132,33 @@ RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
         vehicle_type: "0",
         registration_number: "",
         route_direction: "I"
+      }
+    )
+  end
+
+  it "should parse ulsterbus journey header" do
+    expect(Atco.parse_journey_header("QSNUTS 1700  20230901999999990000010 X321e      LF              O\r\n")).to eq(
+      {
+        record_identity: "QS",
+        transaction_type: "N",
+        operator: "UTS",
+        unique_journey_identifier: "1700",
+        first_date_of_operation: "20230901",
+        last_date_of_operation: "99999999",
+        operates_on_mondays: "0",
+        operates_on_tuesdays: "0",
+        operates_on_wednesdays: "0",
+        operates_on_thursdays: "0",
+        operates_on_fridays: "0",
+        operates_on_saturdays: "1",
+        operates_on_sundays: "0",
+        school_term_time: "",
+        bank_holidays: "X",
+        route_number: "321e",
+        running_board: "",
+        vehicle_type: "LF",
+        registration_number: "",
+        route_direction: "O"
       }
     )
   end

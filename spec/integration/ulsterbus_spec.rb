@@ -21,6 +21,10 @@ RSpec.describe "with ulsterbus/Y18_Antrim_1_Sept_2023.cif" do # rubocop:disable 
     expect(@atco[:journeys].size).to eq(122)
   end
 
+  it "should parse 286 routes" do
+    expect(@atco[:routes].size).to eq(286)
+  end
+
   it "should parse journeys into Atco::Joruney objects" do
     expect(@atco[:journeys]["0722"]).to be_a_kind_of(Atco::Journey)
   end
@@ -29,7 +33,7 @@ RSpec.describe "with ulsterbus/Y18_Antrim_1_Sept_2023.cif" do # rubocop:disable 
     expect(@atco[:journeys]["0722"].stops.size).to eq(14)
   end
 
-  it "should parse 2 locations" do
+  it "should parse 530 locations" do
     expect(@atco[:locations].size).to eq(530)
   end
 
@@ -47,25 +51,7 @@ RSpec.describe "with ulsterbus/Y18_Antrim_1_Sept_2023.cif" do # rubocop:disable 
     expect(json).to be_a(Hash)
   end
 
-  it "should return 343 unparsed lines" do
-    expect(@atco[:unparsed].size).to eq(343)
+  it "should return 57 unparsed lines" do
+    expect(@atco[:unparsed].size).to eq(57)
   end
-
-  # it "should not parse GS records" do
-  #   expect(@atco[:unparsed][0]).to eq(
-  #     {
-  #       line: "GS00001433 N                    Belfast Metro Ops                                 7000\n",
-  #       line_number: 3
-  #     }
-  #   )
-  # end
-
-  # it "should not parse GR records" do
-  #   expect(@atco[:unparsed][1]).to eq(
-  #     {
-  #       line: "GR00001433Donegall Square East                                                                                7000\n", # rubocop:disable Layout/LineLength
-  #       line_number: 4
-  #     }
-  #   )
-  # end
 end

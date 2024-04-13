@@ -22,7 +22,8 @@ module Atco # rubocop:disable Metrics/ModuleLength
       destination: "QT",
       intermediate: "QI",
       origin: "QO",
-      journey_header: "QS"
+      journey_header: "QS",
+      route_description: "QD"
     }.freeze
     METHODS_BY_RECORD_IDENTITY = METHODS.invert.freeze
 
@@ -30,11 +31,11 @@ module Atco # rubocop:disable Metrics/ModuleLength
       @path = File.expand_path(file)
       data = File.readlines(@path)
 
-      objects = []
       current_journey = nil
       current_location = nil
       locations = []
       journeys = {}
+      routes = []
       header = nil
       unparsed = []
 
@@ -54,6 +55,9 @@ module Atco # rubocop:disable Metrics/ModuleLength
           next unless object[:record_identity] && object[:record_identity] == identifier
 
           case method
+          when :route_description
+            routes << object
+            next # TODO: combine journey and route somehow
           when :journey_header
             current_journey = object
           when :location
@@ -69,14 +73,12 @@ module Atco # rubocop:disable Metrics/ModuleLength
               journeys[current_journey[:unique_journey_identifier]] = Journey.new(object)
             end
           end
-          objects << object
         rescue UnidentifiedRecordError
           unparsed << { line: line, line_number: line_number }
           next
         end
-        objects << object
       end
-      { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
+      { header: header, locations: locations, journeys: journeys, routes: routes, unparsed: unparsed }
     end
 
     def parse_bank_holiday(string)
@@ -113,7 +115,9 @@ module Atco # rubocop:disable Metrics/ModuleLength
         transaction_type: string[2, 1],
         location: parse_value(string[3, 12]),
         full_location: parse_value(string[15, 48]),
-        gazetteer_code: string[63, 1]
+        gazetteer_code: string[63, 1].strip,
+        point_type: string[64, 1].strip,
+        national_gazeteer_id: string[65, 8].strip
       }
     end
 
@@ -174,6 +178,17 @@ module Atco # rubocop:disable Metrics/ModuleLength
         vehicle_type: parse_value(string[48, 8]),
         registration_number: parse_value(string[56, 8]),
         route_direction: string[64, 1]
+      }
+    end
+
+    def parse_route_description(string)
+      {
+        record_identity: string[0, 2],
+        transaction_type: string[2, 1],
+        operator: string[3, 4].strip,
+        route_number: string[8, 4].strip,
+        route_direction: string[11, 1].strip,
+        route_description: string[12, 68].strip
       }
     end
 
