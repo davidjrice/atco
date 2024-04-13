@@ -157,7 +157,7 @@ module Atco # rubocop:disable Metrics/ModuleLength
         record_identity: string[0, 2],
         transaction_type: string[2, 1],
         operator: string[3, 4].strip,
-        unique_journey_identifier: string[7, 6],
+        unique_journey_identifier: string[7, 6].strip,
         first_date_of_operation: parse_value(string[13, 8]),
         last_date_of_operation: parse_value(string[21, 8]),
         operates_on_mondays: string[29, 1],
