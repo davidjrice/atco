@@ -51,7 +51,6 @@ RSpec.describe Atco do # rubocop:disable Metrics/BlockLength
     )
   end
 
-  # QT7000000012520605   T1F0
   it "should parse destination" do
     expect(Atco.parse_destination("QT7000000012520605   T1F0\r\n")).to eq(
       {

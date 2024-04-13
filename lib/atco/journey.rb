@@ -28,9 +28,6 @@ module Atco
       @bank_holidays = data[:bank_holidays]
 
       @stops = []
-      # stops.each do |s|
-      #  @stops << Stop.new(s)
-      # end
     end
 
     def mondays?
