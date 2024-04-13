@@ -26,13 +26,20 @@ irb
 require 'rubygems'
 require 'atco'
 
-result = Atco.parse('filename.cif')
-result = Atco.parse('SVRTMAO009A-20091005.cif) # an example data file in the repo
+result = Atco.parse("filename.cif")
+# example data files in the repo
+result = Atco.parse("spec/fixtures/translink/SVRTMAO009A-20091005.cif")
+result = Atco.parse("spec/fixtures/ulsterbus/Y18_Antrim_1_Sept_2023.cif")
 
 => {
-  header: {…},
-  locations: […],
-  journies: {…}
+  header: {…}, # Atco::Header
+  locations: […], # Atco::Location
+  journeys: {
+    "journey_identifier": {…} # Atco::Journey
+  },
+  unparsed: [
+    {line: "unparsed line", line_number:1234}
+  ]
 }
 ```
 
