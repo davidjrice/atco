@@ -2,5 +2,5 @@
 pkg/*
 checksums/*
 *.gem
-spec/artefacts/test.json
+spec/artefacts/*.json
 .rspec_status
