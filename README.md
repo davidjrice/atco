@@ -5,34 +5,37 @@ ATCO-CIF is the format of choice for UK public transport authorities. This is a 
 * ATCO (Association of Transport Coordinating Officers)
 * CIF (Common Interface File)
 
-* **Official spec:** [http://www.pti.org.uk/CIF/atco-cif-spec.pdf](http://www.pti.org.uk/CIF/atco-cif-spec.pdf)
+* **Official spec:** ~~[http://www.pti.org.uk/CIF/atco-cif-spec.pdf](http://www.pti.org.uk/CIF/atco-cif-spec.pdf)~~
+* **NOTE**: official spec is no-longer available from the above URL but can be found on archive.org
+* A copy of the [atco-cif-spec.pdf](http://github.com/davidjrice/atco/blob/master/docs/atco-cif-spec.pdf) is included in the `docs` folder in this repo
 
 ### USAGE
 
-Currently this library is under-development and has several things left to do before it is perfect (see the [todo.md](http://github.com/davidjrice/atco/blob/master/TODO.md) list ).
+Currently this library is under-development and has several things left to do before it is perfect (see the [TODO.md](http://github.com/davidjrice/atco/blob/master/TODO.md) list ).
 
-* clone this library
-* start an irb session
-* put the cif file in ./data (needs to change from being hardcoded)
+* clone this library `git clone git@github.com:davidjrice/atco.git`
+* or install the gem `gem install atco`
+* start an irb session (with the helper console command) `bin/console`
 
 Code example, for more detailed internal api usage see the spec files.
 
 
 ```ruby
-gem install atco
-irb
+require "rubygems"
+require "atco"
 
-
-require 'rubygems'
-require 'atco'
-
-result = Atco.parse('filename.cif')
-result = Atco.parse('SVRTMAO009A-20091005.cif) # an example data file in the repo
+result = Atco.parse("filename.cif")
+result = Atco.parse("data/SVRTMAO009A-20091005.cif")
 
 => {
-  header: {…},
-  locations: […],
-  journies: {…}
+  header: {…}, # Atco::Header
+  locations: […], # Atco::Location
+  journeys: {
+    "journey_identifier": {…} # Atco::Journey
+  },
+  unparsed: [
+    {line: "unparsed line", line_number:1234}
+  ]
 }
 ```
 
