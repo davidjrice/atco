@@ -30,7 +30,6 @@ module Atco # rubocop:disable Metrics/ModuleLength
       @path = File.expand_path(file)
       data = File.readlines(@path)
 
-      objects = []
       current_journey = nil
       current_location = nil
       locations = []
@@ -69,12 +68,10 @@ module Atco # rubocop:disable Metrics/ModuleLength
               journeys[current_journey[:unique_journey_identifier]] = Journey.new(object)
             end
           end
-          objects << object
         rescue UnidentifiedRecordError
           unparsed << { line: line, line_number: line_number }
           next
         end
-        objects << object
       end
       { header: header, locations: locations, journeys: journeys, unparsed: unparsed }
     end
